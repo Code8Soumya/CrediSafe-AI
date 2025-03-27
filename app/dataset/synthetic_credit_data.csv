@@ -1,0 +1,1001 @@
+Marital_Status,Occupation,Num_Bank_Accounts,Num_Credit_Cards,Credit_Utilization_Ratio,Outstanding_Debt,Monthly_Balance,Credit_Score,Credit_Mix,Num_Loans,Loan_Types,Credit_Inquiries,Total_EMI,Min_Amount_Paid,Payment_Behaviour,Collateral_Type,Collateral_Value,Interest_Rate,Due_Date_Delay,Delayed_Payments,Credit_Limit_Change
+In a Relationship,Journalist,3,1,33.026576221574885,1829.59,506.34778008833894,Standard,_,2.0,sdv-pii-8994h,2.0,2037.1047902856437,,Low_spent_Medium_value_payments,No Collateral,26931,7,17,1.0,2.19757764505799
+Single,Accountant,3,1,33.205815304517735,4569.63,457.33635941947784,Standard,_,-3.0,sdv-pii-bbo7i,14.0,0.0,,Low_spent_Small_value_payments,Bonds,185214,60,5,10.0,-1.7489464359459506
+Widowed,Entrepreneur,9,1,29.880314929128062,4984.82,606.0391238670427,Standard,Good,6.0,sdv-pii-wsa1b,6.0,0.0,,Low_spent_Small_value_payments,No Collateral,31362,44,-5,1.0,0.5730526884179978
+Engaged,Lawyer,10,1,38.52369142089514,4984.82,612.2705630381594,Standard,Good,-3.0,sdv-pii-ynk2h,6.0,0.0,,Low_spent_Large_value_payments,Bonds,164977,113,18,1.0,0.670935432768653
+Separated,Developer,6,1,34.37798977084411,1699.79,515.9375172766674,Good,Good,3.0,sdv-pii-3hbz9,1.0,0.0,,High_spent_Small_value_payments,Vehicle,139228,109,-1,17.0,3.7585566563052932
+Single,Engineer,5,1,41.51328788148247,1113.66,65.77090310342805,Good,Good,-5.0,sdv-pii-gjwho,2.0,3355.304677607551,,High_spent_Small_value_payments,Property,199002,58,19,13.0,3.2521183056809404
+Widowed,Doctor,3,1,24.108870443447266,1854.22,493.0568688748467,Standard,_,3.0,sdv-pii-rx37i,9.0,0.0,,!@9#%8,Stocks,85854,71,31,21.0,12.802812391571482
+Separated,Mechanic,10,1,34.02790698516175,4964.01,465.5930332803417,Good,Standard,2.0,sdv-pii-lvbfh,9.0,1097.4944225077018,,High_spent_Small_value_payments,Stocks,194566,102,4,10.0,-2.4282182829218444
+Single,Musician,13,1,41.51328788148247,4117.06,506.8006517849266,Good,Bad,-4.0,sdv-pii-ge8ir,11.0,81050.0,,High_spent_Small_value_payments,Vehicle,31848,110,2,13.0,0.6365896792399521
+Married,Lawyer,1,2,22.53759303178384,4695.83,589.9518398474361,Standard,Bad,1.0,sdv-pii-8d1fy,5.0,0.0,,!@9#%8,Property,65576,63,14,8.0,3.545319141846943
+Separated,Entrepreneur,4,1,35.684015768950346,4591.57,408.86774410811626,Standard,Standard,1.0,sdv-pii-1vrel,6.0,4766.614363154855,,!@9#%8,No Collateral,38680,66,3,11.0,-1.3486386526203527
+Married,Manager,4,1,41.51328788148247,1801.43,369.97293068003125,Standard,Good,-2.0,sdv-pii-8kyls,12.0,918.1361472350388,,Low_spent_Small_value_payments,Stocks,18193,77,2,3.0,0.15752412474819177
+Married,Entrepreneur,5,1,40.55710856163818,4984.82,559.0727235445758,Standard,Standard,-2.0,sdv-pii-xd0up,11.0,3758.7151920762617,,Low_spent_Small_value_payments,No Collateral,0,57,-5,21.0,0.0939320798987584
+Married,Writer,2,1,39.20798242805533,1427.3,476.98807659275406,Good,Bad,-7.0,sdv-pii-gxobs,4.0,0.0,,High_spent_Large_value_payments,Stocks,35741,92,62,1.0,2.1708691454135964
+Married,Accountant,5,19,34.238540169545765,2001.58,227.41564143632235,Standard,Bad,2.0,sdv-pii-sivg9,1.0,269.73510613291216,,Low_spent_Small_value_payments,Property,193842,46,-3,19.0,2.1300714578452338
+Single,Lawyer,5,1,35.1929610242903,2100.0,311.57934379341043,Good,Standard,-1.0,sdv-pii-zagh1,13.0,3770.616427645811,,High_spent_Large_value_payments,Property,119686,93,-3,11.0,9.971027472779944
+Single,Manager,0,35,40.6583065556408,1734.5,603.6163545077111,Poor,Good,-4.0,sdv-pii-5iuns,12.0,745.5132017396088,,High_spent_Large_value_payments,No Collateral,143740,1,-5,2.0,-0.5823224083903442
+Married,Journalist,7,1,22.626731540271415,4636.28,607.3096878404382,Good,_,3.0,sdv-pii-g63vu,2.0,0.0,,Low_spent_Medium_value_payments,No Collateral,109287,72,21,8.0,1.770744433311906
+Separated,Accountant,4,1,37.34007541661905,790.52,25.29240814195305,Poor,Standard,4.0,sdv-pii-wgbv5,12.0,2528.864987673437,,Low_spent_Small_value_payments,No Collateral,95459,106,12,14.0,1.3518449712366758
+Single,Media_Manager,3,1,28.121351827690294,3546.97,603.4780684706504,Standard,Standard,-1.0,sdv-pii-cuyol,3.0,4573.926921062977,,Low_spent_Small_value_payments,No Collateral,71618,76,9,7.0,1.2908225565373037
+Married,Entrepreneur,3,1,38.60782179122084,4131.4,297.6207822806975,Standard,_,0.0,sdv-pii-9wwty,4.0,1358.7229090575956,,Low_spent_Small_value_payments,Property,64369,37,36,1.0,0.13637011216539285
+Widowed,Media_Manager,0,1,41.51328788148247,3089.2,627.010512932872,Poor,Standard,3.0,sdv-pii-g0qug,2.0,570.3957901316298,,High_spent_Medium_value_payments,Property,199002,90,43,12.0,2.077153261311441
+Widowed,Writer,7,1,31.211954530536428,1871.31,618.1307856036126,Good,Good,-2.0,sdv-pii-jkins,7.0,4068.505225471104,,Low_spent_Small_value_payments,Vehicle,104759,85,-5,18.0,0.9548218571168352
+Single,Lawyer,8,1,30.780101267516173,2115.15,585.186272868592,Standard,Good,7.0,sdv-pii-1mr3f,3.0,0.0,,!@9#%8,Stocks,84917,35,-3,2.0,3.059294319907659
+Single,Developer,4,1,41.51328788148247,4984.82,455.1680524481096,Standard,Standard,2.0,sdv-pii-mw36n,7.0,1723.2189598801224,,Low_spent_Small_value_payments,No Collateral,65030,71,-3,19.0,1.1103925993459125
+Single,Scientist,6,1,41.51328788148247,1789.45,541.3115101610217,Poor,Standard,-2.0,sdv-pii-hoe4z,12.0,578.0699840596286,,Low_spent_Small_value_payments,Vehicle,128503,90,-3,18.0,0.7083834475807409
+Single,Scientist,1,1,28.924573110142944,507.19,496.80515160631285,Good,Bad,4.0,sdv-pii-jjp6h,1.0,1870.571027280417,,Low_spent_Small_value_payments,Stocks,176266,72,12,,1.1960679422299352
+Married,Writer,1,1,35.52965895850769,2085.72,387.0610674302575,Standard,Bad,-5.0,sdv-pii-u1919,5.0,0.0,,High_spent_Small_value_payments,Vehicle,148647,94,11,10.0,-1.5180812982348364
+Divorced,Journalist,5,1,36.53319508515657,1373.79,614.4197501559296,Standard,Good,-4.0,,7.0,5323.203207659698,,High_spent_Medium_value_payments,No Collateral,100729,20,3,6.0,5.155207023494316
+Married,_______,6,1,35.83063860979586,4354.11,414.47820259391466,Good,Standard,3.0,sdv-pii-gi74r,1.0,2926.7661556753437,,High_spent_Large_value_payments,Bonds,9462,31,13,23.0,10.323378813487972
+Engaged,Lawyer,3,1,33.1412133753855,970.0,92.12381490474752,Standard,Bad,4.0,sdv-pii-4sejp,1.0,2436.046959008011,,Low_spent_Small_value_payments,Stocks,49896,67,23,20.0,-0.45820144518424666
+Married,Accountant,4,4,41.51328788148247,4984.82,421.71324564409906,Good,Good,-7.0,sdv-pii-1llk0,8.0,684.2900788749995,,Low_spent_Small_value_payments,Stocks,167600,35,-5,1.0,-0.460779034952739
+Separated,Writer,7,3,41.18633420098228,856.16,548.5777831429042,Standard,Standard,0.0,sdv-pii-7rckj,15.0,34.33734343912519,,Low_spent_Small_value_payments,Vehicle,199002,83,-1,14.0,-3.44
+Engaged,Entrepreneur,11,1,37.611471447505096,1799.66,411.60931378589873,Standard,Bad,8.0,sdv-pii-oskdw,3.0,4675.985639611495,,Low_spent_Small_value_payments,Stocks,176478,88,14,19.0,17.22029140745108
+Widowed,Entrepreneur,8,1,39.024137635522415,1427.51,648.1029800430539,Good,_,-2.0,,3.0,0.0,,Low_spent_Medium_value_payments,Vehicle,173038,29,11,16.0,-0.19574964957649765
+Separated,_______,5,30,41.51328788148247,2874.76,424.5254595378527,Good,_,-6.0,sdv-pii-6hxou,0.0,0.0,,!@9#%8,Stocks,57828,80,28,4.0,10.638414707088756
+Widowed,Lawyer,12,1,33.910251408126776,3244.36,567.7042696467122,Good,Standard,-100.0,sdv-pii-42s2t,15.0,2086.0783281503377,,!@9#%8,Bonds,6343,55,9,22.0,7.735737850268643
+Married,Entrepreneur,5,1,34.76779984432563,1057.45,530.9296557791192,Standard,_,-1.0,sdv-pii-1vbut,7.0,0.0,,High_spent_Medium_value_payments,Bonds,195637,55,18,10.0,15.31758423187969
+Engaged,Lawyer,9,1,35.396115174005025,2255.38,1120.751173160778,Poor,_,9.0,sdv-pii-2dqkp,4.0,0.0,,Low_spent_Large_value_payments,Stocks,0,97,-3,19.0,7.292353752045322
+In a Relationship,Lawyer,3,1,38.354313312553,1487.67,590.1367823472187,Standard,Standard,-1.0,sdv-pii-3wf43,13.0,2300.384447844797,,Low_spent_Large_value_payments,Property,20386,74,2,12.0,11.741621469749637
+Married,Musician,9,1,33.234697860602864,1016.79,601.280189794046,Good,Bad,2.0,sdv-pii-nkd4c,15.0,1270.826295694299,,High_spent_Medium_value_payments,No Collateral,153863,43,-5,23.0,0.6274586702968064
+Divorced,Writer,10,1,34.03664890431588,970.3,397.42572367551685,Good,Good,-3.0,,3.0,3657.3492109363624,,High_spent_Large_value_payments,Vehicle,169630,43,-5,17.0,-0.3044653950034588
+Engaged,Musician,7,1,30.289539608129388,1137.03,365.1058350173641,Standard,Standard,3.0,sdv-pii-j83hv,13.0,3465.4730053423946,,High_spent_Small_value_payments,Bonds,64491,84,26,9.0,-0.4363085146904586
+Single,Writer,1,1,41.51328788148247,4984.82,549.4318451446853,Standard,_,0.0,sdv-pii-5i13l,3.0,0.0,,High_spent_Small_value_payments,Property,111148,85,62,8.0,3.8320249293734525
+Divorced,Entrepreneur,13,1,34.80335124728809,1665.28,369.91896294609114,Good,Good,5.0,,13.0,1516.6236344864449,,High_spent_Small_value_payments,Bonds,178778,1,4,25.0,-0.487819848666617
+Separated,Journalist,6,1,41.51328788148247,3629.05,271.0360234110202,Poor,Bad,-3.0,sdv-pii-trb4h,8.0,1154.6518898451002,,Low_spent_Small_value_payments,Vehicle,65122,84,-5,7.0,1.9204555697728765
+Widowed,_______,1,17,41.51328788148247,1596.69,535.0271333663427,Standard,Standard,0.0,sdv-pii-pt8ul,7.0,3705.4522627585,,High_spent_Small_value_payments,No Collateral,199002,66,6,20.0,0.15414394012126564
+Married,Architect,3,33,39.02041326314229,3780.95,487.2326499233302,Standard,Standard,-1.0,sdv-pii-bfeim,9.0,1630.1029611209844,,High_spent_Small_value_payments,Vehicle,199002,75,27,,1.91099821647407
+Widowed,Writer,5,1,41.51328788148247,2130.41,403.7726109011409,Good,Bad,3.0,,15.0,2158.6986348623873,,High_spent_Large_value_payments,Property,39949,85,-5,12.0,2.4662048175728817
+Separated,Scientist,4,1,41.51328788148247,1965.89,642.8987259118838,Standard,Good,2.0,sdv-pii-ytjlr,10.0,3927.3304398112637,,Low_spent_Small_value_payments,Bonds,65696,46,10,10.0,3.6862395430526824
+Widowed,Journalist,11,1,28.155163027537757,2241.13,596.4769358501599,Standard,Standard,-4.0,sdv-pii-oxpva,10.0,0.0,,High_spent_Small_value_payments,Bonds,181923,26,-5,21.0,0.8917843323514116
+Single,Scientist,7,18,26.19210313871688,2326.09,353.83870126430406,Standard,Standard,-27.0,sdv-pii-nnlqz,1.0,2076.174353393901,,High_spent_Medium_value_payments,Vehicle,112484,106,6,14.0,6.4680001573092065
+Divorced,Scientist,4,1,26.183386865169176,2362.98,419.9383654631257,Standard,Good,-6.0,sdv-pii-n7kgr,0.0,2258.5317062716294,,High_spent_Medium_value_payments,Vehicle,65984,41,3,14.0,1.3856460499921077
+Widowed,Writer,2,1,23.132685735741052,4984.82,417.4097836682779,Standard,_,8.0,sdv-pii-ekzlq,6.0,4353.21203303503,,High_spent_Large_value_payments,Vehicle,0,60,-2,1.0,4.354268428995138
+Single,Doctor,10,1,41.51328788148247,4557.21,633.7573590379027,Standard,Standard,-100.0,sdv-pii-ajt1n,8.0,3953.4119515746397,,High_spent_Large_value_payments,No Collateral,167412,55,-5,14.0,1.482832431942371
+Married,_______,5,1,30.56442559658328,1102.35,539.2730222219013,Poor,Standard,-3.0,sdv-pii-pz62z,1.0,3483.1658839010565,,!@9#%8,Bonds,112419,72,-5,10.0,8.649714116057075
+Married,Accountant,0,1,35.85453789543007,1996.34,190.01535485626349,Standard,Good,-4.0,,5.0,2503.018062769966,,High_spent_Large_value_payments,Bonds,139638,97,9,13.0,8.234334691591979
+In a Relationship,Media_Manager,9,1,31.29430472788528,558.19,501.66413200917435,Standard,Good,-1.0,sdv-pii-s7kz6,14.0,4479.162097039615,,High_spent_Medium_value_payments,No Collateral,49732,7,47,21.0,3.5185383423351375
+In a Relationship,Engineer,8,17,31.79138274190828,2356.11,564.8389799438578,Standard,Standard,-3.0,sdv-pii-vv8pl,9.0,1873.4313679430052,,High_spent_Large_value_payments,Property,156501,1,-5,17.0,-0.2024728343363913
+In a Relationship,Teacher,2,1,33.76244673828961,1541.31,478.02426713426144,Standard,Standard,0.0,sdv-pii-muj4v,11.0,0.0,,High_spent_Medium_value_payments,Vehicle,180922,30,14,21.0,0.3958669390386742
+Single,Mechanic,6,1,29.145505537744,1440.62,350.2614419801984,Standard,Bad,-1.0,sdv-pii-wph2b,7.0,209.9189661869577,,Low_spent_Medium_value_payments,Stocks,0,69,-5,9.0,1.2990421891701285
+Married,Scientist,7,1,28.291898289230875,172.51,393.81202769563856,Standard,Good,-0.0,sdv-pii-wlubv,2.0,1008.097968927038,,Low_spent_Medium_value_payments,No Collateral,102813,101,8,15.0,5.156448723969513
+Widowed,Writer,2,9,35.60875431893255,1252.37,647.9565763581932,Standard,Good,4.0,sdv-pii-9qy9a,10.0,0.0,,High_spent_Small_value_payments,Stocks,149341,66,-5,12.0,-1.4773536422640676
+Married,Entrepreneur,10,1,39.01556796868492,1928.73,519.2400511479389,Standard,Good,-2.0,,5.0,1773.5008103643754,,High_spent_Large_value_payments,Stocks,68106,44,5,2.0,1.9567686756570462
+Married,Writer,6,1,34.01193947027248,833.6,95.70334796907741,Standard,_,-6.0,sdv-pii-tj3fa,5.0,2737.158312008653,,!@9#%8,Bonds,121777,82,15,1.0,7.689558009668982
+In a Relationship,Musician,11,1,34.470729886947026,4131.35,369.6936953937136,Standard,Standard,,sdv-pii-w4l7o,11.0,3744.5424943125645,,Low_spent_Small_value_payments,Bonds,28772,42,-4,24.0,3.726374260735917
+Married,Musician,3,1,22.53759303178384,1294.35,322.20040303473615,Good,_,-6.0,sdv-pii-nixcl,3.0,0.0,,!@9#%8,Stocks,52195,79,20,1.0,22.083713134230855
+Separated,Developer,5,28,32.595236948229775,2078.71,904.5257328214387,Poor,Standard,4.0,sdv-pii-rjk0j,0.0,1544.9396635970893,,Low_spent_Small_value_payments,No Collateral,125015,28,3,10.0,-0.653786515867794
+In a Relationship,Writer,6,30,29.505294485055977,1219.04,1007.7056032345992,Poor,Bad,-4.0,sdv-pii-wz44c,15.0,0.0,,Low_spent_Medium_value_payments,Vehicle,98821,95,8,6.0,7.119216173395919
+Widowed,Lawyer,5,1,26.319982476837353,682.6,90.71075471282043,Standard,Good,5.0,sdv-pii-g3jtt,3.0,0.0,,Low_spent_Small_value_payments,Property,136783,84,18,12.0,10.195696086859495
+Widowed,Entrepreneur,0,5,24.28070635099364,3909.94,558.5415132099874,Good,Standard,-2.0,sdv-pii-8fo0m,4.0,702.4349074486329,,Low_spent_Small_value_payments,Stocks,199002,62,-4,13.0,9.377407133444683
+Married,Developer,2,1,29.718903637332694,938.36,347.26266190658487,Poor,Standard,-4.0,sdv-pii-7ayj9,4.0,2402.1903224062803,,Low_spent_Small_value_payments,Stocks,0,70,4,17.0,5.335130549963051
+Single,Entrepreneur,8,1,29.422337575156618,1253.45,525.1220944661513,Standard,Good,3.0,sdv-pii-10pn4,1.0,0.0,,High_spent_Medium_value_payments,Vehicle,199002,100,43,,0.45998564530760877
+Married,Scientist,11,1,38.653799437961865,3372.15,551.7144692433475,Poor,_,-0.0,sdv-pii-c5czk,12.0,2010.6376397709257,,High_spent_Large_value_payments,Stocks,159389,1,-1,12.0,-1.3677875046601367
+In a Relationship,Scientist,4,1,22.53759303178384,1040.81,562.2561917309579,Good,Bad,-0.0,sdv-pii-jsxva,4.0,3154.502459217897,,High_spent_Medium_value_payments,Stocks,72926,69,-5,5.0,23.871200472595216
+Divorced,Accountant,1,1,38.744606442421464,3763.05,456.1063448167596,Poor,Standard,-0.0,sdv-pii-jzg72,0.0,1568.0292455929086,,Low_spent_Small_value_payments,Vehicle,70493,35,-5,9.0,6.384318864667471
+Single,Media_Manager,11,29,36.256489495283645,1802.23,305.5276785118499,Good,Standard,5.0,sdv-pii-5uiik,11.0,2212.8937110860275,,High_spent_Small_value_payments,Vehicle,167652,78,-5,16.0,-1.0982058412350915
+Separated,Doctor,4,1,37.228760554142625,109.42,633.4679733956671,Standard,Good,-3.0,sdv-pii-1wmpa,12.0,3503.680005312322,,!@9#%8,Stocks,21535,101,-3,11.0,6.906333359433889
+Single,Journalist,0,1,40.056075305473485,3485.07,570.407430025956,Poor,Standard,-4.0,sdv-pii-n7ju9,15.0,896.1698091502853,,Low_spent_Large_value_payments,Property,199002,107,5,12.0,2.726077404766249
+Single,Mechanic,4,1,40.79178491461266,1161.33,283.30103419475176,Good,_,2.0,sdv-pii-1s9of,14.0,2492.8383364990596,,Low_spent_Medium_value_payments,Vehicle,65356,59,1,16.0,0.18217240982209137
+In a Relationship,Manager,12,1,35.94843977987976,2545.45,453.0063155709804,Standard,Standard,5.0,sdv-pii-3jp5i,5.0,4431.05766732109,,Low_spent_Small_value_payments,Bonds,80993,1,2,12.0,3.981772547418897
+Single,_______,12,1,41.0343748479033,1895.55,834.7986438279298,Poor,Good,-6.0,sdv-pii-kwdp4,0.0,2140.7536012648848,,High_spent_Medium_value_payments,Bonds,42331,109,-4,18.0,6.343835084550971
+Married,Architect,6,27,39.057232812238496,1716.45,248.91462288809592,Poor,Standard,-3.0,sdv-pii-7gkv7,12.0,1538.382771401987,,High_spent_Large_value_payments,Property,167792,46,1,12.0,6.935772837326951
+Married,Teacher,3,1,30.926535740664054,4984.82,547.0004580326809,Good,Bad,-3.0,sdv-pii-1iey9,3.0,953.5293966639675,,High_spent_Medium_value_payments,Bonds,43756,37,2,9.0,3.1808303047612725
+In a Relationship,_______,1,1,34.91529668996974,3050.0,285.9806041041695,Good,Standard,-3.0,sdv-pii-bk83n,2.0,0.0,,High_spent_Small_value_payments,Bonds,57496,64,19,26.0,6.674705726980127
+Married,Engineer,1,1,34.95851104537418,3194.6,186.91729789498817,Poor,Standard,-100.0,sdv-pii-g3q52,5.0,0.0,,!@9#%8,Property,146148,74,22,18.0,11.174184251630436
+Divorced,Engineer,12,1,32.106454749114555,1572.93,561.9338425566323,Standard,Standard,-3.0,,9.0,3913.3134443393096,,Low_spent_Large_value_payments,Bonds,53622,95,-5,17.0,0.4066634981384558
+Separated,Musician,7,8,37.316655590213415,1125.02,739.7424463976275,Standard,Standard,-6.0,sdv-pii-mawv4,3.0,1184.0166703433822,,Low_spent_Medium_value_payments,Vehicle,195261,94,25,10.0,7.934336952767215
+Single,Teacher,9,1,35.53268340422893,4263.55,246.49974894794065,Good,Standard,5.0,sdv-pii-at0ug,15.0,126.89714032734686,,Low_spent_Small_value_payments,Vehicle,86916,93,15,1.0,6.890623228381574
+Single,Manager,0,1,39.00987756492622,4984.82,515.6352050054224,Good,_,3.0,sdv-pii-vb9od,4.0,0.0,,Low_spent_Small_value_payments,Bonds,168667,75,30,13.0,0.4543933500584689
+Married,Journalist,4,1,34.54623227635972,1366.0,176.54295578145081,Poor,Standard,7.0,sdv-pii-fkktp,1.0,3521.4862158488236,,Low_spent_Small_value_payments,Bonds,54282,14,27,12.0,7.663608299529553
+Separated,Manager,5,1,31.379764724400736,1084.63,247.7124715148654,Poor,Standard,-4.0,sdv-pii-1rogv,0.0,1376.8357015402287,,High_spent_Large_value_payments,Vehicle,91550,6,37,6.0,5.080020136146651
+Married,Accountant,8,1,26.77343526697975,35.54,412.4447395834666,Standard,Bad,9.0,sdv-pii-rs7cu,15.0,0.0,,Low_spent_Large_value_payments,Stocks,118845,92,-5,14.0,6.641654489311419
+Separated,Journalist,2,19,41.51328788148247,1287.16,486.7347799904824,Standard,Bad,2.0,sdv-pii-fr3eo,9.0,0.0,,!@9#%8,Bonds,199002,1,10,22.0,8.770208691129465
+Engaged,Mechanic,11,1,36.03893592293095,35.54,518.5997119249107,Standard,Standard,-3.0,sdv-pii-728ze,0.0,1204.5306195175997,,!@9#%8,Bonds,199002,1,22,18.0,11.295504956341368
+Single,Entrepreneur,2,1,34.76682242131861,1555.02,451.1645284647359,Standard,Good,0.0,sdv-pii-g38v5,8.0,2403.541694287937,,Low_spent_Small_value_payments,Property,52448,91,21,10.0,7.962310401476088
+Divorced,Manager,3,1,33.366998156457484,4984.82,549.4289558106988,Good,_,-6.0,sdv-pii-i1wi9,12.0,517.5038809457284,,High_spent_Small_value_payments,Vehicle,0,30,6,10.0,4.866255296967263
+Separated,Lawyer,5,1,34.404325007029776,4984.82,1048.7709131160532,Good,Bad,1.0,sdv-pii-f9i7s,9.0,1397.6073173388354,,High_spent_Small_value_payments,Stocks,199002,73,-4,17.0,2.835226657354867
+Divorced,Accountant,7,1,29.405105451708128,1797.27,477.95580248110184,Standard,Bad,-4.0,sdv-pii-uz2da,4.0,1429.317535843548,,Low_spent_Small_value_payments,Property,144835,35,2,10.0,1.7354780172513813
+Single,Lawyer,6,1,36.30432652512492,2046.0,593.135986399189,Standard,Standard,7.0,sdv-pii-3cyq8,1.0,0.0,,!@9#%8,Property,0,87,4,26.0,0.3287235777660529
+Separated,Entrepreneur,12,1,37.68452909944405,1053.28,647.1828127165948,Good,Standard,3.0,sdv-pii-5g6u4,15.0,2045.9557077282327,,Low_spent_Small_value_payments,Property,198400,55,-4,7.0,4.111361768486923
+Married,Writer,0,1,32.208280521701525,1371.95,402.40914675520906,Standard,Standard,4.0,sdv-pii-yuedx,15.0,1924.99345640793,,Low_spent_Small_value_payments,Property,10685,74,5,8.0,3.5073912283736357
+Single,Scientist,4,1,32.89884817098143,928.73,479.42543080755695,Standard,Good,9.0,sdv-pii-ls0hm,15.0,463.90046051293405,,!@9#%8,Property,50623,114,-4,6.0,-2.4256223390341285
+Single,Media_Manager,10,1,41.51328788148247,3840.56,354.46338783451813,Standard,_,,sdv-pii-h8jda,4.0,3732.331921004109,,!@9#%8,No Collateral,112567,98,-2,17.0,-1.3788121478311304
+Separated,Journalist,11,1,36.32784950351146,4231.96,341.4519443102947,Standard,Standard,-1.0,sdv-pii-3wvou,14.0,2374.353026171632,,High_spent_Large_value_payments,Stocks,67566,41,-3,3.0,3.263020329724929
+Single,Developer,8,1,34.58418906693612,,387.95527861213003,Standard,Standard,3.0,sdv-pii-w6amu,9.0,193.3758937216677,,High_spent_Medium_value_payments,Stocks,0,64,8,20.0,-3.44
+Separated,Musician,2,1,31.19708244940765,1025.21,494.36789789008344,Poor,Standard,-4.0,sdv-pii-x5g2t,15.0,1537.338412059083,,Low_spent_Small_value_payments,Property,49065,107,1,22.0,9.64641415991044
+Separated,Writer,12,1,38.45968442121046,1375.12,560.2861935696405,Poor,Standard,-1.0,sdv-pii-44t2c,9.0,0.0,,High_spent_Small_value_payments,Stocks,134778,63,29,19.0,4.00774614094545
+Married,Scientist,4,1,35.63220647173284,4711.59,622.5645538421206,Good,Standard,-1.0,sdv-pii-1pi15,8.0,3939.3584418484274,,!@9#%8,No Collateral,116489,72,17,18.0,1.6198519568155048
+Separated,Media_Manager,4,1,38.982562288715144,1774.83,448.1661032767098,Standard,_,-3.0,sdv-pii-6uoqo,14.0,2735.781793517932,,High_spent_Large_value_payments,Vehicle,89689,35,16,9.0,11.76177171657376
+Single,Scientist,2,1,36.503935814263485,1169.83,532.0680533698205,Poor,Bad,-3.0,sdv-pii-0eqtt,6.0,0.0,,Low_spent_Small_value_payments,Stocks,160580,70,21,23.0,4.947114739049912
+Divorced,_______,3,1,37.79536794083228,1336.6,216.0708725352759,Poor,Standard,-3.0,,0.0,292.9687859493394,,Low_spent_Small_value_payments,Property,0,92,-4,18.0,1.3943427006415403
+Married,Engineer,8,1,35.16743912019436,3745.62,583.4543307031231,Poor,Bad,-6.0,sdv-pii-dwbd6,7.0,0.0,,!@9#%8,Property,125508,74,16,16.0,4.174060677818272
+Single,Journalist,11,5,38.94947040502627,4984.82,643.7777703004092,Standard,Standard,3.0,sdv-pii-rxiqw,7.0,841.2459979749135,,High_spent_Medium_value_payments,No Collateral,91453,73,-5,17.0,1.0511504859688863
+Single,Mechanic,10,1,28.79217820570661,1444.51,542.1661500296001,Poor,Standard,-3.0,sdv-pii-ttyc3,6.0,0.0,,High_spent_Medium_value_payments,Property,70415,63,19,19.0,2.3801341469734645
+Single,Journalist,4,1,24.07823838288296,1115.53,790.7870528077265,Standard,Standard,-2.0,sdv-pii-thiy7,3.0,3624.419209654962,,Low_spent_Small_value_payments,Vehicle,103171,59,18,7.0,1.338563684583428
+Divorced,Lawyer,9,29,22.53759303178384,1595.91,469.1128953166884,Poor,Standard,1.0,sdv-pii-gifgm,13.0,0.0,,Low_spent_Medium_value_payments,Bonds,147607,105,-5,15.0,1.634799456926924
+Married,Engineer,10,1,34.39734675125841,1269.37,546.9309632691434,Good,Bad,8.0,sdv-pii-cmbl1,9.0,3935.0191016513268,,Low_spent_Small_value_payments,Property,160550,103,1,21.0,2.8281515515222315
+Single,Musician,14,8,41.51328788148247,249.84,628.5208054946074,Standard,Good,-1.0,sdv-pii-3ss1l,11.0,3832.2025400898992,,High_spent_Medium_value_payments,Property,55285,61,4,16.0,6.921015373105567
+Widowed,_______,3,1,33.27629632729273,4984.82,302.9765742408052,Standard,Standard,-1.0,sdv-pii-orhul,5.0,3014.1130744987086,,!@9#%8,Bonds,67864,84,7,17.0,0.3765768037717434
+Divorced,Musician,10,1,41.51328788148247,667.29,392.45432965535815,Standard,Bad,2.0,sdv-pii-2mb8y,13.0,1588.1391266516066,,High_spent_Small_value_payments,Vehicle,199002,64,3,1.0,-1.5682670773770608
+Divorced,Architect,3,1,37.711166048646575,1944.94,402.6798647874273,Standard,Bad,0.0,sdv-pii-robnh,6.0,4450.07608220415,,High_spent_Medium_value_payments,Bonds,159096,25,-4,8.0,2.622196424626485
+Single,Journalist,4,1,22.53759303178384,3681.16,507.422335960259,Good,Good,2.0,sdv-pii-igha7,5.0,0.0,,!@9#%8,Stocks,65817,56,9,23.0,7.91224059698232
+Single,Scientist,1,21,29.596730769907477,4471.53,314.9872121431153,Standard,_,-3.0,sdv-pii-4eh58,4.0,1579.0099602573457,,Low_spent_Small_value_payments,Property,199002,53,24,1.0,-0.7017810251006287
+In a Relationship,Scientist,13,1,41.51328788148247,1501.28,430.146621121723,Standard,Standard,-98.0,sdv-pii-jqp7j,4.0,2864.9568240165445,,Low_spent_Small_value_payments,Vehicle,181868,1,29,15.0,2.7308677684584906
+Single,Entrepreneur,5,1,29.792794448216767,862.76,617.1914505622631,Standard,Good,7.0,sdv-pii-x3ew7,5.0,327.30514579009406,,High_spent_Medium_value_payments,Property,90021,57,9,19.0,2.266490031526846
+In a Relationship,Scientist,4,1,40.081913386087066,4984.82,486.8382432718443,Standard,Good,8.0,sdv-pii-qv8hw,14.0,0.0,,Low_spent_Small_value_payments,No Collateral,0,80,15,13.0,5.056728966015194
+Single,Engineer,5,1,39.649778828617706,509.48,1060.124171575982,Standard,Bad,-1.0,sdv-pii-ru1xe,14.0,0.0,,High_spent_Medium_value_payments,Stocks,157779,110,-5,14.0,4.985628016128649
+Single,_______,1,1,31.242116996340922,4497.96,347.9740316369759,Standard,Bad,-2.0,,15.0,2149.2593556625034,,Low_spent_Small_value_payments,Bonds,118867,56,3,10.0,0.3586623558902611
+Widowed,Scientist,2,1,34.64682099728473,4090.51,539.4733912527079,Standard,Bad,6.0,sdv-pii-tl9fu,7.0,0.0,,Low_spent_Small_value_payments,Vehicle,172478,95,25,12.0,5.135352418620338
+Engaged,Media_Manager,8,1,40.42092858854458,1917.8,413.85014932149016,Standard,Good,-100.0,sdv-pii-i3mka,4.0,2295.168937782544,,High_spent_Large_value_payments,Stocks,76259,64,9,22.0,-0.038065589046106574
+Separated,Lawyer,2,11,34.92932487617914,1687.0,573.1769194636738,Standard,Bad,2.0,,8.0,0.0,,Low_spent_Medium_value_payments,Stocks,96063,28,8,7.0,1.8070873877651907
+Single,Journalist,8,13,25.95907702973103,2157.76,455.8977474652523,Good,Bad,5.0,sdv-pii-5f3ak,0.0,2704.0789812062994,,Low_spent_Small_value_payments,Stocks,137351,66,5,10.0,0.13648144716349364
+In a Relationship,Entrepreneur,9,1,34.78175776485306,4061.34,529.1623883650844,Standard,Bad,-4.0,sdv-pii-dd8m6,6.0,0.0,,High_spent_Large_value_payments,Vehicle,48929,104,0,11.0,3.8451772038779684
+Single,Musician,9,12,41.51328788148247,833.05,1087.3869522804105,Poor,Standard,-100.0,sdv-pii-6mu95,10.0,0.0,,!@9#%8,Bonds,103932,69,-1,11.0,10.88883366279572
+Married,Engineer,2,1,25.201783176170913,2208.05,118.98306364372755,Standard,Standard,2.0,sdv-pii-q7sor,0.0,0.0,,Low_spent_Small_value_payments,Property,172826,91,12,15.0,4.967808752017567
+Engaged,Musician,0,16,26.812041171560992,1747.99,545.7083981231818,Good,_,4.0,sdv-pii-agw0l,1.0,2398.915234931173,,High_spent_Large_value_payments,Stocks,1084,57,1,21.0,5.506330666282448
+Married,Manager,6,1,30.61387420495317,1255.75,525.1409630733157,Good,Bad,9.0,sdv-pii-ddcfp,10.0,0.0,,High_spent_Small_value_payments,Vehicle,149646,62,-5,12.0,4.527040569954609
+Married,Media_Manager,3,1,31.97286678520585,1890.57,46.85277526701543,Good,_,-1.0,sdv-pii-irt2d,6.0,550.3438668397147,,Low_spent_Small_value_payments,Vehicle,169255,108,10,12.0,1.7305377474120265
+Engaged,Scientist,9,1,38.90561426293312,1466.51,565.1169338733639,Standard,Standard,-3.0,sdv-pii-hkjy8,3.0,2844.561718405715,,High_spent_Small_value_payments,No Collateral,141778,105,-1,21.0,4.1022588374867155
+Married,Musician,3,1,34.85596223909324,1053.27,1115.1153709545545,Poor,Good,-4.0,sdv-pii-5pdql,15.0,0.0,,High_spent_Small_value_payments,No Collateral,54583,105,5,5.0,3.9592740226228367
+Divorced,Manager,4,1,41.51328788148247,4813.42,554.3535115327334,Good,Good,,sdv-pii-a66wr,8.0,3006.7935166533416,,Low_spent_Small_value_payments,Stocks,69446,84,12,20.0,5.2999506625737105
+Widowed,Accountant,12,1,38.16762767184958,1895.89,269.9327437905773,Good,Standard,7.0,sdv-pii-kvyfv,0.0,3645.7586910021055,,Low_spent_Medium_value_payments,Bonds,58891,20,-5,11.0,5.381153842854285
+Divorced,Lawyer,9,1,29.082460932674664,808.67,623.0851391526736,Standard,Good,0.0,sdv-pii-tto16,14.0,3563.1631033955864,,High_spent_Small_value_payments,Property,170764,23,14,1.0,-3.44
+In a Relationship,Accountant,7,1,41.51328788148247,4984.82,430.8380764316698,Standard,_,0.0,sdv-pii-e3w1m,10.0,0.0,,Low_spent_Small_value_payments,Vehicle,124210,101,-2,15.0,4.492260022269129
+Married,Accountant,12,1,40.687793179879534,35.54,426.01873015371075,Standard,Standard,1.0,sdv-pii-9cgup,8.0,2971.1986637592745,,High_spent_Small_value_payments,Vehicle,123286,8,-5,6.0,-0.6030240493256622
+Separated,Entrepreneur,4,10,31.88656026816881,3934.03,695.3005246964506,Standard,Bad,-4.0,sdv-pii-kic8l,15.0,2261.284054304878,,Low_spent_Medium_value_payments,No Collateral,199002,22,-5,,0.27640765902685427
+Separated,Musician,6,1,33.18680221223259,2347.23,314.8649230449973,Standard,Standard,-3.0,sdv-pii-eljr7,8.0,938.799339811685,,High_spent_Small_value_payments,No Collateral,199002,49,4,9.0,3.146455365964991
+Divorced,Entrepreneur,2,1,38.36851595680771,1912.69,1120.751173160778,Standard,Good,2.0,sdv-pii-xzvwb,8.0,0.0,,High_spent_Small_value_payments,Vehicle,180475,1,1,6.0,
+In a Relationship,Scientist,6,1,41.51328788148247,1940.15,434.66792631780845,Standard,Bad,9.0,sdv-pii-9m23e,8.0,2711.822242190702,,!@9#%8,No Collateral,0,1,-1,4.0,2.9681910882883003
+Married,_______,1,1,34.50203735365049,4984.82,1120.751173160778,Standard,Standard,-2.0,sdv-pii-sp6fd,8.0,305.4474569884271,,High_spent_Small_value_payments,Vehicle,38204,1,30,20.0,1.6025311638086492
+Separated,Journalist,4,18,35.720293311078635,71.92,348.40539035768546,Poor,Standard,1.0,sdv-pii-q5j4r,3.0,0.0,,High_spent_Large_value_payments,No Collateral,196105,74,30,12.0,6.528419630912448
+Separated,Teacher,8,20,27.93003196698185,4984.82,377.47221588560745,Good,_,0.0,sdv-pii-8y1ck,0.0,0.0,,High_spent_Small_value_payments,Vehicle,149226,63,32,13.0,10.037008656538628
+Widowed,Teacher,0,1,31.874064823575676,1626.4,228.80301168041245,Standard,Bad,-3.0,,13.0,1880.3912948313366,,Low_spent_Small_value_payments,No Collateral,97375,58,42,,3.1458424971114454
+In a Relationship,Accountant,3,1,39.70872431564946,4908.44,479.09720246668473,Standard,Good,-1.0,sdv-pii-jfd1f,0.0,0.0,,!@9#%8,Property,118646,11,19,18.0,4.823656745728941
+Married,Media_Manager,0,1,41.0699645158995,2853.1,348.1790330239021,Standard,Bad,-8.0,sdv-pii-iv8im,13.0,0.0,,High_spent_Medium_value_payments,Bonds,174707,63,53,23.0,5.468251520058955
+Married,Musician,2,1,27.210550081750043,2694.36,277.17688824281936,Good,Good,-4.0,sdv-pii-cdikq,15.0,2669.535118781499,,!@9#%8,Stocks,174670,1,19,19.0,12.512396426903937
+Married,Accountant,3,1,38.62184627428155,2369.73,534.0742812668648,Standard,Bad,8.0,sdv-pii-zn695,14.0,2301.7063671911783,,Low_spent_Medium_value_payments,Bonds,0,40,9,,-1.1495321140827324
+Single,Mechanic,4,1,25.54535025374495,,545.7824655718109,Standard,_,5.0,sdv-pii-1g4lm,4.0,2718.6936392361617,,Low_spent_Small_value_payments,No Collateral,47229,21,26,10.0,3.4952581166790235
+Married,Journalist,7,1,30.78485928179201,1198.03,462.17272764331415,Standard,Standard,-5.0,sdv-pii-4l8uz,0.0,3561.7893406976395,,High_spent_Medium_value_payments,Bonds,0,61,0,7.0,1.6223008660860332
+Married,Manager,7,1,28.39020453906822,35.54,334.14850727001016,Standard,Standard,-3.0,sdv-pii-ztpk1,8.0,496.68530902180487,,Low_spent_Small_value_payments,No Collateral,159407,54,-5,13.0,-0.13385429044793629
+In a Relationship,Writer,10,7,23.368473596377633,972.02,279.38771306033055,Poor,Standard,-1.0,sdv-pii-oc1ac,0.0,1039.614076278217,,Low_spent_Small_value_payments,Stocks,199002,22,12,14.0,3.1722525531141557
+Single,Scientist,12,1,41.51328788148247,157.98,419.5745480649322,Good,Bad,-3.0,,15.0,2632.520860371662,,High_spent_Medium_value_payments,Property,89402,43,13,23.0,3.9588402234183606
+Married,Teacher,10,1,38.903075563405565,1282.41,708.5506334891239,Poor,Standard,,sdv-pii-j8rn6,7.0,4781.444661969299,,High_spent_Small_value_payments,Stocks,73135,50,-5,10.0,-2.420321678137001
+Divorced,Entrepreneur,0,1,31.809628405584114,4984.82,515.0036594075707,Good,_,-3.0,sdv-pii-fd84y,15.0,1267.6516224184018,,!@9#%8,Stocks,26144,50,9,19.0,9.967005636519374
+Married,Scientist,1,1,26.640492645663173,1543.77,532.9810075356406,Poor,_,-5.0,sdv-pii-12abo,6.0,1224.9447573222758,,High_spent_Small_value_payments,No Collateral,0,1,14,1.0,-3.44
+In a Relationship,Musician,3,1,28.95220067477126,1970.19,293.10274956940987,Standard,Standard,-7.0,sdv-pii-u67a5,6.0,1725.3984474904307,,High_spent_Medium_value_payments,No Collateral,0,86,27,14.0,11.365058886456817
+Divorced,Musician,9,22,32.218584021227194,1936.45,419.56672173852513,Poor,Bad,7.0,sdv-pii-fc5vj,6.0,0.0,,Low_spent_Small_value_payments,Stocks,199002,2,-1,17.0,-0.4546308930165184
+Married,Musician,4,1,24.555557426941295,1370.91,145.5531026129755,Standard,Bad,0.0,sdv-pii-dj28d,7.0,570.4141333772832,,Low_spent_Medium_value_payments,Vehicle,0,66,26,13.0,1.112355971892165
+Widowed,Manager,3,1,33.36784252188609,4130.4,88.96720496211864,Good,Bad,1.0,sdv-pii-i5r7g,0.0,0.0,,High_spent_Medium_value_payments,Vehicle,161378,108,12,19.0,5.643182541692385
+Separated,Entrepreneur,8,1,26.534996318716836,721.63,444.1368767831774,Good,Standard,6.0,sdv-pii-vq4cx,10.0,0.0,,Low_spent_Small_value_payments,Bonds,52574,65,10,6.0,1.1664130571630915
+Widowed,Lawyer,8,1,26.22101909874316,1118.06,391.66552263354714,Poor,Good,4.0,sdv-pii-298uz,15.0,2877.1043585652897,,High_spent_Medium_value_payments,Bonds,67250,49,4,8.0,0.8134371448359685
+Separated,Scientist,5,1,33.7010250684385,3548.7,1120.751173160778,Standard,Standard,-2.0,sdv-pii-3xnto,10.0,1642.3722672629403,,Low_spent_Small_value_payments,No Collateral,0,60,19,9.0,7.26926534490212
+Single,Writer,13,1,29.466851397749192,1846.54,458.615191204247,Standard,Bad,2.0,,13.0,3785.3051476064807,,High_spent_Large_value_payments,Vehicle,140003,1,9,24.0,9.9129562652278
+Single,Writer,11,2,26.24612485438513,4311.52,645.7645082932519,Good,Bad,8.0,sdv-pii-mrukb,0.0,0.0,,High_spent_Small_value_payments,Vehicle,0,79,-5,22.0,10.436246753264722
+Divorced,Journalist,6,1,28.72714628164803,1386.75,528.1574026306319,Good,Bad,1.0,sdv-pii-yrkyx,4.0,0.0,,Low_spent_Small_value_payments,Stocks,119551,66,2,17.0,-3.44
+Married,Entrepreneur,0,1,35.89234903351628,3909.91,408.4780860142256,Poor,_,6.0,sdv-pii-hvtpq,8.0,0.0,,High_spent_Small_value_payments,Property,123979,52,28,11.0,4.3780872554984
+Married,Musician,5,1,41.51328788148247,4318.45,1120.751173160778,Poor,Standard,-1.0,sdv-pii-p02q1,15.0,0.0,,Low_spent_Small_value_payments,Bonds,104290,20,8,6.0,1.8168657790073715
+Married,Engineer,6,7,34.50376832433007,983.02,469.30565158055646,Standard,_,-4.0,,8.0,963.8009252816651,,Low_spent_Small_value_payments,Property,84667,68,16,2.0,3.3746722190084837
+Widowed,Journalist,7,1,34.54178373343545,2910.48,124.01335642734816,Standard,Bad,0.0,sdv-pii-9uavw,15.0,1455.990767986663,,High_spent_Large_value_payments,Stocks,199002,87,24,6.0,1.213488230467175
+Married,Musician,3,1,35.200970344887914,758.35,373.77459699747936,Standard,Good,1.0,,5.0,2698.9749085143544,,Low_spent_Small_value_payments,Bonds,136522,62,8,4.0,3.2570904139940176
+Divorced,Entrepreneur,5,1,32.716994529238214,4984.82,268.05450710797635,Good,Good,1.0,sdv-pii-ul3s8,5.0,4257.231559924142,,!@9#%8,Vehicle,152023,83,4,9.0,7.136857736734793
+Single,Scientist,12,1,36.26058934416413,72.1,385.45302116236405,Good,Standard,6.0,,14.0,0.0,,Low_spent_Medium_value_payments,Stocks,175389,69,16,22.0,
+Widowed,Accountant,7,30,37.03185401896981,,561.3215298732737,Poor,Good,2.0,sdv-pii-9aeo4,10.0,596.7426761273106,,High_spent_Small_value_payments,Property,0,1,10,6.0,0.1649743275993769
+Engaged,Journalist,5,1,37.03443668239411,2276.88,471.0328200637867,Standard,Good,-5.0,,0.0,2139.481802899584,,Low_spent_Small_value_payments,Stocks,14467,42,-5,15.0,2.5016274411451107
+Married,Lawyer,6,21,30.506251232256588,,1090.868664596961,Good,Good,-4.0,sdv-pii-yfh8w,2.0,0.0,,High_spent_Small_value_payments,Stocks,56848,29,21,25.0,6.475822638147413
+Married,Doctor,0,1,29.227328276086595,1841.25,388.300076655299,Good,Standard,-4.0,sdv-pii-10pcl,15.0,1591.954607866033,,Low_spent_Small_value_payments,Stocks,11672,67,62,8.0,-0.5739250109459002
+Widowed,Accountant,3,11,39.15507786020712,2219.86,279.47975338228946,Good,Bad,-4.0,sdv-pii-txovs,0.0,2123.6788814728893,,!@9#%8,Vehicle,179782,31,-5,2.0,1.2079655818793036
+Separated,Writer,0,1,28.777704480045404,4984.82,650.3426386135739,Standard,Standard,7.0,sdv-pii-9o5ek,8.0,1045.1719074741418,,Low_spent_Small_value_payments,Stocks,199002,119,23,10.0,-3.44
+Separated,Doctor,6,1,34.56244417879263,2900.18,650.3183430834436,Standard,_,1.0,sdv-pii-kwyu6,15.0,1589.929961362226,,Low_spent_Small_value_payments,No Collateral,27548,9,33,16.0,-1.1284941792687162
+Divorced,Entrepreneur,0,1,35.685464853468446,1938.71,560.9524099313611,Standard,Standard,2.0,sdv-pii-brel0,11.0,604.8130152666029,,Low_spent_Small_value_payments,Bonds,81362,109,7,12.0,16.200835656460427
+Single,Lawyer,4,1,39.37638656554425,3694.91,144.3146963793746,Poor,Standard,-1.0,sdv-pii-7902x,10.0,400.76180331467197,,High_spent_Small_value_payments,Property,162333,100,24,15.0,
+Single,Developer,2,1,41.51328788148247,1438.4,155.58319942549778,Poor,Standard,6.0,sdv-pii-rkzzc,15.0,2842.913409852637,,High_spent_Small_value_payments,Stocks,87441,35,8,13.0,0.9656409684688372
+Married,Mechanic,6,13,40.180174471983456,4984.82,524.0068115473425,Poor,Standard,3.0,sdv-pii-q5qye,0.0,3326.178014828666,,Low_spent_Medium_value_payments,Vehicle,58361,14,-5,1.0,4.268199416649561
+Single,Musician,5,1,30.079442395368886,1310.94,561.0257497861403,Standard,_,8.0,sdv-pii-7vra9,15.0,2923.7695755074806,,High_spent_Medium_value_payments,No Collateral,37979,43,29,1.0,-1.8045706132377246
+Divorced,Manager,6,1,31.817386740303295,4323.32,516.8747544102962,Standard,Standard,5.0,sdv-pii-ec464,8.0,81050.0,,High_spent_Large_value_payments,Bonds,199002,47,4,10.0,-1.798183972257056
+Engaged,Accountant,4,1,33.35553521690989,2125.3,585.5755792174756,Standard,Standard,8.0,,4.0,2646.774165074005,,Low_spent_Small_value_payments,Stocks,72979,7,14,21.0,3.56407830423439
+Single,Accountant,3,26,28.501617013787193,1339.74,765.1653872587851,Standard,Good,1.0,sdv-pii-2sg7g,7.0,19210.715876700837,,Low_spent_Small_value_payments,Property,199002,97,33,10.0,2.3907126512617296
+Married,_______,0,1,31.019784674218975,1485.49,592.5586220947459,Poor,Standard,6.0,sdv-pii-f4qfs,8.0,526.2679478566675,,Low_spent_Small_value_payments,Vehicle,199002,112,-5,8.0,-1.8051997126022288
+Separated,Writer,5,1,25.241206938537132,1227.15,153.4907437524374,Standard,Standard,,sdv-pii-0gq94,6.0,1995.0446753062165,,Low_spent_Small_value_payments,Stocks,94456,64,23,1.0,5.8697207443739075
+Married,Media_Manager,11,5,39.25671166638931,1654.79,669.8292115060362,Standard,Good,5.0,sdv-pii-3llg2,15.0,2755.231662207205,,High_spent_Large_value_payments,Stocks,132403,76,-5,22.0,0.564598910343002
+Separated,Accountant,10,1,28.908557348109643,1545.1,501.0183533008585,Poor,Standard,-4.0,sdv-pii-sapwx,13.0,4194.530384828787,,High_spent_Small_value_payments,Property,61740,89,8,26.0,8.386881325134766
+Single,Developer,11,1,38.01171617733292,1916.47,624.016685554581,Poor,Bad,-4.0,sdv-pii-ogi7s,5.0,1562.6939446635017,,Low_spent_Medium_value_payments,Stocks,38118,91,7,8.0,1.9895669467025012
+Single,Architect,6,1,39.00995869268296,1404.17,581.5541288010636,Poor,Standard,-4.0,sdv-pii-j1x6f,10.0,3748.597298905727,,High_spent_Small_value_payments,Property,114726,80,-4,22.0,-0.26916515056460266
+Single,Journalist,4,1,36.843964480044995,305.92,368.02732854741777,Good,Good,-1.0,sdv-pii-jns4o,3.0,2983.3430980411486,,Low_spent_Small_value_payments,Bonds,78841,47,-5,,3.515911668252989
+Single,Teacher,4,45,41.51328788148247,1494.34,975.3554465286777,Good,_,-5.0,sdv-pii-tevkh,12.0,0.0,,!@9#%8,Bonds,147532,74,13,4.0,4.208429978551497
+Engaged,Journalist,12,6,37.12216100860273,3350.85,550.333292223846,Good,Good,9.0,sdv-pii-7bj4z,8.0,2124.2844669350234,,!@9#%8,Vehicle,0,69,7,8.0,2.0543502811104037
+Married,Lawyer,6,39,33.0727965006644,1197.11,587.3665894194869,Poor,Good,-4.0,sdv-pii-tj51g,1.0,4407.168388709603,,Low_spent_Small_value_payments,Property,97845,70,-5,8.0,2.7676902899222275
+Single,Scientist,2,1,28.61456195491851,4984.82,420.0752319578364,Standard,Standard,8.0,sdv-pii-9y5lj,7.0,179.0580595008644,,Low_spent_Small_value_payments,No Collateral,120220,76,14,10.0,0.44811254781506804
+Engaged,Accountant,3,1,34.58848546029616,3862.7,428.4490745930158,Poor,Good,1.0,sdv-pii-yhtw6,5.0,1818.147409099453,,High_spent_Small_value_payments,No Collateral,179121,84,16,5.0,1.7556085555642928
+Single,Writer,12,1,25.912052038923694,2667.14,528.068687514923,Standard,Standard,4.0,sdv-pii-dc6ur,4.0,4324.995815293926,,High_spent_Medium_value_payments,No Collateral,0,97,0,25.0,5.515887017335487
+Widowed,Journalist,6,1,23.710993729783176,4559.74,504.8960781949221,Standard,Standard,3.0,sdv-pii-ry0ng,7.0,1127.5903492763932,,Low_spent_Small_value_payments,Vehicle,63553,63,19,8.0,0.5790283719548865
+Separated,Entrepreneur,2,1,32.838624959760985,1009.04,39.02476550886064,Standard,Standard,7.0,sdv-pii-9zb7g,14.0,644.3087789510976,,Low_spent_Small_value_payments,Property,51940,90,-5,9.0,0.8383653431580171
+Single,Accountant,5,24,38.455375686212086,1377.22,1046.6248394511856,Poor,Good,3.0,,4.0,0.0,,High_spent_Medium_value_payments,Property,170489,75,13,6.0,1.4626899542018128
+Separated,Architect,3,1,35.341484096400876,4984.82,497.49930781542093,Poor,Good,-3.0,sdv-pii-f22l5,0.0,514.3652482722066,,!@9#%8,Vehicle,55977,11,-4,9.0,23.230170260673244
+Married,Entrepreneur,0,1,39.9189234643078,3811.99,327.67839183841204,Good,Standard,-2.0,sdv-pii-k6nks,5.0,0.0,,!@9#%8,Property,84942,78,23,14.0,9.899120869955006
+Separated,Accountant,3,17,38.61423189977327,736.84,603.6241933964398,Standard,Good,3.0,sdv-pii-euti9,11.0,2885.4952308516326,,High_spent_Large_value_payments,Vehicle,89909,45,3,4.0,0.2035526082286312
+Engaged,Entrepreneur,9,1,35.344828702343875,2007.9,423.2612377331981,Standard,Good,-1.0,sdv-pii-7o9lk,1.0,650.4447237999385,,Low_spent_Medium_value_payments,Stocks,199002,70,62,7.0,2.3991324295646015
+Single,Mechanic,4,1,29.586739866618203,4984.82,610.9418713986396,Poor,Good,9.0,sdv-pii-3o4yl,5.0,1494.3328879210515,,High_spent_Large_value_payments,Vehicle,103864,1,27,15.0,0.540111807542325
+Widowed,Architect,4,1,32.23678593651558,4848.0,655.5018836292464,Good,Bad,-7.0,sdv-pii-qow0i,0.0,2926.1304287297417,,Low_spent_Small_value_payments,Property,63747,29,23,1.0,11.203998534404484
+In a Relationship,Lawyer,4,16,37.85614432546952,1773.62,644.4217149097597,Standard,Bad,-2.0,sdv-pii-tjicw,5.0,863.0770007988958,,High_spent_Small_value_payments,Property,14748,37,-5,17.0,-3.44
+Single,Accountant,4,1,33.108479668149485,2108.34,237.9552094857645,Poor,Standard,5.0,sdv-pii-sz2ft,4.0,1097.1241989721907,,Low_spent_Small_value_payments,Bonds,44735,97,-3,17.0,1.2047028016242312
+Single,Lawyer,8,1,31.636664306863995,1138.71,532.120111630865,Good,Standard,-1.0,sdv-pii-x2bja,13.0,3413.5776381888377,,Low_spent_Small_value_payments,Property,0,47,16,9.0,2.273389694103238
+Separated,Architect,3,9,35.79709177340802,1778.0,397.3866928603172,Poor,_,-4.0,sdv-pii-8vwdi,5.0,1717.2688588064927,,Low_spent_Small_value_payments,No Collateral,199002,84,-5,18.0,-2.2974006274093393
+Engaged,Doctor,9,1,25.14102270027116,1816.45,385.43138256326915,Good,Bad,3.0,sdv-pii-5xcgd,11.0,5574.983458683191,,High_spent_Small_value_payments,Property,133378,41,-5,26.0,7.085250770638812
+Divorced,Entrepreneur,7,17,31.764180005308496,1947.01,506.9786598831415,Standard,Bad,-3.0,,8.0,0.0,,High_spent_Medium_value_payments,No Collateral,199002,75,8,7.0,2.722515143867718
+In a Relationship,Entrepreneur,3,1,30.42723431721611,1767.91,721.8550162783702,Poor,Standard,-1.0,sdv-pii-x7xf0,3.0,3723.8389121480714,,Low_spent_Small_value_payments,Property,89514,8,-5,9.0,6.0652643587114605
+Separated,Musician,7,1,29.223627927566817,1888.32,357.9024364554932,Good,Standard,-3.0,sdv-pii-zwtxc,0.0,0.0,,Low_spent_Small_value_payments,Property,199002,105,15,14.0,4.326646231485048
+Married,Mechanic,5,1,41.51328788148247,1532.75,613.6391777359802,Poor,Standard,-3.0,sdv-pii-8mnhd,12.0,0.0,,High_spent_Medium_value_payments,Stocks,78812,98,2,11.0,2.906606193886489
+Engaged,Accountant,6,5,34.43228044211596,1698.55,182.09276337817502,Poor,Bad,-2.0,,3.0,4677.703876406219,,High_spent_Large_value_payments,Bonds,136357,114,1,11.0,5.4312385065026145
+Married,Mechanic,10,1,38.04178019021364,1943.16,359.3742129389557,Standard,Standard,2.0,sdv-pii-vjd4o,1.0,2898.0557898424136,,Low_spent_Medium_value_payments,Bonds,112607,91,-5,1.0,2.9234460932798196
+Married,Scientist,10,1,37.84989283176024,133.28,387.220483292385,Poor,_,-0.0,sdv-pii-s7wq0,4.0,1395.3583320795024,,Low_spent_Large_value_payments,Property,113849,59,26,26.0,-0.44664341592125734
+Widowed,Lawyer,13,1,37.99086608379372,2815.42,682.6427042463768,Poor,Good,7.0,sdv-pii-c68w7,11.0,4729.017082336222,,High_spent_Small_value_payments,Vehicle,0,3,19,18.0,-0.44139139436003116
+Single,Accountant,5,1,28.584876739504892,1721.04,604.4483570726211,Standard,Good,,sdv-pii-xiq35,1.0,486.05445086190684,,Low_spent_Small_value_payments,Property,159930,72,11,8.0,0.43107631116711254
+Divorced,Musician,5,1,38.47073291125753,4726.74,547.8865037054609,Good,Bad,7.0,sdv-pii-gwo9q,8.0,78.67209623327973,,High_spent_Medium_value_payments,Bonds,80740,86,-5,24.0,4.807382788176005
+Separated,Journalist,11,20,33.74942716365849,4950.3,1117.0867066605451,Poor,Good,4.0,sdv-pii-8rynr,5.0,4053.8089270803057,,Low_spent_Small_value_payments,Bonds,128036,80,4,4.0,1.8035964317817692
+Single,Lawyer,6,4,34.6803592290221,35.54,507.09055248235114,Standard,Standard,-6.0,,14.0,3850.6939096048905,,Low_spent_Small_value_payments,Vehicle,139417,63,9,12.0,0.20890677822638537
+Married,Lawyer,0,1,30.82988520835337,1569.89,278.37981847999407,Poor,Bad,2.0,sdv-pii-5nq93,0.0,0.0,,Low_spent_Small_value_payments,No Collateral,199002,110,21,1.0,-3.44
+Separated,Musician,8,1,33.34385007351182,1907.88,565.117561989448,Good,Good,-4.0,sdv-pii-y4y8h,15.0,1434.2516966872581,,Low_spent_Small_value_payments,Bonds,46069,96,-5,2.0,-1.27609867005168
+Divorced,Lawyer,1,1,33.5529887146804,1337.61,493.40004637851894,Poor,Standard,9.0,sdv-pii-ka5a6,15.0,0.0,,Low_spent_Small_value_payments,No Collateral,194311,78,6,9.0,0.8547323085562537
+Married,Engineer,4,8,35.64582102534234,1059.63,351.32349206088537,Poor,Bad,8.0,sdv-pii-vzyop,5.0,1173.0317358712596,,Low_spent_Medium_value_payments,No Collateral,126462,60,-5,1.0,5.650843342781217
+Engaged,Scientist,8,1,41.51328788148247,414.63,625.963569044006,Poor,Good,1.0,sdv-pii-q3or4,5.0,0.0,,High_spent_Small_value_payments,Bonds,17825,76,21,23.0,0.2870390560441969
+Widowed,Entrepreneur,6,15,31.214178801998557,4984.82,349.46849253281323,Standard,Standard,0.0,sdv-pii-yzf87,13.0,1214.4403642151572,,High_spent_Small_value_payments,Stocks,68435,88,11,24.0,2.690972170978946
+Separated,Scientist,5,1,34.37120855528095,1441.62,387.9166055048361,Poor,Standard,0.0,sdv-pii-dh2el,8.0,0.0,,Low_spent_Small_value_payments,Stocks,120822,111,-5,19.0,5.175541195378747
+Widowed,Accountant,6,1,30.48411239311681,3922.8,520.1567865725848,Good,Good,5.0,sdv-pii-9t39u,14.0,2769.7336772074214,,High_spent_Large_value_payments,Vehicle,0,47,-2,16.0,5.607324792312609
+Single,Doctor,10,1,39.011984767353866,1028.67,150.3548616405816,Standard,Bad,9.0,sdv-pii-d7bo8,0.0,0.0,,Low_spent_Small_value_payments,Bonds,144582,81,59,17.0,22.396472259233718
+Single,Musician,7,3,40.67710256108274,1844.62,534.1552077431315,Standard,Standard,-3.0,sdv-pii-dpjjh,7.0,0.0,,Low_spent_Medium_value_payments,Stocks,199002,79,13,26.0,0.8729249326339357
+Separated,Mechanic,13,1,31.92774754311856,386.77,357.35168857011115,Standard,Standard,-1.0,sdv-pii-a6yfl,9.0,3571.0432928334576,,High_spent_Small_value_payments,Bonds,111411,52,-1,9.0,1.7286141729579283
+Married,Scientist,6,1,41.51328788148247,472.34,288.5728737293578,Standard,Standard,-6.0,sdv-pii-d2mts,7.0,4868.500844654985,,High_spent_Large_value_payments,Property,0,77,-4,12.0,-0.11076343738032168
+In a Relationship,Writer,0,1,35.32311312346489,4211.22,370.12576388559813,Standard,Good,2.0,sdv-pii-p3mtv,7.0,69.5604657235081,,High_spent_Medium_value_payments,No Collateral,0,1,22,14.0,5.703584545340014
+Divorced,Journalist,11,1,35.93895119967386,1496.64,616.6224527640594,Standard,Standard,1.0,sdv-pii-g2n8m,4.0,3321.000913628204,,High_spent_Small_value_payments,Stocks,116325,79,6,11.0,-3.44
+Single,Writer,9,1,32.881007018257485,1381.39,367.94633297838175,Good,_,-4.0,sdv-pii-wwv7i,7.0,2654.3910040648902,,Low_spent_Small_value_payments,Vehicle,139037,75,7,11.0,-3.44
+Separated,Journalist,10,1,22.53759303178384,1807.53,464.9356595491146,Standard,Standard,-1.0,sdv-pii-plnal,14.0,2516.44084042498,,High_spent_Small_value_payments,Vehicle,139300,64,-3,4.0,5.579535810496894
+Single,Entrepreneur,0,1,31.77855756808958,4984.82,586.2240211379877,Poor,Good,-1.0,sdv-pii-amfpf,0.0,938.9770023270977,,Low_spent_Small_value_payments,No Collateral,38773,45,0,15.0,0.21846561666018438
+Single,_______,3,13,25.908040117836684,4974.75,544.5607044144369,Poor,Standard,6.0,sdv-pii-38vqu,11.0,1400.2026713024777,,Low_spent_Large_value_payments,Bonds,142017,87,-1,18.0,1.0529453799250206
+Engaged,Engineer,3,1,32.68094715103992,595.48,409.6013334449799,Poor,_,-1.0,sdv-pii-imb2d,8.0,914.67254631047,,High_spent_Large_value_payments,Property,57360,70,-1,9.0,10.445122172338651
+Married,Doctor,0,1,35.093665115349665,2146.09,424.3927511716182,Standard,Bad,-100.0,sdv-pii-x2t3r,5.0,917.1945272914988,,!@9#%8,Vehicle,132102,62,26,13.0,0.3516180935790443
+Single,Entrepreneur,3,1,39.18047740740145,4434.0,207.49979516854938,Standard,_,,sdv-pii-r5cv6,6.0,3541.389240212407,,High_spent_Medium_value_payments,Vehicle,38874,74,4,20.0,5.69742098144528
+In a Relationship,Architect,12,1,27.592671233919212,1640.01,586.7323429224739,Poor,Good,-100.0,sdv-pii-dkkqm,0.0,1852.3896844525252,,Low_spent_Medium_value_payments,Property,109169,10,16,19.0,11.223189720017043
+Married,Scientist,1,11,40.17866795958863,4959.12,487.07059597364974,Good,Standard,-2.0,sdv-pii-571f1,13.0,2073.2800820327807,,Low_spent_Small_value_payments,No Collateral,90791,65,26,18.0,7.128310928134095
+Single,_______,7,1,31.524741492658602,35.54,436.17565616592094,Standard,Bad,2.0,sdv-pii-pwx5c,6.0,2072.0122451195925,,Low_spent_Medium_value_payments,Bonds,20793,96,18,9.0,6.364857100128127
+Engaged,Musician,8,1,22.53759303178384,3778.61,402.4275882434363,Poor,Bad,9.0,sdv-pii-owy9h,7.0,4031.7281374768977,,Low_spent_Small_value_payments,Property,93039,62,14,3.0,3.9466696351869706
+Separated,Accountant,2,6,41.51328788148247,3610.84,447.5660262946682,Good,Good,-6.0,sdv-pii-2b117,15.0,1409.4623072608927,,High_spent_Large_value_payments,Stocks,187584,27,-5,12.0,-0.25302569759317795
+Widowed,Journalist,5,1,33.678311681510905,862.25,422.8075494857011,Standard,Good,1.0,sdv-pii-cfeiy,9.0,4381.000069473839,,High_spent_Large_value_payments,Stocks,10435,57,23,14.0,-3.44
+Widowed,_______,6,1,38.03630578820677,2222.63,55.36377333030421,Good,Standard,-96.0,sdv-pii-f6lye,15.0,960.8259608633743,,High_spent_Small_value_payments,Stocks,86208,73,25,,
+Widowed,Engineer,0,10,35.97540933859367,1775.84,624.2398175122729,Poor,_,,sdv-pii-diqk7,15.0,0.0,,High_spent_Small_value_payments,No Collateral,199002,8,-1,14.0,-1.23846692071415
+Engaged,Manager,0,1,33.29769338342963,4734.53,423.81705765595876,Good,Bad,-2.0,sdv-pii-rlr9a,0.0,0.0,,High_spent_Large_value_payments,Vehicle,34496,77,-5,14.0,3.238565728699511
+Married,Developer,1,11,41.51328788148247,4984.82,276.55611483580884,Standard,Standard,3.0,sdv-pii-xnkaa,0.0,941.6207549013371,,Low_spent_Small_value_payments,Property,110562,109,29,22.0,2.4049349861102414
+Engaged,Manager,7,1,35.94775346143137,1466.77,616.4370328960529,Poor,Good,,sdv-pii-qnjwj,8.0,2351.195410541699,,Low_spent_Small_value_payments,Bonds,110910,76,-5,10.0,-0.4658652311299898
+In a Relationship,_______,2,1,34.83272128540474,1583.09,968.0282694126965,Poor,Standard,5.0,sdv-pii-squ5l,2.0,0.0,,Low_spent_Small_value_payments,Vehicle,199002,98,-2,6.0,4.4701594783946055
+Married,Musician,6,1,37.055550559313765,4984.82,561.6189805260283,Good,Standard,2.0,sdv-pii-at1av,12.0,0.0,,High_spent_Medium_value_payments,Bonds,188898,102,6,5.0,4.966647311028213
+Single,Musician,4,1,29.371856569495833,3593.55,541.8375196944341,Standard,Good,1.0,sdv-pii-tsb7n,11.0,2553.923411369385,,!@9#%8,No Collateral,166395,70,12,11.0,2.793603625618605
+Single,Entrepreneur,3,1,41.51328788148247,1425.9,603.9256388674889,Poor,Standard,-7.0,sdv-pii-8m3fr,3.0,3699.873849235293,,High_spent_Medium_value_payments,Bonds,3176,31,-4,22.0,0.07234028830226791
+Single,Scientist,8,1,41.51328788148247,1830.39,262.0370576649484,Standard,Good,-1.0,sdv-pii-g5fqs,0.0,1755.3489200717581,,Low_spent_Medium_value_payments,Property,67554,1,18,21.0,4.05765158991927
+Married,Engineer,0,1,38.03528521942372,1758.21,348.3127243918081,Standard,Standard,-95.0,sdv-pii-mfbpi,3.0,0.0,,Low_spent_Medium_value_payments,No Collateral,1857,8,2,21.0,3.654118171224609
+Married,Architect,5,10,32.204111709845755,3128.65,421.8057922679204,Good,Standard,-5.0,sdv-pii-3sp22,5.0,243.19874323678073,,High_spent_Small_value_payments,Property,167734,101,34,10.0,4.251976056033846
+Single,Scientist,12,1,22.53759303178384,645.25,415.82526034773156,Standard,Good,2.0,sdv-pii-6o97k,5.0,0.0,,!@9#%8,Stocks,180462,30,18,1.0,4.331376898039059
+Single,_______,5,1,29.27284863485433,1697.33,535.884612319621,Standard,Bad,1.0,,6.0,0.0,,High_spent_Large_value_payments,Stocks,38947,68,24,,10.474390851645616
+Separated,Journalist,1,1,41.51328788148247,4864.33,439.38296763885296,Standard,Standard,5.0,sdv-pii-l13g0,4.0,1785.0572273630512,,High_spent_Small_value_payments,Bonds,142590,10,25,15.0,2.5018443407473487
+Single,Developer,10,1,32.958073574153275,1612.62,585.6600733930998,Standard,Bad,7.0,sdv-pii-csvsf,5.0,1781.4841697942315,,High_spent_Medium_value_payments,Bonds,0,1,-1,15.0,5.130712624376743
+Separated,Entrepreneur,0,1,38.011654972692355,2767.54,482.64580709503684,Standard,Bad,-7.0,sdv-pii-6b72k,12.0,0.0,,!@9#%8,Property,161231,16,16,9.0,2.3188908528626397
+Single,Architect,6,1,29.9758037585692,3188.95,573.0260208556457,Standard,_,2.0,sdv-pii-339o2,8.0,2038.779278870077,,Low_spent_Small_value_payments,Property,149345,82,-5,18.0,2.1963876821025927
+Separated,Musician,4,4,38.09553291545299,2692.25,555.5115817191863,Good,Standard,-2.0,,2.0,0.0,,Low_spent_Medium_value_payments,Vehicle,63241,28,-5,19.0,2.3469385583080076
+Married,Musician,0,1,27.536110710968757,1389.86,953.4296717659643,Standard,Standard,,sdv-pii-6afl3,4.0,0.0,,Low_spent_Medium_value_payments,Vehicle,125133,69,5,17.0,10.248920719122605
+Divorced,Entrepreneur,8,1,26.969480950262678,996.17,478.2154656702411,Standard,Standard,-2.0,sdv-pii-vyp3k,5.0,0.0,,Low_spent_Small_value_payments,No Collateral,128716,83,5,12.0,12.181327374402857
+Engaged,Engineer,7,1,26.614382832202963,2667.49,477.4312124900393,Good,Bad,0.0,,4.0,0.0,,Low_spent_Large_value_payments,Vehicle,106575,87,39,11.0,0.384491317698056
+Engaged,Developer,10,1,25.904435293813137,62.13,1120.751173160778,Standard,Standard,-3.0,sdv-pii-otawi,12.0,259.3793374513293,,High_spent_Medium_value_payments,Property,104997,5,-4,20.0,3.937956506211439
+Divorced,Accountant,9,1,22.53759303178384,2003.29,412.53465440089593,Good,Bad,5.0,sdv-pii-h99hb,10.0,0.0,,Low_spent_Medium_value_payments,Property,155781,82,-5,16.0,3.323742268828539
+Separated,Musician,0,1,30.52694982275947,4719.47,541.4934879528877,Poor,Good,-2.0,sdv-pii-wvm7h,0.0,2510.8079999944816,,High_spent_Medium_value_payments,Bonds,199002,55,-3,,8.242569124140324
+In a Relationship,Developer,5,1,41.51328788148247,763.3,509.75791024480515,Poor,Good,-100.0,sdv-pii-afyhb,15.0,2345.0866791465037,,Low_spent_Small_value_payments,Stocks,175678,90,3,17.0,3.2736908615328897
+Widowed,Teacher,2,1,30.395697333110537,4962.21,247.2026548140993,Poor,Bad,4.0,sdv-pii-8vjnw,8.0,3467.6776395617676,,Low_spent_Medium_value_payments,Bonds,125385,65,19,3.0,6.938254414198123
+In a Relationship,Lawyer,0,1,30.32890001076207,1233.61,960.7510302818731,Good,Good,-2.0,sdv-pii-no6ex,6.0,935.2987079217125,,High_spent_Small_value_payments,No Collateral,18116,1,30,3.0,7.893671469486226
+Married,Architect,5,1,36.31174200106622,2029.83,250.43934327628153,Good,_,8.0,sdv-pii-2qlpj,3.0,953.4959826765802,,High_spent_Small_value_payments,Property,88135,99,22,,1.6686808993804974
+Engaged,Media_Manager,3,1,27.776220502817164,720.25,934.2471869807096,Standard,Standard,7.0,,12.0,0.0,,Low_spent_Small_value_payments,Bonds,147831,73,16,15.0,
+Engaged,Journalist,7,1,31.247023065504315,1068.28,512.2858262366038,Good,Standard,-4.0,sdv-pii-l8joj,0.0,2975.246062159356,,Low_spent_Small_value_payments,Vehicle,69680,30,35,8.0,5.672334810020403
+Divorced,Entrepreneur,1,18,29.232323242835314,514.33,335.17729075259655,Standard,Good,5.0,sdv-pii-vys23,6.0,0.0,,Low_spent_Medium_value_payments,Vehicle,104757,49,-5,4.0,7.093607128376309
+Married,Teacher,5,1,35.764119281870094,3990.76,517.8174687161778,Standard,Good,-4.0,sdv-pii-n1v10,0.0,252.28331100032432,,Low_spent_Small_value_payments,Vehicle,73377,22,24,11.0,1.2118697747195881
+Married,Musician,5,1,22.99781786211298,1021.09,209.49427729482233,Standard,Standard,-100.0,sdv-pii-4xhzc,6.0,0.0,,High_spent_Medium_value_payments,No Collateral,67478,88,-5,12.0,7.328889354138439
+Single,_______,6,1,27.446261005567326,2898.28,344.6388739408882,Poor,Good,-4.0,sdv-pii-5aryg,0.0,1118.225476481413,,High_spent_Medium_value_payments,No Collateral,76561,98,-5,4.0,-3.44
+In a Relationship,Entrepreneur,9,1,38.32691490400627,4973.94,181.6388741335312,Standard,Standard,3.0,sdv-pii-i2wux,0.0,4080.331710161653,,Low_spent_Small_value_payments,Property,199002,63,3,25.0,-1.35995789333042
+Single,Manager,10,1,27.507042385868964,3288.33,500.21368634792566,Standard,_,5.0,sdv-pii-cazcn,11.0,4020.7676606656464,,Low_spent_Medium_value_payments,Vehicle,101211,88,40,,5.991294795507549
+Single,Media_Manager,2,1,36.170382324347024,1632.88,328.13007639560095,Standard,Bad,-3.0,sdv-pii-jzfpg,11.0,1040.845571174195,,Low_spent_Medium_value_payments,Vehicle,175527,75,16,12.0,2.896792316012138
+Single,Manager,0,1,26.480706940500774,792.4,238.51915723065258,Standard,Standard,1.0,sdv-pii-vka3f,9.0,4680.362871959241,,Low_spent_Small_value_payments,Bonds,0,55,32,8.0,8.458705369951405
+Divorced,Teacher,6,1,38.70404581718999,2019.62,395.37733694517436,Standard,Good,2.0,sdv-pii-8ca4m,2.0,2522.4255611453355,,High_spent_Medium_value_payments,No Collateral,91011,57,12,10.0,0.8176630389211628
+Separated,Journalist,3,1,41.13706537532729,,469.0569552982445,Standard,Bad,-6.0,sdv-pii-96f4n,0.0,0.0,,High_spent_Small_value_payments,Stocks,45637,92,4,15.0,4.671150788246473
+Engaged,Scientist,7,1,30.624397739471846,2896.91,632.9963335904885,Standard,Standard,-4.0,sdv-pii-tnw5r,6.0,3735.8658807629445,,High_spent_Medium_value_payments,Property,199002,51,4,9.0,11.296715944356528
+Married,Writer,5,1,38.19291036062501,841.17,587.2374236279663,Poor,Standard,-1.0,sdv-pii-3kwv2,8.0,3194.2396131257083,,High_spent_Small_value_payments,Stocks,0,3,5,26.0,4.1073215988317795
+Married,Teacher,2,1,29.36788656496724,1324.6,510.48569578905233,Poor,Bad,-7.0,,15.0,2462.322237450824,,High_spent_Medium_value_payments,Vehicle,184561,87,27,9.0,4.63968077852665
+Married,Lawyer,0,1,33.335154116052124,4984.82,116.72748622364384,Standard,Good,9.0,sdv-pii-i1c0w,15.0,0.0,,High_spent_Large_value_payments,No Collateral,188558,101,16,19.0,4.55261648222646
+Married,Manager,0,7,38.524388659650775,1446.23,364.8802471257836,Standard,Good,1.0,sdv-pii-mw10l,0.0,3172.007943867912,,Low_spent_Small_value_payments,Vehicle,89348,67,-5,24.0,2.114899761814682
+Single,Developer,8,1,30.98845177741837,35.54,300.9532238993101,Poor,_,3.0,sdv-pii-wd3xh,14.0,80675.22813683623,,!@9#%8,No Collateral,68529,76,28,4.0,-3.44
+Separated,Journalist,4,1,38.028087987664776,2149.99,387.96985718644044,Standard,Good,4.0,sdv-pii-ycxbm,9.0,4873.717904850672,,!@9#%8,Bonds,66362,52,-4,24.0,2.065185311699268
+Widowed,Mechanic,1,1,41.51328788148247,2816.77,511.02723235206213,Poor,Good,2.0,sdv-pii-nndpa,15.0,1646.4587634730062,,High_spent_Small_value_payments,Property,0,31,31,13.0,5.832596752362106
+Single,Media_Manager,4,1,32.64900005274072,4106.61,497.66736655486477,Poor,Standard,-3.0,sdv-pii-u0uwy,12.0,3715.2394607961296,,Low_spent_Small_value_payments,Property,173398,1,13,25.0,3.5321847764838967
+Separated,Lawyer,8,1,40.18136800399536,2947.64,65.0814075156635,Standard,Good,2.0,sdv-pii-9x6wt,5.0,4844.920559308306,,High_spent_Large_value_payments,Bonds,165073,34,17,1.0,2.1247835291113777
+Divorced,Manager,4,4,38.08447030634537,1999.92,495.54206041060945,Standard,Standard,-5.0,,6.0,0.0,,High_spent_Medium_value_payments,Property,199002,50,30,,6.447925833801462
+Single,Developer,6,1,40.191575182682115,2258.78,619.0145198092034,Standard,Bad,7.0,sdv-pii-pipkx,6.0,0.0,,Low_spent_Small_value_payments,Bonds,91332,55,5,17.0,-1.7613495113656716
+In a Relationship,Manager,2,1,41.51328788148247,1337.72,419.9352500073489,Poor,Bad,2.0,,6.0,1024.1558873038719,,Low_spent_Small_value_payments,No Collateral,175289,82,11,10.0,0.4445473020596271
+Married,Media_Manager,9,1,40.29470206189374,1042.08,213.4687028611475,Poor,Standard,-3.0,sdv-pii-wmd1x,15.0,3329.172528151949,,Low_spent_Small_value_payments,Stocks,199002,15,-5,12.0,-0.25406509109992736
+Single,Architect,10,17,34.80684030154878,1768.96,483.8903060546528,Poor,Standard,2.0,sdv-pii-uvmxt,6.0,35.34743837421516,,Low_spent_Small_value_payments,Vehicle,181462,81,-5,18.0,2.572783776709903
+Engaged,Media_Manager,10,1,30.589069300290866,4220.97,654.7606815254443,Good,_,9.0,sdv-pii-4g940,5.0,0.0,,!@9#%8,No Collateral,86963,29,20,16.0,0.14208113838945824
+Married,Teacher,1,1,35.316948695511904,3576.97,354.2644446272224,Standard,_,3.0,sdv-pii-ls62r,0.0,216.89465545642065,,!@9#%8,Stocks,123929,71,11,19.0,1.8813008801089284
+In a Relationship,Scientist,10,1,33.78497326723021,2239.53,414.95498038866066,Good,Standard,3.0,sdv-pii-ujfzg,6.0,0.0,,!@9#%8,No Collateral,77080,47,22,12.0,-0.8475740393890616
+Single,Musician,6,1,28.69832841876022,4344.47,192.32758834712698,Good,Standard,-5.0,sdv-pii-r1m57,5.0,0.0,,High_spent_Small_value_payments,Property,92565,65,-5,12.0,0.05067022712454161
+Engaged,_______,4,1,36.650228430430836,4017.54,339.3311103525577,Good,Standard,-3.0,sdv-pii-d2055,2.0,231.47479879650825,,High_spent_Large_value_payments,Bonds,181618,56,12,3.0,-3.44
+Widowed,Engineer,4,1,23.587301306299487,2058.23,553.8274266253907,Good,Standard,-4.0,sdv-pii-bis7i,2.0,1625.20402275367,,Low_spent_Small_value_payments,Vehicle,193527,88,-5,14.0,1.204947559890977
+Single,Manager,6,20,35.50630852609593,1290.51,363.05833361243793,Poor,Good,-2.0,sdv-pii-i5r4t,10.0,0.0,,High_spent_Medium_value_payments,Vehicle,106326,77,39,25.0,2.490532064703408
+Single,Scientist,11,1,41.51328788148247,665.07,1120.751173160778,Good,Standard,-2.0,sdv-pii-417sj,10.0,2844.264781734293,,Low_spent_Large_value_payments,Vehicle,0,56,-1,8.0,7.623937776061885
+Divorced,Doctor,0,13,32.277482712303645,2155.03,470.31293621987663,Poor,Standard,,sdv-pii-bplq2,8.0,1126.0806054287436,,Low_spent_Small_value_payments,Vehicle,175169,43,-2,21.0,
+Married,Musician,7,7,28.01937915857824,1445.84,335.67363122277976,Good,_,9.0,sdv-pii-zdf8a,8.0,614.7780911159551,,High_spent_Small_value_payments,No Collateral,168296,82,-3,23.0,
+Single,Writer,10,1,34.631741193485766,2622.86,285.5455143739208,Poor,Standard,5.0,,5.0,0.0,,Low_spent_Medium_value_payments,Vehicle,114146,93,-4,17.0,4.565846363010676
+Single,Lawyer,8,1,33.94833793530042,891.95,238.28275946126598,Standard,Good,0.0,sdv-pii-r38fj,9.0,0.0,,High_spent_Small_value_payments,Bonds,3664,28,-5,12.0,-3.44
+Separated,Doctor,4,1,33.97856354532916,2161.91,566.6546625456499,Standard,Bad,8.0,sdv-pii-4zto2,4.0,0.0,,Low_spent_Small_value_payments,Bonds,56545,96,22,14.0,4.192034822837985
+Engaged,Entrepreneur,0,1,38.335310820046274,1216.23,393.86537359465547,Poor,_,9.0,sdv-pii-mcddy,13.0,1769.049688322871,,High_spent_Small_value_payments,Property,99545,47,24,11.0,4.552233418719409
+Married,Entrepreneur,8,21,32.869063061957306,3736.44,481.6299172653654,Poor,Good,-3.0,sdv-pii-4f7hv,4.0,3577.2355591971213,,High_spent_Large_value_payments,Property,199002,90,-2,,-1.290000806942527
+Single,Developer,11,1,32.23051355565235,3091.33,1120.751173160778,Standard,Standard,-5.0,sdv-pii-mfe7m,8.0,493.5078584235025,,High_spent_Large_value_payments,Property,143933,46,41,8.0,-0.8059074268086741
+Separated,Scientist,1,3,33.90030522301679,3495.09,435.9188823107683,Standard,Standard,-6.0,sdv-pii-nfhtv,3.0,1548.5412263974174,,Low_spent_Small_value_payments,Stocks,65080,49,26,14.0,7.077799542581873
+Married,Teacher,0,1,29.65870477866289,1179.49,447.063960546379,Poor,_,-5.0,sdv-pii-t0wde,3.0,3727.54993159265,,High_spent_Medium_value_payments,No Collateral,134987,40,7,18.0,-3.44
+Single,Scientist,2,1,38.80581276917996,359.18,60.53771626234314,Poor,_,-3.0,sdv-pii-0cqo0,5.0,3440.7339091341582,,Low_spent_Small_value_payments,No Collateral,199002,114,17,1.0,-1.3403062587264243
+Separated,Accountant,2,1,28.27670154334503,1675.79,396.13829329981934,Poor,Standard,,sdv-pii-aivm0,5.0,0.0,,!@9#%8,Stocks,100168,88,-1,15.0,8.85654857350769
+Divorced,Accountant,1,26,36.59573130125173,4984.82,381.4014462985618,Poor,Standard,-7.0,sdv-pii-8g5d5,5.0,0.0,,High_spent_Medium_value_payments,Vehicle,199002,18,13,3.0,-3.44
+Separated,Scientist,3,1,39.97319398378443,1136.3,285.91182225238754,Standard,Standard,-4.0,sdv-pii-a3ye4,4.0,2639.0505391131187,,High_spent_Medium_value_payments,Vehicle,181939,56,16,10.0,-1.2682425266605266
+In a Relationship,_______,1,6,40.41721488951753,4984.82,1120.751173160778,Good,Standard,-3.0,sdv-pii-j10zx,0.0,0.0,,Low_spent_Small_value_payments,Bonds,129714,34,22,13.0,2.5960805849044144
+Single,Architect,7,1,32.881531567888224,761.45,471.44158544895356,Poor,Bad,9.0,sdv-pii-3i9qz,2.0,4029.6027322997834,,Low_spent_Small_value_payments,Vehicle,167285,103,17,4.0,0.15177330043197212
+Single,Musician,5,2,35.72491986468284,1072.4,339.24084693070176,Poor,Standard,8.0,sdv-pii-v80v0,15.0,3601.729045374356,,Low_spent_Small_value_payments,Property,96149,15,-5,15.0,5.515063196827905
+Widowed,Scientist,3,1,41.51328788148247,4918.4,570.3197198959817,Standard,Standard,-2.0,sdv-pii-z1k9c,3.0,0.0,,Low_spent_Medium_value_payments,Property,80647,1,21,12.0,19.964933095123754
+Married,Lawyer,8,1,40.99792848636147,1428.9,522.1114587014517,Standard,Standard,-4.0,sdv-pii-0yaoc,2.0,3377.9321476025443,,High_spent_Medium_value_payments,Property,123623,98,-5,5.0,5.413830448070206
+Separated,Doctor,1,16,33.69074699900997,2181.14,358.36374061050907,Poor,Standard,-5.0,sdv-pii-q6o5j,1.0,504.01700957908304,,Low_spent_Large_value_payments,Bonds,168348,43,10,15.0,-0.6430994015214351
+Separated,Developer,4,1,41.51328788148247,2515.81,360.63191489865807,Standard,Bad,8.0,sdv-pii-x9miq,15.0,1172.5871059308447,,High_spent_Large_value_payments,Vehicle,161952,70,-3,1.0,9.25556922020288
+Single,Accountant,4,1,35.72307898426142,552.58,506.5768665865074,Standard,Good,5.0,sdv-pii-4pdhl,15.0,730.286585476822,,High_spent_Small_value_payments,Vehicle,199002,101,-2,9.0,6.588053258021038
+Single,Entrepreneur,11,1,31.8584467457763,699.32,675.4162538242219,Standard,Good,5.0,sdv-pii-u8aoy,1.0,1612.9757090292305,,Low_spent_Medium_value_payments,Vehicle,84200,94,7,17.0,-1.169956494976046
+Single,Entrepreneur,5,1,34.63837844883802,1613.42,308.59924958443804,Standard,Good,-4.0,sdv-pii-ovw8x,0.0,3204.9475904240226,,High_spent_Medium_value_payments,Property,171779,64,2,1.0,14.228758710654517
+In a Relationship,Lawyer,0,1,34.110228844612564,523.84,316.7221237273714,Poor,_,-100.0,,6.0,551.9884722962524,,!@9#%8,Stocks,80509,65,11,19.0,12.81089870059559
+Separated,Media_Manager,3,1,37.78669607689755,3757.59,586.1190755026676,Good,Bad,9.0,sdv-pii-e8855,3.0,770.1406022219649,,!@9#%8,Stocks,84702,46,17,13.0,2.2507638154122853
+Single,Scientist,6,1,35.900877356548214,3863.17,562.7817992700766,Good,Bad,-100.0,,8.0,1144.2742632055952,,Low_spent_Medium_value_payments,No Collateral,123465,87,9,6.0,14.269818807971683
+Separated,Accountant,7,1,35.90665239020072,2831.05,585.4643272966716,Standard,Good,-9.0,sdv-pii-89iuy,11.0,0.0,,Low_spent_Medium_value_payments,Vehicle,199002,96,-5,17.0,
+In a Relationship,_______,3,1,37.89686799698532,4660.9,562.8687054114635,Standard,Bad,-5.0,sdv-pii-tw4pt,1.0,0.0,,Low_spent_Small_value_payments,Stocks,529,65,35,19.0,3.995634248720556
+Single,Journalist,9,1,41.51328788148247,4374.51,574.4755117804466,Good,Standard,-7.0,sdv-pii-adtpv,3.0,68.1203379378541,,Low_spent_Large_value_payments,No Collateral,77522,69,57,11.0,5.687081827242597
+Married,Engineer,1,1,32.651424101321865,3848.62,348.8632675718414,Standard,Bad,2.0,sdv-pii-3zg7f,0.0,434.41591067712864,,Low_spent_Medium_value_payments,No Collateral,198030,89,9,14.0,1.3554811902564579
+Single,Lawyer,4,1,22.53759303178384,3568.54,576.5359335332214,Good,Standard,6.0,sdv-pii-kdzc1,6.0,2414.4487776141877,,High_spent_Medium_value_payments,Vehicle,121702,37,-5,17.0,0.9832662168806685
+In a Relationship,Architect,7,1,36.07512581007675,3537.18,558.855219506997,Standard,Standard,4.0,sdv-pii-3huef,3.0,0.0,,Low_spent_Small_value_payments,Bonds,66118,96,16,26.0,-3.44
+Married,Entrepreneur,9,1,37.28343440094588,1943.47,538.4014985929841,Good,Good,-2.0,sdv-pii-wcdp3,3.0,1104.0368467907397,,Low_spent_Small_value_payments,No Collateral,65587,44,-4,17.0,9.622636061620504
+Married,Architect,1,1,26.64596873691913,3723.83,223.2595040880111,Poor,_,0.0,sdv-pii-ztf7i,15.0,2595.9347832641183,,Low_spent_Small_value_payments,Property,149512,86,3,19.0,3.4270614590413295
+Engaged,Architect,5,1,38.48141505415629,472.12,465.92044507030465,Standard,Standard,5.0,sdv-pii-38trj,15.0,142.6740674157543,,High_spent_Medium_value_payments,Stocks,111562,39,9,8.0,-0.03325001989550014
+Single,Writer,0,1,27.584507310701657,1408.9,517.348270880149,Standard,Bad,-0.0,sdv-pii-s3b4x,11.0,803.4181778670132,,Low_spent_Medium_value_payments,Property,110958,97,19,1.0,-0.10785154363773675
+In a Relationship,Scientist,5,1,40.77167223642469,3696.42,529.4306441822532,Standard,_,-1.0,sdv-pii-r7362,15.0,4262.9925447186415,,High_spent_Small_value_payments,Stocks,113302,56,49,19.0,-3.44
+Single,Scientist,7,1,41.51328788148247,3955.61,311.22702955615085,Poor,Good,5.0,,3.0,3990.5652052825267,,Low_spent_Small_value_payments,No Collateral,0,85,-5,26.0,4.850235238272299
+Single,Musician,6,1,32.95920241185492,895.42,218.3671581587658,Poor,_,-2.0,sdv-pii-kgmrh,6.0,2366.5779013332776,,Low_spent_Small_value_payments,Stocks,13531,5,6,16.0,7.3400667312325165
+Engaged,Accountant,1,1,34.465290001253095,2572.69,192.66856744450507,Standard,Standard,2.0,sdv-pii-cu0zv,15.0,1490.6392644183597,,High_spent_Small_value_payments,No Collateral,199002,125,25,1.0,0.2590490578324527
+Widowed,Accountant,8,22,22.53759303178384,1483.54,497.3225559493741,Standard,Standard,-1.0,sdv-pii-it3ki,9.0,4255.045527305995,,Low_spent_Small_value_payments,Bonds,72817,81,-5,2.0,7.0804419700754995
+Married,Musician,1,1,31.23784150738276,4129.33,227.76485513556207,Good,Bad,-7.0,sdv-pii-sqmxa,15.0,0.0,,High_spent_Large_value_payments,Bonds,119862,84,32,16.0,4.2705209720251975
+Engaged,Journalist,11,2,35.94085199168006,2512.55,336.6587056773685,Poor,Bad,-3.0,sdv-pii-ln1vv,5.0,0.0,,Low_spent_Small_value_payments,Bonds,82146,70,1,23.0,5.239837500633918
+In a Relationship,Entrepreneur,10,1,36.41426643828167,1730.4,401.7901446355555,Standard,Bad,2.0,sdv-pii-bsnkn,11.0,2212.4756917695886,,!@9#%8,Vehicle,52474,30,3,24.0,1.1220633898700045
+Single,Mechanic,4,1,36.99072967273501,1838.69,405.5520512048844,Good,Standard,4.0,sdv-pii-0cwll,1.0,2687.6818419626647,,Low_spent_Medium_value_payments,Property,36880,98,10,18.0,3.15808635839693
+Separated,Musician,5,1,33.634995174699334,1106.84,395.2906318009345,Poor,Good,4.0,sdv-pii-h4nri,4.0,333.5934988971277,,Low_spent_Large_value_payments,Vehicle,199002,77,19,5.0,1.5078183374980414
+In a Relationship,Media_Manager,6,1,32.42232090808305,2010.22,300.56347708402257,Standard,Bad,0.0,sdv-pii-qalfg,2.0,3049.6447163960174,,High_spent_Medium_value_payments,Property,109011,99,-2,22.0,2.050130356739033
+Single,Teacher,3,1,36.70606198692586,4984.82,390.1424290660192,Good,Standard,4.0,sdv-pii-85bc7,0.0,1832.1638878602619,,Low_spent_Small_value_payments,Bonds,96536,99,13,7.0,3.691639480856413
+Single,_______,3,20,35.87143558483598,4893.98,454.2416691604129,Good,Standard,-5.0,sdv-pii-so6r1,0.0,2839.9393927381125,,Low_spent_Small_value_payments,Bonds,54223,68,-5,15.0,-0.16372806502162707
+In a Relationship,Architect,9,1,22.53759303178384,1853.07,427.9777111589142,Standard,Good,3.0,,4.0,0.0,,!@9#%8,Stocks,94992,1,18,9.0,11.547853002313532
+Single,Manager,4,1,32.39843946076163,1479.76,317.6453499466008,Standard,_,9.0,sdv-pii-rbugb,8.0,2401.0115320471095,,Low_spent_Small_value_payments,Bonds,130368,72,50,5.0,6.311932104753591
+In a Relationship,_______,10,1,28.801825021463355,1386.62,457.6667359173574,Standard,_,-0.0,sdv-pii-crp9s,11.0,2713.740377581984,,Low_spent_Small_value_payments,Vehicle,158474,112,-5,13.0,16.861639494477288
+Single,Teacher,7,23,24.442578832686202,35.54,502.9850978208605,Poor,_,2.0,sdv-pii-xy39d,6.0,4889.764541700837,,Low_spent_Large_value_payments,Property,199002,78,7,3.0,5.3032264093879835
+Married,Entrepreneur,1,1,34.124674970039706,4139.89,471.2171470098069,Good,Standard,0.0,sdv-pii-1xaq1,8.0,0.0,,Low_spent_Small_value_payments,Stocks,199002,1,20,10.0,-0.39544118046082755
+In a Relationship,Architect,6,1,30.52617087543757,4452.8,502.59414580783675,Standard,_,-3.0,sdv-pii-fsbwh,0.0,1099.3973835368224,,Low_spent_Medium_value_payments,Property,9743,46,23,6.0,9.5118683532843
+Married,Lawyer,3,11,28.917434714857418,1612.29,556.0925388476301,Poor,_,-3.0,sdv-pii-h3oy7,11.0,2745.6025777799964,,!@9#%8,No Collateral,199002,51,6,18.0,6.552835262972633
+Widowed,Musician,1,1,33.296794712932034,562.44,290.65164746381777,Good,Standard,9.0,sdv-pii-y6eol,11.0,497.0487507235357,,!@9#%8,Property,137895,88,30,4.0,4.156247383421014
+Widowed,Accountant,1,1,39.83596668325322,1182.59,92.37468446871026,Standard,Standard,-98.0,sdv-pii-5qtm9,15.0,1026.4901299021572,,High_spent_Small_value_payments,Stocks,199002,49,19,20.0,-1.731562629293184
+Married,Writer,10,1,23.865964741724433,4434.69,511.42111138603747,Standard,Bad,-2.0,sdv-pii-9rxvh,8.0,0.0,,High_spent_Medium_value_payments,Vehicle,187488,62,15,1.0,5.927696117642757
+In a Relationship,_______,3,1,33.367412796346365,1605.94,1120.751173160778,Poor,Standard,-4.0,,4.0,3202.44257479226,,Low_spent_Small_value_payments,Bonds,0,28,-5,,0.08833248833272389
+Engaged,_______,5,1,32.098195355278094,3186.46,473.9626549754363,Standard,Bad,-3.0,sdv-pii-ii9kl,0.0,4662.988631940098,,Low_spent_Medium_value_payments,No Collateral,0,94,-5,14.0,7.325158697562483
+Separated,Journalist,5,1,41.51328788148247,2431.58,449.3967208708687,Good,Standard,-4.0,,3.0,2853.2514219710124,,High_spent_Small_value_payments,Bonds,68453,38,-2,15.0,3.592653997702331
+In a Relationship,Engineer,14,20,28.819680263107646,769.79,310.115550665376,Standard,Standard,-3.0,sdv-pii-fcb82,9.0,4311.405278753782,,!@9#%8,Stocks,199002,71,-5,21.0,7.818229646338874
+Separated,Media_Manager,9,1,36.361411489951465,3891.54,397.8613224980558,Standard,Standard,3.0,sdv-pii-ic746,10.0,1754.9510524899806,,High_spent_Large_value_payments,Vehicle,71651,30,11,14.0,0.007226629729489176
+Single,Scientist,0,13,28.993409096570847,937.52,271.6257458994166,Good,Good,9.0,sdv-pii-b8x3q,11.0,0.0,,!@9#%8,Stocks,43518,60,24,3.0,3.495247835505217
+Engaged,Scientist,5,20,35.578626119106396,849.81,513.5468823361949,Poor,Bad,-2.0,sdv-pii-z80na,9.0,4008.2284590688655,,High_spent_Small_value_payments,Bonds,106860,25,10,1.0,0.9896465143544537
+Single,Engineer,6,1,34.65705060541411,586.81,1120.751173160778,Standard,Good,2.0,sdv-pii-bnzfd,3.0,248.79827732804662,,Low_spent_Large_value_payments,Stocks,199002,96,15,15.0,2.7528157529797577
+Engaged,_______,6,1,37.175524585373985,3695.67,590.8004246769646,Good,Standard,0.0,sdv-pii-0qrzo,9.0,1019.2264629789926,,High_spent_Small_value_payments,Property,45182,74,5,22.0,3.218037209465061
+Single,Manager,4,1,27.233443095677316,1525.97,454.8391206172233,Standard,Standard,-7.0,sdv-pii-gieyp,14.0,2092.33380551076,,Low_spent_Medium_value_payments,Vehicle,155553,75,-5,1.0,-1.6428699277223702
+Single,Entrepreneur,2,1,37.295188278045444,1686.18,418.34029995980757,Good,Good,2.0,sdv-pii-ej6ld,5.0,0.0,,Low_spent_Medium_value_payments,Stocks,174638,73,-4,14.0,-3.44
+Engaged,Entrepreneur,5,1,41.51328788148247,4984.82,485.37005961238253,Standard,_,9.0,sdv-pii-wk0ep,2.0,275.8218234803605,,Low_spent_Small_value_payments,Property,10177,95,29,12.0,8.887366972381187
+Engaged,Scientist,2,1,38.29254461916311,1845.91,613.427703612808,Standard,Good,2.0,sdv-pii-axlg0,12.0,198.58400835565516,,Low_spent_Medium_value_payments,Stocks,84918,1,10,13.0,3.236952247713443
+Single,Journalist,3,1,37.48967486820553,307.97,341.5377167021498,Standard,Bad,3.0,sdv-pii-0k2z9,6.0,3876.258365749004,,High_spent_Small_value_payments,Property,88802,77,15,13.0,0.27311436690112956
+Widowed,Lawyer,6,1,33.81460881280169,1553.17,138.95463008931506,Good,_,-6.0,sdv-pii-3t4fo,10.0,2320.3878864075905,,High_spent_Small_value_payments,Vehicle,5008,88,-5,12.0,6.323159975677089
+Engaged,Lawyer,7,1,30.975481350332984,3097.02,350.50430934525053,Poor,Standard,4.0,sdv-pii-mv9vg,10.0,1683.3195586727293,,Low_spent_Small_value_payments,Stocks,92553,57,-5,1.0,-0.7083994478258004
+Divorced,Mechanic,9,1,36.594632203833186,670.17,369.82250315906623,Poor,Bad,-4.0,sdv-pii-u326k,15.0,4257.896739405019,,!@9#%8,Bonds,60840,58,-5,16.0,3.699652495060806
+Engaged,Lawyer,6,1,30.543381544676098,3782.26,659.992260389354,Poor,Standard,-6.0,sdv-pii-92yx6,11.0,4270.781448520867,,High_spent_Large_value_payments,Bonds,177606,97,9,15.0,-1.003638277960845
+Single,Scientist,3,4,26.644240998879027,2714.89,572.6565127257309,Good,Bad,2.0,sdv-pii-00gd0,9.0,0.0,,Low_spent_Small_value_payments,No Collateral,28801,14,34,15.0,-0.4916922030331774
+Single,Scientist,5,1,34.97810040952152,956.54,484.05931953054437,Poor,Bad,-6.0,sdv-pii-8fppi,3.0,2718.312823122175,,Low_spent_Small_value_payments,Property,88872,11,18,9.0,6.773583423634626
+Widowed,Manager,7,2,38.7158505679251,4205.53,406.4537244058352,Standard,Standard,1.0,sdv-pii-f8a5j,12.0,4585.590469505751,,High_spent_Medium_value_payments,Vehicle,54911,92,-2,17.0,-0.9420964981588673
+Separated,Musician,2,29,34.53550896472202,2193.45,198.83102690727324,Poor,Good,2.0,sdv-pii-7iz6z,0.0,0.0,,High_spent_Medium_value_payments,No Collateral,64265,38,27,20.0,4.601251077441436
+Married,Journalist,2,1,41.51328788148247,4984.82,307.8359954045,Standard,_,-4.0,,1.0,0.0,,Low_spent_Small_value_payments,Property,114321,70,17,15.0,6.486415563675674
+Single,Musician,5,1,35.46059469385614,2759.88,332.2353803092314,Good,Good,-1.0,sdv-pii-wfbty,4.0,449.03541287397684,,Low_spent_Medium_value_payments,Property,184887,72,5,18.0,0.5420406884087106
+Married,Musician,3,1,27.97030682944223,1578.69,403.41797656009595,Good,Standard,2.0,sdv-pii-zeysl,15.0,1072.199947936937,,Low_spent_Small_value_payments,Bonds,142930,44,0,26.0,2.707088740047382
+Widowed,Accountant,0,16,35.637478260174525,1991.89,217.19110500882687,Standard,_,2.0,sdv-pii-ic6oo,8.0,3035.357997706287,,Low_spent_Small_value_payments,Vehicle,151467,57,25,17.0,6.946349760705658
+Single,Journalist,10,1,23.70096090993549,952.57,289.17908583525025,Good,Standard,-3.0,sdv-pii-p4h9d,6.0,713.0066021824096,,High_spent_Medium_value_payments,Property,105951,43,8,,8.627157917079021
+Separated,Manager,6,1,35.43659169929077,,576.6655515683224,Poor,Standard,-2.0,sdv-pii-hmi33,10.0,3236.72463690351,,Low_spent_Small_value_payments,Property,28162,85,1,16.0,1.6440916481432923
+Single,Media_Manager,3,1,25.2572222964905,4517.8,530.1579774829198,Good,Bad,-4.0,sdv-pii-y3wb3,3.0,2388.079113268858,,Low_spent_Medium_value_payments,Property,75220,25,7,9.0,9.596314747200237
+Single,Engineer,7,1,27.80605598713964,501.87,289.09033774344704,Standard,Good,9.0,sdv-pii-rfyjf,10.0,3168.1546566213647,,High_spent_Large_value_payments,Property,143089,84,-5,9.0,1.1887344804490674
+Separated,Entrepreneur,7,8,36.409707985615555,3880.54,364.52742804022154,Standard,Good,-4.0,sdv-pii-j28ms,15.0,2015.3266211762545,,High_spent_Small_value_payments,Vehicle,70289,13,5,19.0,4.898712962674036
+Married,Architect,5,1,31.00714807103581,2796.2,501.4041170750281,Good,Standard,9.0,sdv-pii-c0vy8,1.0,0.0,,Low_spent_Small_value_payments,Stocks,0,71,-3,14.0,8.986037131853585
+Divorced,Architect,7,1,30.154672596538507,1229.88,205.54656770667572,Good,Standard,5.0,sdv-pii-4ewdg,9.0,4789.408214138591,,Low_spent_Medium_value_payments,Property,112092,53,20,,-2.189067567360641
+Single,Lawyer,4,1,35.23528403323921,4984.82,370.07043313975566,Standard,Bad,-1.0,sdv-pii-rmkh7,1.0,3836.2053290944486,,High_spent_Small_value_payments,Property,60945,50,-2,16.0,4.61809528829475
+Engaged,Entrepreneur,1,1,34.45291244024583,1295.12,556.8994167691787,Standard,_,-1.0,sdv-pii-u46pz,6.0,2732.916802455037,,Low_spent_Medium_value_payments,Bonds,191775,1,-3,9.0,0.045318710332932
+Divorced,Teacher,12,1,41.51328788148247,4984.82,1011.6971328915188,Standard,Good,-4.0,sdv-pii-o3q2p,12.0,1755.176338549273,,Low_spent_Small_value_payments,No Collateral,69576,6,6,,-1.0542282861036414
+Married,Architect,9,5,32.22009689649744,3589.92,415.0211210123093,Standard,Good,-1.0,sdv-pii-3epec,8.0,3392.551283795665,,Low_spent_Large_value_payments,Stocks,118448,69,-5,23.0,-0.627929032093955
+Married,Engineer,9,1,29.325779496334672,862.87,550.0659157691948,Poor,_,-5.0,sdv-pii-idc9g,15.0,1275.7929232216302,,High_spent_Small_value_payments,Bonds,199002,70,34,5.0,5.48550548543607
+Separated,Engineer,7,1,33.99100834523732,1801.77,449.9003820340113,Poor,Standard,-3.0,sdv-pii-ty6mb,6.0,0.0,,High_spent_Medium_value_payments,Vehicle,70469,10,29,15.0,9.45925112982242
+Single,Teacher,5,1,35.72150016314606,1465.31,323.1303084833741,Good,Standard,3.0,sdv-pii-4ixrq,15.0,3427.580854696921,,Low_spent_Small_value_payments,Property,95147,33,-5,22.0,1.7395611499727224
+Separated,Developer,6,5,22.53759303178384,3458.33,209.56142290420544,Standard,Good,-2.0,sdv-pii-w4qtu,6.0,0.0,,High_spent_Small_value_payments,Property,112431,69,-2,19.0,6.559108934724522
+Widowed,Musician,2,1,28.24513355283924,4984.82,673.1943525529822,Good,_,3.0,sdv-pii-znwgh,0.0,1221.8889276097668,,Low_spent_Small_value_payments,No Collateral,67857,71,-5,12.0,23.43833859809983
+Separated,Media_Manager,11,1,29.51453649353555,660.96,113.14599002944112,Good,Standard,1.0,sdv-pii-hopsn,1.0,4143.1885875487515,,High_spent_Medium_value_payments,Bonds,134552,97,-5,10.0,2.648535133664616
+Separated,Scientist,13,1,39.29604067735475,1516.78,340.9542157035658,Good,Good,-1.0,sdv-pii-1rsiv,15.0,1275.3141042271102,,Low_spent_Small_value_payments,Property,58312,47,-5,11.0,3.635295663540485
+Single,Lawyer,6,30,31.312984211777493,1960.78,488.2398466263986,Good,Good,4.0,sdv-pii-qf4cj,12.0,873.4942850187921,,Low_spent_Large_value_payments,Stocks,123343,72,-5,11.0,0.8965826556620842
+Widowed,Scientist,9,1,39.77923624202986,3701.02,492.898759494174,Standard,Good,-3.0,sdv-pii-ubz72,6.0,2581.4763442371445,,Low_spent_Medium_value_payments,Vehicle,112813,103,-5,19.0,2.8445317829511865
+Single,Musician,0,1,34.485727609996395,1521.18,188.59887771283928,Standard,Standard,-6.0,sdv-pii-pinca,11.0,4519.06666535846,,Low_spent_Small_value_payments,Property,105242,60,-5,6.0,0.6489973977704251
+Married,Manager,0,24,38.00378284906396,1690.53,590.0605541792605,Good,Bad,-6.0,sdv-pii-huvrp,11.0,47266.94450892083,,High_spent_Small_value_payments,Bonds,88261,83,17,18.0,-3.44
+Single,Scientist,3,1,38.97784608324307,2567.42,376.99525593719704,Standard,Standard,-4.0,sdv-pii-21cmc,15.0,0.0,,High_spent_Medium_value_payments,Vehicle,121072,56,11,9.0,-1.8619020443983088
+Separated,Manager,5,17,33.18704832385063,3183.34,348.8011568804933,Standard,_,-5.0,sdv-pii-dzfeb,9.0,0.0,,Low_spent_Small_value_payments,Vehicle,199002,1,22,4.0,-0.9774246012622294
+In a Relationship,Accountant,6,26,36.01788446055529,1106.6,474.65118326443144,Good,Good,-100.0,sdv-pii-w8bsl,10.0,0.0,,Low_spent_Small_value_payments,No Collateral,127291,70,-3,,0.11776848389272132
+Married,_______,4,13,38.35705400987807,2916.78,229.64687935814976,Standard,Standard,0.0,sdv-pii-wij74,0.0,1383.8848472196255,,High_spent_Small_value_payments,Vehicle,199002,79,4,2.0,1.9261745556153729
+Separated,Entrepreneur,8,1,35.46300710493521,1195.26,412.255274647879,Standard,Bad,-2.0,sdv-pii-gv52m,11.0,274.76396505878927,,Low_spent_Small_value_payments,Stocks,187333,31,12,10.0,0.5561151395286075
+In a Relationship,Musician,8,17,39.128215540658665,1991.71,742.5978419030287,Standard,_,3.0,sdv-pii-57511,8.0,0.0,,High_spent_Medium_value_payments,Property,2081,98,9,1.0,6.103265069528334
+Single,Mechanic,4,4,31.922074691873753,1576.93,141.46157956622872,Poor,Good,-1.0,sdv-pii-9p91r,15.0,20.61040592147279,,High_spent_Large_value_payments,Bonds,152773,101,3,10.0,-0.10819977694408234
+Single,Teacher,3,1,27.245120251466876,1232.01,633.9865209100012,Poor,_,9.0,sdv-pii-hv0dp,2.0,965.1218112057566,,Low_spent_Small_value_payments,Bonds,74582,97,33,18.0,4.045814310709668
+Engaged,Media_Manager,7,1,30.783198998162103,1181.96,419.37704324346885,Standard,Bad,0.0,sdv-pii-p6bqh,4.0,2037.9878496327317,,High_spent_Large_value_payments,No Collateral,119916,90,4,3.0,4.297936551106856
+Separated,Developer,6,1,33.286381300390474,4984.82,534.3113071523355,Good,Good,4.0,sdv-pii-q13ey,5.0,3548.625952037499,,High_spent_Small_value_payments,No Collateral,113125,52,-3,10.0,2.933728262038514
+Married,Engineer,1,1,39.04114547417968,1826.1,211.39342396186075,Standard,Bad,1.0,sdv-pii-jsppo,9.0,622.3541960448966,,Low_spent_Medium_value_payments,Vehicle,0,65,15,22.0,2.258811652947313
+Single,_______,2,2,33.2829995284901,4984.82,374.87464810125033,Poor,Standard,0.0,sdv-pii-ziy2g,5.0,0.0,,High_spent_Large_value_payments,Bonds,199002,114,19,14.0,15.273715310444782
+Engaged,Engineer,6,1,29.691735673220506,463.17,433.0862923312486,Good,_,9.0,,2.0,0.0,,High_spent_Small_value_payments,Property,108055,96,-1,1.0,8.22989434382896
+Separated,Entrepreneur,8,1,38.77788642820368,3947.09,443.4358866710751,Standard,Standard,-5.0,sdv-pii-quwbv,15.0,4750.064794123396,,Low_spent_Small_value_payments,Stocks,193788,53,-5,5.0,0.9474890586375038
+Single,_______,0,2,22.53759303178384,4034.06,471.6292037232542,Standard,Good,-4.0,sdv-pii-64pty,11.0,0.0,,!@9#%8,Vehicle,92945,100,13,3.0,5.66589199637686
+In a Relationship,Scientist,8,3,39.373088160085324,3257.4,326.9210424403796,Good,Good,-5.0,sdv-pii-gcb77,13.0,2500.4212447914124,,High_spent_Large_value_payments,Vehicle,43957,48,-5,6.0,8.575704713304662
+Single,Writer,11,1,31.75065536379994,2957.41,584.6114712777719,Poor,Standard,-4.0,sdv-pii-cufc4,15.0,0.0,,High_spent_Small_value_payments,Bonds,60152,48,39,1.0,1.5275416086679128
+Married,Musician,0,1,28.31713103372655,2075.87,322.7354197527937,Poor,Good,-5.0,sdv-pii-4hh2m,4.0,0.0,,High_spent_Large_value_payments,Property,143585,96,13,7.0,7.8960411857173955
+Single,Developer,0,1,33.04867626904107,1269.12,490.2693022562305,Poor,Bad,-100.0,sdv-pii-ujz7i,4.0,3738.298212360287,,Low_spent_Large_value_payments,Bonds,79709,70,-5,1.0,1.0503664365300516
+Widowed,_______,6,1,38.67115619360052,1759.05,159.27627075317744,Standard,Standard,5.0,sdv-pii-b4ty3,11.0,2855.3766549110783,,Low_spent_Small_value_payments,Bonds,173620,39,12,22.0,-1.421858519263318
+Widowed,Manager,7,1,41.51328788148247,2613.54,499.808765033193,Standard,Bad,5.0,sdv-pii-mwplr,7.0,960.2300206759502,,High_spent_Small_value_payments,Vehicle,156912,46,-5,,-0.7697302977393639
+In a Relationship,Entrepreneur,10,1,33.95151669744231,2122.19,489.3862464160104,Standard,_,-100.0,sdv-pii-0r4z8,5.0,251.7575735573417,,Low_spent_Small_value_payments,Property,135768,68,1,17.0,0.4832774787406011
+Engaged,Architect,10,1,33.78097298364528,282.53,104.87605376457313,Poor,Bad,2.0,sdv-pii-1i0vc,8.0,1586.6017387576906,,High_spent_Medium_value_payments,Stocks,27112,112,-4,14.0,3.127231892502418
+In a Relationship,Scientist,0,1,23.837874828836448,4984.82,354.9755128618931,Good,_,2.0,sdv-pii-bjqal,5.0,0.0,,Low_spent_Small_value_payments,Vehicle,173846,86,-5,2.0,2.9882407038138323
+Divorced,Scientist,4,4,32.65827126273014,1171.38,406.13825310262973,Poor,Good,3.0,sdv-pii-pfg32,9.0,0.0,,Low_spent_Small_value_payments,Property,112153,64,33,6.0,5.302100123380032
+Single,Scientist,8,7,31.088318139470154,1391.8,555.2571695805098,Standard,Good,-4.0,sdv-pii-9dkf6,9.0,1983.1599744933121,,Low_spent_Medium_value_payments,No Collateral,63023,27,10,17.0,2.0063988864774016
+Single,Mechanic,14,1,24.112870296013597,2966.15,525.7103377411698,Standard,Standard,7.0,sdv-pii-5bzpp,7.0,2955.126708062997,,!@9#%8,Vehicle,83860,1,7,3.0,1.6769025219179303
+Separated,Architect,3,1,36.764850354609486,1326.67,313.2198175355734,Standard,Standard,6.0,sdv-pii-et1e2,0.0,1177.4328230502072,,Low_spent_Small_value_payments,Bonds,182548,1,23,1.0,1.0969441607056183
+Married,Entrepreneur,9,6,28.556577838159075,1475.19,550.3978625572845,Standard,_,3.0,sdv-pii-n59i5,0.0,3889.9033291964392,,Low_spent_Medium_value_payments,Property,24317,16,-2,8.0,1.945325397559766
+Married,Journalist,12,1,40.04463356123866,4984.82,363.79846163773635,Good,Good,-1.0,sdv-pii-ijd4c,4.0,3719.875393190555,,!@9#%8,Property,75771,55,-4,8.0,1.8762571352299746
+Single,Accountant,7,26,32.785019608056,330.9,82.82729486676723,Good,Standard,2.0,sdv-pii-m5ehk,9.0,3288.426409614678,,High_spent_Small_value_payments,Vehicle,199002,45,18,10.0,1.3355052012014106
+Divorced,_______,12,1,39.11798466207651,1400.07,502.77509348932495,Standard,Standard,-4.0,sdv-pii-5o4u7,7.0,0.0,,High_spent_Small_value_payments,Vehicle,25845,56,-5,24.0,-2.246304520194653
+Widowed,Architect,5,1,25.892841109103212,282.04,158.36518837328776,Poor,Good,7.0,,8.0,0.0,,High_spent_Small_value_payments,Vehicle,39384,100,38,11.0,3.8418650076584715
+Single,Lawyer,1,1,26.258837963368997,4012.19,432.13803804150587,Poor,Bad,-1.0,sdv-pii-womci,5.0,1479.9387794316506,,High_spent_Large_value_payments,Vehicle,69563,86,30,1.0,20.181911904717648
+Single,Lawyer,2,1,34.185936505056745,1170.4,544.6318574044362,Standard,_,4.0,,15.0,2620.2097006269473,,High_spent_Small_value_payments,No Collateral,164938,1,-2,7.0,-1.8128071179174219
+Married,Accountant,1,1,22.53759303178384,4713.58,262.2211522080176,Standard,Standard,-0.0,sdv-pii-7budj,4.0,0.0,,High_spent_Medium_value_payments,Bonds,108800,35,54,16.0,
+Widowed,Manager,0,1,27.707414741568268,3234.42,198.74996224546794,Good,Bad,-1.0,sdv-pii-henn6,0.0,65.00116805080017,,!@9#%8,Property,62363,46,56,5.0,9.403805588611478
+Single,Writer,2,1,37.17101440679057,1927.61,770.7220003640593,Poor,Good,-3.0,sdv-pii-y4mou,1.0,0.0,,High_spent_Large_value_payments,Stocks,185350,77,-3,,1.8263085396723886
+Separated,Architect,3,1,39.806113628614604,1591.31,419.26542701533623,Standard,Good,-4.0,sdv-pii-t95it,0.0,3815.733922471183,,High_spent_Large_value_payments,Property,105150,85,-5,13.0,3.9611296086695056
+Separated,Developer,7,40,32.53530370969697,3505.68,627.5147645251336,Poor,Standard,-0.0,sdv-pii-8qyhy,0.0,688.3108666511052,,Low_spent_Small_value_payments,Bonds,29805,66,-5,17.0,2.2354049146432233
+Separated,Doctor,2,1,37.27089262185373,3333.07,365.85825527442705,Standard,Good,,sdv-pii-jn7nl,5.0,1879.0705811442936,,!@9#%8,Bonds,199002,27,25,11.0,0.48904382423218706
+Married,Scientist,1,1,41.51328788148247,3445.99,644.3602097828111,Standard,_,-3.0,sdv-pii-4gvz7,4.0,553.7362046855128,,Low_spent_Small_value_payments,No Collateral,169803,39,25,9.0,7.1854429348586235
+Married,Journalist,10,1,33.36015961542112,3695.37,313.552862741665,Standard,Good,-4.0,sdv-pii-q767v,3.0,1554.9898676076077,,High_spent_Medium_value_payments,Stocks,91222,76,31,18.0,9.812951699077507
+Married,Engineer,6,1,33.36859508035385,2101.29,506.3111609206398,Poor,Good,1.0,sdv-pii-zgf76,0.0,929.1994495641784,,Low_spent_Small_value_payments,Vehicle,110145,40,-3,25.0,0.7563952026535095
+Single,Scientist,5,1,29.62491992482708,1775.81,431.40954900724455,Standard,Standard,0.0,sdv-pii-8ap7n,9.0,2008.7817855745395,,Low_spent_Small_value_payments,Stocks,183785,3,-5,9.0,2.303999070080236
+In a Relationship,Architect,6,6,30.84882782909814,4390.39,478.7021802614364,Good,Bad,0.0,sdv-pii-pkezw,0.0,891.3741699527418,,High_spent_Medium_value_payments,Stocks,116644,112,-5,15.0,4.56344885960918
+Single,Entrepreneur,5,1,30.44735146363365,2203.23,380.50428925225515,Standard,Good,2.0,sdv-pii-i1v7o,0.0,0.0,,High_spent_Large_value_payments,Stocks,196711,75,14,13.0,0.25309327334164156
+Engaged,Architect,11,1,31.969590181842783,1220.63,434.54327836812206,Poor,Bad,-7.0,sdv-pii-93fsd,0.0,452.8401938617724,,Low_spent_Small_value_payments,No Collateral,44413,69,21,22.0,11.726101872063508
+Single,Scientist,4,16,40.42623261718033,2030.04,426.3994313122431,Standard,Standard,2.0,sdv-pii-l52h6,9.0,3001.409558757765,,Low_spent_Small_value_payments,Bonds,0,24,42,20.0,0.8751072908129593
+Married,Entrepreneur,12,1,27.733571320546094,644.38,462.90237241117006,Standard,Standard,-7.0,sdv-pii-zn7or,15.0,2299.099731700867,,Low_spent_Medium_value_payments,Stocks,178800,71,-5,,11.657777834056992
+Engaged,Entrepreneur,1,1,35.20621849538108,2182.67,536.2769838749946,Poor,Bad,-4.0,sdv-pii-31ajv,1.0,0.0,,Low_spent_Small_value_payments,Bonds,152060,102,3,19.0,4.15283270711422
+Single,Media_Manager,5,1,33.96505843967604,839.5,350.5715177662421,Good,Standard,-100.0,sdv-pii-thxmc,0.0,4094.988738505419,,Low_spent_Small_value_payments,Vehicle,0,81,2,11.0,4.505294892401791
+Single,Musician,5,1,39.29272240800698,4134.32,505.69888592424627,Poor,Standard,4.0,sdv-pii-w80ii,0.0,81050.0,,Low_spent_Medium_value_payments,No Collateral,199002,21,8,,-0.7857025987237423
+Single,Architect,7,1,41.04176112215582,3131.07,543.8316375133784,Standard,Bad,1.0,sdv-pii-8o17n,14.0,4122.077837001868,,Low_spent_Small_value_payments,Bonds,114734,28,29,19.0,-0.5145515638647664
+Married,Journalist,8,1,32.92586183043643,1665.43,1029.3935052283712,Poor,Good,-2.0,sdv-pii-xwdto,3.0,1519.233111888055,,Low_spent_Small_value_payments,Bonds,34917,100,8,1.0,2.724287817222401
+Single,Teacher,3,1,40.202240373784804,4412.66,415.5186140755067,Standard,Good,-6.0,sdv-pii-fxjys,0.0,84.26359977216451,,Low_spent_Small_value_payments,Property,80898,53,-3,7.0,2.1188477325563353
+Engaged,Writer,3,1,30.215145690789704,1172.69,569.4183733153945,Standard,Good,-0.0,sdv-pii-z57u5,5.0,1407.376602723432,,High_spent_Medium_value_payments,No Collateral,61780,67,2,15.0,3.932504167586373
+Separated,Entrepreneur,7,1,37.06587000652747,866.24,229.34344904027517,Poor,Standard,-4.0,sdv-pii-q07v3,1.0,3530.7050316267705,,High_spent_Large_value_payments,Stocks,134516,57,23,11.0,4.25214353967166
+Single,Entrepreneur,7,20,41.51328788148247,2758.25,533.7077880941533,Standard,Standard,-100.0,sdv-pii-8s1f3,3.0,1907.9867702500478,,High_spent_Large_value_payments,Vehicle,9979,36,4,20.0,-3.44
+Single,_______,11,1,32.663507276628394,3527.92,334.37763145514367,Good,Good,4.0,sdv-pii-u777y,2.0,0.0,,High_spent_Small_value_payments,Bonds,178797,1,36,19.0,2.3695836727435013
+Single,Scientist,5,5,33.281057481661975,1513.88,510.9817316229348,Good,Good,,sdv-pii-mb50e,11.0,2911.415873211814,,High_spent_Large_value_payments,No Collateral,26103,48,-5,5.0,12.328228675430287
+Separated,Entrepreneur,0,1,34.78630489285426,4615.03,336.1963933960378,Standard,Bad,6.0,sdv-pii-6weoj,3.0,1006.1418727684896,,High_spent_Small_value_payments,Vehicle,114582,39,-5,17.0,2.4448620957031206
+Engaged,Accountant,8,1,37.73891847397427,1469.41,372.1321613739852,Poor,Good,-100.0,,6.0,1937.39590178829,,Low_spent_Small_value_payments,Vehicle,69946,90,5,1.0,4.2189678500522785
+Single,Architect,3,1,35.0087057469329,1802.96,586.4031347205106,Poor,Standard,0.0,sdv-pii-0f13f,1.0,0.0,,High_spent_Medium_value_payments,Property,79253,1,16,19.0,7.082741139024299
+Single,Teacher,0,1,34.880163933231124,1865.04,500.01875680240687,Standard,_,4.0,sdv-pii-n83jm,14.0,0.0,,Low_spent_Small_value_payments,Property,106825,36,33,4.0,2.2228262180218756
+Single,Mechanic,7,1,27.704921083483946,3606.86,490.37681060517355,Standard,_,1.0,sdv-pii-m43yy,4.0,605.620376430924,,High_spent_Large_value_payments,No Collateral,199002,81,10,6.0,-1.3157985935781342
+Single,Musician,6,8,27.235330310597757,1164.57,534.5092642173793,Good,Bad,2.0,sdv-pii-i3te0,7.0,0.0,,!@9#%8,Vehicle,74526,70,-2,1.0,-0.9180889623686417
+Widowed,Media_Manager,1,6,32.968951190448166,4105.75,446.2687655839934,Poor,_,2.0,sdv-pii-cmrxi,9.0,0.0,,Low_spent_Medium_value_payments,Vehicle,199002,17,-5,1.0,-0.7758379782818947
+Separated,Teacher,6,1,35.77276982508199,2248.95,608.2772773469553,Standard,Standard,-2.0,sdv-pii-rjyub,0.0,1060.5339020569618,,High_spent_Small_value_payments,Vehicle,0,57,19,14.0,4.008156360961469
+Separated,Journalist,0,1,29.128043358120152,369.44,353.1114433375675,Standard,Standard,1.0,sdv-pii-bfoie,7.0,1345.732963105182,,Low_spent_Medium_value_payments,Stocks,199002,78,26,15.0,0.6755447151415952
+Married,Manager,2,1,33.48780663451861,,446.9416663448178,Standard,Bad,-3.0,sdv-pii-1qv3w,13.0,1865.4230341411326,,High_spent_Large_value_payments,No Collateral,196498,87,23,7.0,0.4201802568369466
+Separated,Journalist,0,1,38.69975719560595,2056.18,969.0176713672847,Poor,Standard,-8.0,sdv-pii-9ewsx,0.0,3588.5091629623435,,Low_spent_Small_value_payments,No Collateral,115282,42,-5,11.0,3.0168561953739275
+Single,Accountant,6,23,38.147481000658246,714.3,561.4344651451827,Poor,Standard,-7.0,sdv-pii-2zg4g,14.0,0.0,,Low_spent_Medium_value_payments,Stocks,153098,14,1,14.0,-0.5265792106151705
+Single,Musician,9,40,37.41446579206221,1966.68,408.65701744308404,Poor,Good,-9.0,sdv-pii-uewrl,8.0,518.8040338351202,,!@9#%8,Vehicle,75028,1,-4,9.0,-0.8755812834407388
+Separated,Journalist,0,1,28.818208038278694,700.51,377.0387529760163,Standard,Standard,-2.0,sdv-pii-uu49r,7.0,3134.7103555134763,,Low_spent_Large_value_payments,Property,199002,73,16,18.0,-1.004425616883954
+Single,Entrepreneur,0,1,35.679571105193446,4984.82,187.68373770304675,Standard,Standard,7.0,sdv-pii-8rzec,12.0,0.0,,Low_spent_Large_value_payments,Stocks,199002,76,26,13.0,4.550865042311878
+Divorced,Lawyer,9,4,34.82160233366182,1372.95,422.72916059841384,Poor,_,-73.0,sdv-pii-2l1yf,2.0,3512.166469160521,,Low_spent_Medium_value_payments,Stocks,12717,30,37,8.0,2.7092132948668572
+In a Relationship,Developer,0,1,26.42133154285769,733.69,435.4076460676523,Standard,Good,-1.0,,7.0,554.4507300807526,,High_spent_Large_value_payments,Vehicle,161447,79,8,10.0,0.012160266553484789
+Divorced,Accountant,3,1,40.76429475199235,1064.65,406.43358700418116,Poor,Good,2.0,sdv-pii-ji3dd,0.0,0.0,,!@9#%8,Stocks,50401,88,3,20.0,1.5708697915957197
+Single,Entrepreneur,1,1,31.408221865132095,4145.32,475.4754725638295,Standard,Standard,1.0,sdv-pii-gze4s,7.0,103.00082690891462,,Low_spent_Small_value_payments,Vehicle,0,1,2,8.0,-3.44
+Married,Journalist,4,1,40.0329613078808,1187.42,1120.751173160778,Good,Good,-2.0,sdv-pii-qnkar,6.0,0.0,,!@9#%8,Property,69855,82,12,9.0,3.9467810698450005
+Married,Architect,2,1,36.638203011616106,1845.23,399.3915577454592,Good,Bad,1.0,sdv-pii-b7ee7,5.0,0.0,,High_spent_Large_value_payments,Property,0,85,12,12.0,9.140164702479993
+Single,Manager,2,1,24.304805031687202,2014.88,533.3545607331366,Poor,Good,-5.0,sdv-pii-gjpmi,6.0,0.0,,High_spent_Small_value_payments,Vehicle,0,60,4,23.0,6.877428668404144
+Separated,Media_Manager,0,1,41.51328788148247,4984.82,489.8643558168545,Standard,Standard,9.0,sdv-pii-zrwn5,1.0,0.0,,Low_spent_Medium_value_payments,No Collateral,60384,71,40,16.0,10.352813621686465
+In a Relationship,Scientist,7,5,41.51328788148247,4933.01,323.02270748730865,Standard,Standard,-3.0,sdv-pii-hu3i0,2.0,0.0,,High_spent_Medium_value_payments,Property,135561,6,-5,18.0,12.454870274600275
+Divorced,Accountant,4,1,40.90606419210279,3874.83,385.23349459099455,Good,Bad,3.0,,9.0,3497.585225118046,,Low_spent_Small_value_payments,Stocks,88537,8,24,9.0,2.10578268220379
+Single,Musician,2,1,41.51328788148247,2033.53,654.0140273740327,Poor,Standard,-3.0,sdv-pii-0vzo6,9.0,1681.0773767768076,,!@9#%8,Vehicle,146577,95,25,5.0,2.4860716935252745
+Single,Musician,5,13,38.679047614128876,938.29,227.98109665981207,Standard,Good,5.0,sdv-pii-hq9ma,8.0,38462.66808082977,,High_spent_Small_value_payments,Property,199002,55,22,1.0,-0.4190202234588627
+Separated,Journalist,10,1,35.63619339374131,,641.704660602737,Good,Standard,3.0,sdv-pii-8ncfr,5.0,2061.6611429855398,,Low_spent_Small_value_payments,Property,199002,33,15,16.0,3.5610559707860787
+Single,Journalist,4,1,34.05427127972096,2179.51,699.6930409706658,Standard,Good,-4.0,sdv-pii-7y04q,0.0,905.3178355013446,,Low_spent_Small_value_payments,Stocks,0,98,-5,12.0,8.898247110665082
+Single,Accountant,5,10,34.65843250670669,4970.02,352.1172266533756,Standard,Bad,-4.0,,1.0,890.8903991430806,,!@9#%8,No Collateral,122741,101,22,20.0,8.019567485144677
+Married,Journalist,1,1,24.16158143156657,2096.49,1046.294109023356,Good,Bad,,,5.0,1375.0676021199963,,High_spent_Large_value_payments,Bonds,166220,61,4,25.0,0.7191063802100377
+Separated,_______,13,1,41.51328788148247,1715.33,268.409213682371,Standard,Standard,0.0,sdv-pii-r6o5o,13.0,4963.266013152443,,Low_spent_Small_value_payments,Property,0,66,11,16.0,0.7145939398613361
+Separated,Accountant,5,1,29.028778751905026,3851.03,570.288866833934,Poor,Good,7.0,sdv-pii-w0ock,6.0,3409.624108980128,,High_spent_Small_value_payments,Stocks,199002,1,-5,14.0,-1.126042616792044
+In a Relationship,Journalist,10,1,27.127140656202727,1379.0,620.9597701968099,Standard,_,3.0,sdv-pii-wv8r7,5.0,4144.01808117379,,High_spent_Medium_value_payments,Property,63686,95,12,12.0,6.197469972687829
+Widowed,Musician,8,1,37.57776579333621,1954.43,410.19816934802793,Standard,Standard,-1.0,sdv-pii-i5arb,0.0,2247.6611371996364,,!@9#%8,No Collateral,4875,62,1,10.0,2.16804812398143
+Single,Accountant,0,1,28.48548361735065,1808.33,358.97862228865137,Standard,Standard,6.0,sdv-pii-5nbcn,4.0,0.0,,Low_spent_Medium_value_payments,Stocks,18345,37,2,14.0,7.127776494280118
+Married,Accountant,9,1,36.060382068586904,,220.2399804807224,Standard,Standard,-8.0,sdv-pii-bbgvr,4.0,0.0,,High_spent_Small_value_payments,Vehicle,199002,44,10,18.0,0.17814218968998663
+Engaged,Mechanic,7,6,28.236684403066103,3442.61,549.5367154060755,Poor,Standard,-2.0,sdv-pii-jgg10,10.0,4614.069176508598,,Low_spent_Small_value_payments,No Collateral,22969,27,6,15.0,8.421337277878795
+Widowed,Journalist,6,1,28.198140403530644,1495.97,658.4686517666372,Poor,Good,3.0,sdv-pii-g4op8,10.0,727.7028144546838,,High_spent_Medium_value_payments,No Collateral,199002,40,23,13.0,-2.5993454778739524
+Single,Engineer,10,1,37.24077304239949,1872.3,431.65186363014277,Poor,Standard,-0.0,sdv-pii-seffn,1.0,0.0,,Low_spent_Small_value_payments,Stocks,182155,75,22,14.0,5.998127132978047
+Married,Lawyer,3,1,39.571402827351,1778.28,372.861693080946,Standard,Standard,,sdv-pii-5p7nd,3.0,2862.3257308653615,,Low_spent_Small_value_payments,No Collateral,0,69,17,15.0,5.484763914318938
+Married,Manager,4,1,30.129185497194158,1892.22,368.45527031663016,Standard,_,-4.0,sdv-pii-0v4bt,8.0,3720.569852969657,,Low_spent_Small_value_payments,Property,0,106,6,20.0,10.54514025015874
+Separated,Journalist,3,42,30.86559078880542,1555.99,350.63937314680015,Poor,Good,7.0,sdv-pii-0z9vg,6.0,535.054362524635,,High_spent_Small_value_payments,Property,110660,64,-2,11.0,0.07496364587673732
+Single,Media_Manager,6,5,34.13457374310419,1805.41,373.192760506518,Poor,_,5.0,sdv-pii-0cp9p,11.0,3911.1349901512917,,Low_spent_Small_value_payments,No Collateral,109384,88,9,5.0,3.205261358582166
+Married,Entrepreneur,8,1,24.88229538345364,4984.82,1120.751173160778,Standard,Standard,-2.0,sdv-pii-10x98,11.0,1228.8953585011632,,Low_spent_Small_value_payments,Property,63506,26,-2,,-3.44
+Widowed,Entrepreneur,4,1,41.51328788148247,737.84,492.53416323203624,Standard,Standard,-2.0,sdv-pii-5qzdb,15.0,2063.9787647086555,,Low_spent_Small_value_payments,Bonds,137939,104,3,25.0,3.1076499045596924
+Separated,Lawyer,3,1,38.56033021671453,4984.82,523.9369901634415,Poor,Standard,-0.0,sdv-pii-2puho,8.0,0.0,,Low_spent_Small_value_payments,No Collateral,0,3,8,9.0,4.403622043075025
+In a Relationship,Musician,7,1,34.68481294416951,1478.29,176.50487938443675,Good,Bad,-0.0,sdv-pii-id991,3.0,3642.0941755605913,,Low_spent_Small_value_payments,Vehicle,0,88,-5,18.0,8.273258470594012
+Married,Entrepreneur,2,1,28.798690223218212,616.01,248.93051422502197,Good,Good,-2.0,sdv-pii-cs15w,6.0,0.0,,Low_spent_Small_value_payments,Vehicle,21065,74,18,1.0,8.230441919975016
+Single,Accountant,4,1,33.6204845026629,1971.27,327.3458954487488,Standard,Bad,2.0,,8.0,3043.000844491479,,Low_spent_Small_value_payments,Vehicle,0,40,-5,22.0,4.259691911150158
+Widowed,Musician,5,1,29.626367716289398,679.27,633.1475839435236,Poor,Standard,3.0,sdv-pii-kj9qg,3.0,521.2730303941385,,Low_spent_Small_value_payments,Property,69310,78,20,14.0,4.559446166490815
+Married,Musician,1,1,39.44517454727608,2180.8,637.2687289447933,Standard,Good,-8.0,sdv-pii-c94cy,0.0,0.0,,Low_spent_Small_value_payments,Bonds,105013,39,22,6.0,
+Widowed,Entrepreneur,3,1,34.470447761688185,105.1,556.71203717899,Standard,Bad,1.0,sdv-pii-rkjqd,1.0,1861.6043665413108,,Low_spent_Small_value_payments,Vehicle,199002,80,8,14.0,3.3778915530129554
+In a Relationship,Engineer,1,1,29.242460854079035,95.94,875.7609584895445,Standard,_,1.0,sdv-pii-vos1z,7.0,1536.0183012017094,,Low_spent_Small_value_payments,Bonds,99835,18,0,1.0,2.505254373943391
+Divorced,Musician,10,1,38.9484445699053,3003.5,142.71303805205582,Standard,Standard,-2.0,,15.0,2740.5806621601328,,Low_spent_Small_value_payments,Property,141381,8,13,,1.8967140178985469
+Separated,Manager,7,1,41.51328788148247,2181.41,871.0329110353094,Poor,Standard,-1.0,,15.0,613.8995099321253,,Low_spent_Small_value_payments,Stocks,176269,28,27,6.0,1.335109873486017
+Married,Media_Manager,9,1,41.51328788148247,315.17,129.24693270040518,Standard,Bad,6.0,sdv-pii-zbgcg,15.0,1829.3986220483844,,Low_spent_Medium_value_payments,Property,121809,66,1,24.0,-0.5153329330740517
+Divorced,Journalist,4,1,32.10301931539904,2438.28,545.2266833360153,Standard,_,-6.0,sdv-pii-a9fio,11.0,0.0,,Low_spent_Small_value_payments,Bonds,24712,74,31,13.0,5.560513613019811
+Single,Architect,1,10,38.77440063665708,1852.12,407.71486216051727,Good,Good,-4.0,sdv-pii-rf21u,3.0,0.0,,!@9#%8,Stocks,199002,20,-5,4.0,2.8338728589201034
+Engaged,Entrepreneur,5,28,38.78428942459457,1529.07,272.2170763649881,Poor,Bad,9.0,sdv-pii-mzsfq,5.0,0.0,,Low_spent_Small_value_payments,Bonds,84719,48,25,18.0,10.17186333102398
+Married,Teacher,10,1,37.29311938878699,4202.96,560.582237242367,Standard,Standard,-1.0,sdv-pii-exxtr,5.0,3527.036726970192,,Low_spent_Medium_value_payments,No Collateral,0,9,-5,20.0,0.44574124482423993
+Separated,Accountant,8,1,36.57290110828476,1638.18,390.5113530479759,Standard,Standard,-1.0,sdv-pii-0fhjf,9.0,3494.470834809085,,High_spent_Small_value_payments,Property,82940,32,-5,19.0,5.943808872727361
+Separated,Teacher,0,23,34.5484412466617,1775.51,459.8210735870167,Good,Bad,4.0,sdv-pii-m0bm9,1.0,925.1618686758547,,Low_spent_Large_value_payments,Vehicle,90680,79,1,17.0,0.9494597275006509
+Divorced,Musician,2,1,36.12639601463803,2716.53,553.6492426546723,Standard,Standard,-2.0,sdv-pii-5kzy8,11.0,2638.922911460263,,!@9#%8,Property,0,71,-5,24.0,12.202514799992112
+Married,Developer,5,1,37.771568639402645,1626.98,424.19248263938516,Poor,_,4.0,sdv-pii-zai29,3.0,771.564615078779,,Low_spent_Medium_value_payments,Stocks,95762,58,9,4.0,6.588088164264364
+Engaged,Entrepreneur,4,13,33.92043637753868,4984.82,574.5191030366785,Standard,Good,-5.0,sdv-pii-z32ea,0.0,29408.58898877009,,High_spent_Small_value_payments,Bonds,108557,18,-5,10.0,5.207594405868376
+In a Relationship,Writer,3,1,36.408127009407224,865.15,490.6992979650378,Poor,Bad,-4.0,sdv-pii-go83s,3.0,0.0,,High_spent_Large_value_payments,Bonds,169090,66,4,7.0,6.507607052795252
+Single,Accountant,1,19,41.51328788148247,4643.02,393.963422515373,Standard,_,6.0,sdv-pii-ywsih,9.0,0.0,,High_spent_Small_value_payments,No Collateral,68930,56,-5,12.0,-1.5774650797753322
+Single,Manager,7,1,34.66531280087145,917.48,408.35868114665095,Good,Standard,-2.0,sdv-pii-ags1y,7.0,3929.2787853026343,,Low_spent_Small_value_payments,Vehicle,199002,15,-5,1.0,0.9928794460404111
+Separated,Musician,5,9,33.7837466700465,1752.5,652.0911881683046,Standard,Standard,1.0,sdv-pii-s0raq,2.0,0.0,,Low_spent_Small_value_payments,Property,172942,107,-5,10.0,3.6923963079088704
+Separated,Musician,2,1,37.10875204659476,,184.95376932933635,Standard,Standard,6.0,sdv-pii-wwm8w,10.0,2137.52312318531,,High_spent_Small_value_payments,Vehicle,18595,49,8,7.0,7.077545995569777
+Widowed,Entrepreneur,10,1,28.164100925459536,4301.95,616.8464389596255,Standard,Bad,-2.0,sdv-pii-dg1kc,4.0,648.288617368949,,Low_spent_Small_value_payments,No Collateral,75188,34,-1,,4.920471906257572
+Separated,Media_Manager,7,1,29.662385030940655,3004.75,308.99140279586516,Good,Good,-5.0,sdv-pii-rwgjo,2.0,3355.8813272455563,,Low_spent_Small_value_payments,Property,95572,1,3,21.0,5.276898313174426
+Single,Writer,8,14,29.136624668970136,1982.94,288.5587976479147,Good,Standard,-0.0,sdv-pii-op51e,14.0,0.0,,!@9#%8,Stocks,138849,54,-1,11.0,3.6657962580655967
+Widowed,Architect,4,19,34.41533408399629,2319.0,480.85163118796197,Poor,_,8.0,sdv-pii-okhzh,14.0,510.8627863635951,,High_spent_Small_value_payments,Stocks,0,53,8,1.0,0.9859240661350048
+Widowed,Architect,7,1,35.67990557562356,323.34,442.6009068359268,Standard,Standard,4.0,sdv-pii-gmsjl,4.0,2241.023982539985,,Low_spent_Small_value_payments,Property,51066,56,23,21.0,-3.44
+Married,_______,7,1,28.715894123662974,404.33,494.25173410150245,Standard,Good,-3.0,sdv-pii-m6okk,8.0,4369.205276400194,,High_spent_Large_value_payments,Vehicle,108460,91,19,6.0,0.010933822013612371
+Single,Media_Manager,8,1,28.34246132311812,1072.13,489.06794230926585,Standard,Bad,7.0,sdv-pii-djzee,4.0,1984.5662899934046,,Low_spent_Small_value_payments,Property,126361,63,10,1.0,
+Married,Accountant,3,1,36.63615481125024,1869.83,508.15174204400296,Standard,Bad,-5.0,sdv-pii-eee7s,9.0,2262.8086966572127,,High_spent_Large_value_payments,Property,149644,9,-5,10.0,-2.1579673482470794
+Widowed,Entrepreneur,4,6,24.378622138391442,2899.73,358.509306780615,Poor,Standard,-0.0,sdv-pii-lfmjq,0.0,2126.9904832022553,,Low_spent_Medium_value_payments,Property,199002,70,5,1.0,1.695988360311805
+In a Relationship,Manager,1,1,34.907433186713256,2089.84,388.16180946172085,Standard,Good,0.0,sdv-pii-0gqxx,0.0,0.0,,High_spent_Medium_value_payments,Vehicle,0,87,-3,1.0,10.65035264230643
+Single,Engineer,1,30,34.83720646490961,4984.82,500.14429208296167,Good,Good,-4.0,sdv-pii-8u3ix,5.0,0.0,,High_spent_Small_value_payments,Bonds,142749,51,4,14.0,-2.1175278435081006
+Separated,Scientist,2,1,34.760186028003545,609.31,641.8357609917964,Standard,Good,-0.0,sdv-pii-emeqh,10.0,2768.4157193131523,,Low_spent_Medium_value_payments,Property,79825,88,2,18.0,-1.8216847456738554
+Divorced,Architect,6,1,26.778176148266414,1458.95,834.9884381643137,Standard,Good,6.0,sdv-pii-qbckj,0.0,0.0,,High_spent_Medium_value_payments,Stocks,80822,100,25,4.0,9.679068927167627
+In a Relationship,Doctor,6,15,22.942887559245392,1652.66,213.85297040820052,Standard,Standard,,sdv-pii-oljcj,10.0,0.0,,Low_spent_Small_value_payments,Property,142360,83,-5,12.0,9.834488436646518
+Divorced,Lawyer,10,1,36.44854103699663,3137.44,624.1793676203456,Standard,Standard,-58.0,,1.0,584.6637780423482,,High_spent_Large_value_payments,No Collateral,199002,105,15,22.0,7.104430021383107
+Divorced,Engineer,4,1,24.306562294501095,2124.05,451.7630728435324,Standard,Standard,6.0,sdv-pii-3csxh,1.0,3421.49089714,,Low_spent_Small_value_payments,Property,38006,51,26,16.0,7.775290914689417
+Married,Lawyer,7,1,36.26701669346038,2352.06,380.1905703929241,Good,Standard,-5.0,sdv-pii-t8ari,4.0,0.0,,Low_spent_Small_value_payments,Vehicle,131057,23,25,14.0,0.5292210596244464
+Married,Musician,3,1,41.51328788148247,2950.14,437.28591415605746,Poor,Good,7.0,,4.0,1564.51965737642,,!@9#%8,Stocks,109827,1,39,16.0,1.013437813843976
+Separated,Manager,0,1,29.14933783183133,1602.8,377.70714386335743,Good,_,2.0,sdv-pii-ox4j8,4.0,0.0,,Low_spent_Medium_value_payments,Property,34200,83,18,10.0,0.4607205834093815
+Engaged,Entrepreneur,1,1,31.357864454053573,367.37,421.47892065778973,Poor,Standard,6.0,sdv-pii-u3jdv,15.0,2465.1426191181863,,High_spent_Small_value_payments,Bonds,165875,55,11,8.0,-2.8884579163077797
+Single,Lawyer,0,8,38.46164614473957,4984.82,329.8948454779116,Standard,Standard,5.0,sdv-pii-v6h1r,2.0,756.907974268372,,Low_spent_Small_value_payments,No Collateral,199002,108,-4,17.0,-1.5738540662139142
+Single,Journalist,9,1,38.88679512556239,560.98,275.11433717651977,Good,_,5.0,sdv-pii-u5nom,15.0,3498.842900045379,,Low_spent_Medium_value_payments,No Collateral,70236,37,10,8.0,-3.44
+In a Relationship,Engineer,8,26,39.57953749200762,1418.26,457.6181825440617,Standard,Good,-4.0,sdv-pii-ygsft,0.0,0.0,,Low_spent_Medium_value_payments,Property,192865,60,23,1.0,7.295083270316974
+Widowed,Lawyer,3,1,33.70921485277179,1076.98,307.64099421449043,Poor,Bad,5.0,sdv-pii-3vpcx,9.0,5174.48133901357,,High_spent_Large_value_payments,Property,62229,106,15,14.0,7.940656783612222
+Divorced,Journalist,6,5,34.25765541323804,1398.03,403.5927561416389,Standard,Good,-4.0,sdv-pii-46uer,6.0,1906.6667455111983,,High_spent_Medium_value_payments,Bonds,81878,75,-1,24.0,4.62415340427969
+Engaged,Lawyer,4,18,39.53332720985394,4984.82,1120.751173160778,Standard,_,2.0,sdv-pii-ywyrd,0.0,4841.259833081856,,Low_spent_Small_value_payments,Bonds,38652,42,-3,4.0,1.0623370663717742
+Single,Scientist,2,11,24.06740429946622,3181.95,360.57851560977406,Good,Good,1.0,sdv-pii-t5wj1,4.0,310.45102936263766,,Low_spent_Medium_value_payments,Bonds,13181,49,-2,16.0,5.071909284965713
+Separated,Scientist,2,6,33.69114913935958,2001.28,654.1451780123788,Poor,Standard,-1.0,sdv-pii-6ueak,0.0,1382.3432395180241,,Low_spent_Small_value_payments,No Collateral,199002,38,-5,11.0,0.7122372295042974
+Single,Entrepreneur,3,1,41.51328788148247,2699.54,222.4797293754885,Good,Good,-6.0,sdv-pii-0k9zh,10.0,3266.478931486723,,High_spent_Medium_value_payments,Stocks,199002,92,20,12.0,2.4449151598259915
+In a Relationship,Journalist,11,17,31.619402227623112,2081.33,645.2107543345218,Good,Standard,,sdv-pii-f9qub,5.0,1899.5325147298975,,Low_spent_Small_value_payments,Vehicle,199002,7,-5,15.0,6.697276273136179
+Married,Lawyer,3,21,38.16183219581435,4984.82,245.2260300280954,Standard,_,6.0,,4.0,3536.755719136659,,Low_spent_Small_value_payments,No Collateral,78326,59,15,5.0,-0.24728216959385296
+Single,Entrepreneur,3,1,30.646841739777248,1024.73,182.17711936826063,Good,Standard,8.0,sdv-pii-efy1y,11.0,484.75838860241436,,Low_spent_Small_value_payments,Stocks,199002,106,42,14.0,-0.28467247717231725
+Married,Mechanic,0,1,34.28370833224365,425.63,428.5539574167276,Poor,Good,-4.0,sdv-pii-mv791,0.0,0.0,,Low_spent_Medium_value_payments,Property,27682,102,11,8.0,9.374735569673911
+Married,Manager,0,3,31.363115769111968,1962.57,511.1356577504879,Poor,Good,4.0,sdv-pii-y216x,15.0,1460.702743037952,,High_spent_Large_value_payments,Stocks,177012,64,-5,9.0,3.7469362766979293
+Engaged,Scientist,7,1,41.51328788148247,4247.79,509.86919985257407,Standard,Bad,-3.0,sdv-pii-8angs,12.0,4371.453658829857,,Low_spent_Large_value_payments,Property,0,65,-5,1.0,11.789556945145778
+Separated,Journalist,5,1,37.54089301452752,1618.05,626.0230641994856,Poor,Good,-3.0,sdv-pii-egqet,8.0,381.8050708245662,,Low_spent_Small_value_payments,No Collateral,0,35,1,10.0,4.805693545184571
+Engaged,Musician,7,1,32.047675234679765,1561.14,543.5360460842325,Standard,Bad,1.0,sdv-pii-zpi6b,4.0,4422.233618858049,,!@9#%8,No Collateral,82912,67,0,21.0,-1.132007687504358
+Separated,Lawyer,4,1,35.734172971891255,519.54,337.02579870094024,Standard,Good,-1.0,sdv-pii-3x8ck,10.0,559.3003225337038,,High_spent_Large_value_payments,Stocks,88762,30,2,21.0,0.9566174143745059
+Single,Entrepreneur,2,1,40.29645029434357,2007.25,473.03079451548683,Standard,Standard,9.0,sdv-pii-g39hy,6.0,16045.362197177525,,Low_spent_Small_value_payments,No Collateral,199002,57,3,1.0,-0.1826434349207764
+Married,Musician,3,2,34.50734750274718,1650.39,634.1219929870055,Good,Standard,-3.0,sdv-pii-fuug7,0.0,0.0,,High_spent_Large_value_payments,Bonds,0,66,20,20.0,-0.07042276457019003
+Separated,Doctor,4,4,41.51328788148247,4742.34,571.6549941920621,Standard,Standard,-0.0,sdv-pii-dv921,12.0,2362.510523435583,,High_spent_Large_value_payments,No Collateral,0,52,4,8.0,2.230177588944213
+Divorced,Architect,8,1,36.85055577588444,2491.85,451.5061105535546,Poor,_,-4.0,sdv-pii-sz6m5,8.0,4759.192324265697,,!@9#%8,Property,92995,32,-5,5.0,-1.2693018192133527
+Single,Scientist,0,1,25.384195202504614,2295.22,459.95468644041216,Standard,Bad,-3.0,sdv-pii-rlzh5,0.0,1462.5663479015157,,Low_spent_Medium_value_payments,Stocks,145511,37,-2,11.0,11.673377359578197
+Single,Accountant,7,1,38.19305621325398,1038.07,171.99436522267501,Poor,Standard,7.0,sdv-pii-0u12o,7.0,2824.9459854388438,,!@9#%8,No Collateral,157146,39,11,8.0,4.843313355094455
+Separated,Architect,2,1,28.72298371956189,1557.28,188.81886909011095,Good,Good,-1.0,sdv-pii-tlelu,6.0,2319.6105806082132,,High_spent_Medium_value_payments,No Collateral,130556,97,10,10.0,0.7929709759458943
+Married,Lawyer,2,1,30.52985467258391,503.97,83.27989019227797,Standard,Good,-2.0,sdv-pii-7s6ws,13.0,0.0,,High_spent_Small_value_payments,Property,72744,60,37,2.0,4.668162946478029
+Married,Writer,3,1,32.9393432300668,1252.04,639.0984813468679,Poor,Standard,8.0,sdv-pii-p5oks,9.0,0.0,,High_spent_Large_value_payments,Bonds,150671,92,21,20.0,2.6604185123309634
+Single,Musician,5,4,35.009575542458634,3077.07,184.36810133026242,Standard,Standard,9.0,sdv-pii-odvur,12.0,645.9382275473772,,High_spent_Medium_value_payments,Stocks,143800,47,8,18.0,-1.0616764990502192
+Single,Musician,4,1,34.0251848229711,1287.99,462.3625820108739,Good,Good,6.0,sdv-pii-0qavs,1.0,2273.4009306590096,,High_spent_Small_value_payments,Bonds,84581,95,5,3.0,5.321421599644534
+Single,Journalist,0,1,35.70444863648909,1755.25,314.0136216134054,Standard,Standard,-2.0,sdv-pii-dm2s6,3.0,1433.7504007579234,,Low_spent_Small_value_payments,Vehicle,114417,89,-1,1.0,3.4338118522982137
+Separated,Musician,5,1,29.821215383386107,731.94,494.2251522288262,Standard,Standard,-2.0,,6.0,3823.3085633852133,,High_spent_Small_value_payments,Vehicle,147051,105,9,5.0,1.8361771399234508
+Married,Scientist,4,1,31.134629363483327,2141.16,544.5107314987913,Standard,_,-4.0,sdv-pii-6s3i9,3.0,0.0,,High_spent_Small_value_payments,Stocks,176020,63,14,11.0,-0.7507160959113657
+Married,Accountant,1,1,30.82146245846921,95.87,343.95465400364117,Good,Bad,-2.0,sdv-pii-1j3qh,10.0,1084.3644478349486,,Low_spent_Medium_value_payments,Bonds,0,61,14,8.0,18.351364406310235
+Engaged,Lawyer,5,6,40.59385386021352,2302.57,450.33256358679097,Good,_,-2.0,sdv-pii-o7blj,15.0,889.291135089531,,Low_spent_Medium_value_payments,Vehicle,3937,15,19,13.0,7.603931979108518
+Married,Entrepreneur,4,1,31.91709879769789,1594.44,268.85533627163574,Poor,Good,-1.0,sdv-pii-d58j8,9.0,3014.1676736430477,,Low_spent_Small_value_payments,Vehicle,129728,100,7,5.0,1.668633141669913
+In a Relationship,Journalist,8,1,22.53759303178384,772.21,258.4586834747936,Poor,Bad,-65.0,,9.0,4439.04705504764,,!@9#%8,Stocks,145526,80,-5,1.0,1.3935971497151929
+Widowed,Entrepreneur,0,1,38.245149814400826,4840.93,174.41684564860796,Good,Bad,-1.0,sdv-pii-cv5nj,0.0,3820.90620103429,,High_spent_Medium_value_payments,No Collateral,72689,24,-5,5.0,-0.6230683584389078
+Widowed,Engineer,11,1,28.350417966799228,124.72,299.45999725157793,Poor,Standard,-3.0,sdv-pii-r6i07,15.0,0.0,,High_spent_Medium_value_payments,Property,171859,102,25,21.0,1.286932293029273
+Widowed,Entrepreneur,9,1,29.25865535413616,1938.8,174.46034896858808,Standard,Good,1.0,sdv-pii-f2qin,0.0,744.2133717946828,,Low_spent_Small_value_payments,Bonds,60125,6,-5,10.0,3.6647376140280894
+Married,Journalist,1,1,25.62024857059603,1991.89,372.6721392703746,Good,Standard,-5.0,,6.0,3907.2510447101304,,High_spent_Small_value_payments,Stocks,102472,92,7,4.0,1.880604363211738
+Separated,Lawyer,2,1,32.15655160945209,1012.22,405.3254583275695,Poor,Bad,-4.0,sdv-pii-jrln5,5.0,57.28838225914693,,Low_spent_Medium_value_payments,Vehicle,119585,94,13,11.0,0.19100028996333318
+In a Relationship,Engineer,0,1,25.32441809553052,4984.82,671.2041576139842,Standard,Good,-4.0,sdv-pii-r2nlx,0.0,3131.220832913125,,Low_spent_Small_value_payments,Property,159271,101,10,10.0,-3.44
+Widowed,Manager,4,1,38.43611844241835,937.34,941.0047111524841,Poor,_,-7.0,sdv-pii-ec7zg,15.0,0.0,,High_spent_Medium_value_payments,Property,199002,85,18,17.0,-1.5251918986137127
+Married,Lawyer,6,1,34.34497547050242,3893.79,307.06683614822697,Poor,Good,3.0,sdv-pii-487os,3.0,2069.134336278069,,Low_spent_Small_value_payments,Bonds,0,31,24,1.0,0.05822921142761395
+Divorced,Manager,11,8,41.51328788148247,3914.71,305.9978921009452,Poor,Standard,-3.0,sdv-pii-0nw22,10.0,3285.268271095426,,Low_spent_Small_value_payments,Bonds,9414,52,-5,11.0,3.8838573012929833
+Single,Accountant,7,1,31.487998450447158,912.53,714.3799522432794,Poor,Standard,-3.0,sdv-pii-en8on,11.0,3108.6374556025194,,!@9#%8,Property,88945,101,14,10.0,
+Widowed,Doctor,3,1,33.515433202416425,2139.01,640.5310633866866,Standard,Bad,6.0,sdv-pii-8fdr3,5.0,3500.1987500902933,,Low_spent_Small_value_payments,Bonds,181961,96,-3,6.0,-1.0507797814185187
+In a Relationship,Journalist,7,6,39.091118632180304,2159.39,456.8047973398825,Poor,Good,4.0,sdv-pii-5dcgj,11.0,505.5376689496742,,Low_spent_Small_value_payments,Stocks,0,1,28,11.0,4.667752302915401
+Married,Writer,10,1,23.260103883964327,1615.48,265.92221003170573,Standard,Good,-3.0,sdv-pii-wugjg,5.0,0.0,,High_spent_Small_value_payments,Vehicle,199002,45,11,4.0,3.0516705714377395
+Divorced,Musician,6,1,33.574423694768875,1924.6,362.3261449744416,Standard,Good,-5.0,sdv-pii-awak3,6.0,5336.833703195068,,Low_spent_Small_value_payments,Property,55157,14,2,,11.127725617103968
+Separated,Writer,7,1,41.51328788148247,321.91,353.14015766434903,Good,_,-7.0,sdv-pii-ff8ik,11.0,1197.1981438936039,,Low_spent_Small_value_payments,Bonds,87847,69,10,13.0,2.312384528097035
+Separated,Manager,0,1,34.64995086710887,734.54,230.39041177262368,Poor,Bad,0.0,sdv-pii-m52sp,4.0,3416.165327603827,,Low_spent_Small_value_payments,Bonds,106991,91,12,15.0,1.2058184748076082
+Single,Journalist,8,1,36.86260871135127,4325.02,637.0902937276412,Standard,Good,5.0,sdv-pii-w5asx,3.0,1491.1102466271782,,Low_spent_Small_value_payments,Property,150439,81,13,8.0,2.0817147859737988
+Separated,_______,5,1,30.581889608036157,1039.72,535.4542271788416,Standard,Standard,-3.0,sdv-pii-scbsm,11.0,0.0,,Low_spent_Medium_value_payments,Vehicle,111956,3,-4,3.0,-1.0743329556566534
+Divorced,Engineer,5,26,25.83336205148791,108.46,328.0850922919527,Poor,_,3.0,sdv-pii-mkb6r,4.0,6988.151360211617,,Low_spent_Medium_value_payments,Stocks,104549,5,40,10.0,0.9718282451956757
+Single,Scientist,2,7,36.998794030657,4357.58,915.2773660295463,Poor,Bad,-3.0,sdv-pii-8fq17,0.0,0.0,,Low_spent_Small_value_payments,Bonds,0,84,36,1.0,3.9514825511314324
+Married,Scientist,4,15,39.490444345522505,3494.97,272.65211270536963,Good,_,-0.0,sdv-pii-fqfkn,0.0,0.0,,Low_spent_Small_value_payments,Vehicle,164964,55,47,11.0,0.21260335768593386
+Married,Media_Manager,5,1,34.243752046402676,346.18,387.33290979026606,Standard,Standard,-5.0,sdv-pii-0ay3g,8.0,2347.845744424639,,Low_spent_Small_value_payments,Stocks,63595,89,39,9.0,-1.087062375432036
+Separated,Mechanic,5,1,29.171247746219567,4573.52,358.9272172683341,Standard,Standard,-1.0,sdv-pii-a2hjz,11.0,821.5938368723081,,High_spent_Small_value_payments,No Collateral,0,49,12,3.0,3.0262767354374924
+Separated,Musician,10,1,27.730713559503215,2845.54,484.36709641172047,Poor,_,1.0,sdv-pii-2a5ft,0.0,0.0,,High_spent_Small_value_payments,Vehicle,151648,70,4,4.0,0.630838405260274
+Single,Lawyer,8,1,33.211620262962064,3793.87,492.33738702523044,Poor,Bad,-6.0,sdv-pii-uqfig,5.0,2715.8717074353644,,Low_spent_Small_value_payments,Property,38874,40,27,1.0,0.07285965340487444
+Widowed,Journalist,11,2,35.3109204694351,1124.17,376.8914941136362,Good,Good,2.0,sdv-pii-tbuai,15.0,934.511154017956,,High_spent_Large_value_payments,Bonds,182500,32,7,17.0,0.7337938661193855
+Single,Scientist,1,1,39.717024406156355,1964.98,196.67471695311008,Poor,Standard,-4.0,sdv-pii-gdey5,3.0,0.0,,Low_spent_Medium_value_payments,Property,129339,7,-5,6.0,5.76695792479828
+Divorced,Mechanic,8,1,31.782712802859596,1592.93,592.4754846498633,Standard,Standard,,sdv-pii-2yqel,2.0,50991.72358913705,,High_spent_Medium_value_payments,Property,3242,51,18,19.0,4.856359169702461
+Married,Media_Manager,4,1,26.623255565500834,4373.32,262.99225577800013,Poor,Standard,-2.0,sdv-pii-any1m,0.0,370.29212215097743,,Low_spent_Small_value_payments,Stocks,107283,89,11,,7.295731822398603
+Separated,Teacher,13,20,33.40214772292133,998.45,611.8167617297672,Standard,Standard,-1.0,sdv-pii-kowmx,15.0,3554.033161934608,,High_spent_Large_value_payments,Stocks,42411,76,-3,8.0,6.745314921690498
+Separated,Journalist,2,1,38.8329083221681,3684.11,290.7869358168674,Good,Standard,-5.0,sdv-pii-nfdtt,9.0,0.0,,Low_spent_Small_value_payments,Stocks,199002,81,15,23.0,1.5087953806604162
+Engaged,Scientist,9,10,37.8545374786757,1996.26,411.2853440720762,Standard,Good,1.0,sdv-pii-6ilfe,4.0,0.0,,Low_spent_Medium_value_payments,Property,0,81,26,15.0,7.218370706185421
+Engaged,Entrepreneur,2,1,29.108946432718188,1121.96,510.721226758243,Standard,Bad,-1.0,sdv-pii-ni8h4,9.0,2617.948055944558,,Low_spent_Medium_value_payments,No Collateral,0,92,21,5.0,4.841506190059906
+Widowed,Engineer,0,1,35.12106970867079,4807.56,869.662495750719,Standard,Good,4.0,sdv-pii-422i7,15.0,0.0,,High_spent_Medium_value_payments,Property,30027,48,22,14.0,-0.8506676777524804
+Divorced,Journalist,2,34,33.431151395231794,2977.5,461.5185949910806,Standard,_,0.0,sdv-pii-xbcc2,13.0,0.0,,Low_spent_Medium_value_payments,Bonds,42277,84,-5,14.0,-2.340904585244158
+Single,Entrepreneur,0,1,39.93088983493536,3772.28,341.6785089223858,Good,Bad,-3.0,sdv-pii-amyku,5.0,2137.0341422049346,,High_spent_Large_value_payments,Bonds,184510,64,13,5.0,2.3251398166323174
+Married,Lawyer,10,1,37.660319646971445,4984.82,297.1170496693503,Standard,Good,-8.0,sdv-pii-ynkb1,8.0,4157.069171278382,,High_spent_Large_value_payments,Stocks,161061,69,2,3.0,5.456517218412801
+Divorced,Lawyer,14,15,26.0898553989249,1105.14,919.1357127296529,Good,Standard,1.0,sdv-pii-0qm9g,4.0,2709.8800972330732,,High_spent_Medium_value_payments,Vehicle,82392,1,14,15.0,17.00411410574937
+Engaged,Scientist,4,10,34.044302501516356,1547.57,583.165045559461,Standard,_,-3.0,sdv-pii-xo9on,5.0,0.0,,High_spent_Medium_value_payments,Property,103298,85,62,23.0,2.846669935452147
+Divorced,Architect,8,1,40.715759562400436,1123.96,1024.509780229414,Good,Good,-0.0,sdv-pii-55wrc,14.0,899.6800432557054,,High_spent_Small_value_payments,Property,62898,105,7,18.0,8.926308825164805
+Married,Media_Manager,2,1,28.29905282077507,3914.29,328.3440080229519,Good,Good,-6.0,sdv-pii-nl5bg,7.0,4405.578985227074,,High_spent_Small_value_payments,Bonds,0,88,-5,6.0,1.4467533834627666
+Widowed,Musician,6,1,30.725675040896036,1070.56,612.7464991573527,Poor,Standard,4.0,sdv-pii-y6ybv,15.0,3068.4943389716564,,High_spent_Small_value_payments,No Collateral,180624,88,0,21.0,2.912880694765298
+Single,Architect,0,1,27.143994776342957,4318.37,439.4535301997332,Standard,Good,7.0,sdv-pii-44az9,0.0,1338.9352835164327,,Low_spent_Small_value_payments,Vehicle,199002,12,38,21.0,0.6851101865907534
+Married,Lawyer,6,1,35.40514154377223,839.21,1120.751173160778,Good,Bad,2.0,sdv-pii-095ht,10.0,0.0,,High_spent_Small_value_payments,Vehicle,199002,115,3,15.0,1.3695153241529487
+Single,Mechanic,0,46,35.88120419028461,1258.04,320.2170314968447,Standard,Good,-5.0,sdv-pii-3ne85,4.0,0.0,,High_spent_Small_value_payments,Stocks,178677,49,1,1.0,5.941522896378171
+Single,Musician,2,1,31.63984705706265,829.71,314.5510644298375,Poor,Bad,-1.0,sdv-pii-qufzq,2.0,0.0,,Low_spent_Large_value_payments,Vehicle,165318,71,9,12.0,-0.6938300295898427
+Divorced,Journalist,12,1,29.177852998441107,4582.32,554.1634938549917,Standard,Good,6.0,sdv-pii-qptfz,11.0,3446.645773583046,,Low_spent_Medium_value_payments,Property,5608,94,16,3.0,1.0449433101959702
+Married,Scientist,7,1,37.78145052694201,4076.98,681.4007428757402,Good,Standard,-100.0,sdv-pii-or0tn,2.0,4415.617993829447,,High_spent_Large_value_payments,Bonds,62613,27,9,20.0,1.3548570235111796
+Engaged,_______,5,1,24.180053595514345,487.31,373.2737497943932,Standard,Standard,-100.0,sdv-pii-ok79j,11.0,0.0,,Low_spent_Large_value_payments,Bonds,0,73,22,19.0,3.564333012024174
+Single,Scientist,4,5,41.51328788148247,1666.21,341.2991770569166,Poor,Standard,1.0,sdv-pii-5rw2b,9.0,3113.6850345425933,,Low_spent_Medium_value_payments,Property,7174,77,2,,5.9661588895455715
+Married,Musician,6,1,41.24716540724286,1330.88,632.0189849637334,Good,_,7.0,sdv-pii-bsmbs,12.0,0.0,,High_spent_Small_value_payments,Bonds,148087,80,-4,,0.8612558791617921
+Separated,Journalist,14,1,36.8010323545907,4984.82,517.9709677247938,Poor,Standard,7.0,sdv-pii-6h3jy,8.0,0.0,,Low_spent_Medium_value_payments,Bonds,165790,41,0,15.0,0.19307642377068834
+Separated,Manager,8,1,31.163400285752218,4148.88,274.7280175196158,Standard,_,-0.0,sdv-pii-x33bx,8.0,1672.0363096327976,,Low_spent_Small_value_payments,Stocks,88913,94,6,9.0,1.7163656467960697
+Separated,Developer,7,1,40.01850676251306,1231.53,355.2618018918344,Good,Standard,5.0,sdv-pii-0404w,15.0,1353.9243848894916,,Low_spent_Medium_value_payments,Vehicle,184496,28,2,21.0,-3.44
+Separated,Musician,0,1,37.965140307902104,3093.11,451.67822692290133,Good,Bad,-1.0,,7.0,2302.347089011184,,High_spent_Large_value_payments,Vehicle,111079,6,-5,,6.954251883746771
+Separated,Accountant,0,16,40.27507376558224,1764.07,432.0299643880872,Standard,Good,7.0,sdv-pii-667di,7.0,3886.633236595735,,!@9#%8,Stocks,173606,36,1,1.0,1.3793374932964984
+Married,Entrepreneur,9,1,30.311057241718387,3075.47,451.76528381214825,Good,Bad,-6.0,sdv-pii-00d2u,2.0,3955.10814202717,,Low_spent_Small_value_payments,Vehicle,193495,85,2,13.0,9.380366004761365
+Married,Scientist,8,1,38.57540143450377,1411.42,424.40982336678223,Good,Standard,-4.0,sdv-pii-so2o7,7.0,124.50103233424346,,High_spent_Small_value_payments,Property,86950,97,-5,8.0,2.8515163481241723
+Single,Teacher,3,1,26.287357601796707,895.43,424.3288717658721,Standard,Bad,3.0,sdv-pii-bc2ck,4.0,923.5480936509786,,High_spent_Medium_value_payments,Property,57974,77,6,14.0,10.342128358003148
+Single,Architect,12,1,39.80264671575986,2483.92,911.0261288570218,Standard,Bad,5.0,sdv-pii-1jqon,10.0,2960.7407746552203,,Low_spent_Medium_value_payments,Vehicle,150047,78,-5,13.0,3.326672735014129
+Separated,_______,3,1,30.259921195547076,1822.01,1038.991555982939,Good,Standard,3.0,sdv-pii-ptdmb,3.0,566.2552114883699,,Low_spent_Small_value_payments,Stocks,147859,34,0,14.0,2.777730685271088
+Single,Entrepreneur,5,1,41.51328788148247,1803.85,597.4392599401849,Poor,_,-40.0,sdv-pii-pxsla,6.0,52098.639369881115,,High_spent_Large_value_payments,No Collateral,168484,1,18,21.0,3.3350384717494563
+Single,Writer,2,1,41.51328788148247,2006.39,324.58514310576,Good,Good,-5.0,sdv-pii-bw9fh,14.0,646.1597243916048,,Low_spent_Large_value_payments,Property,64786,20,-4,15.0,1.325235303521131
+Married,Journalist,7,1,27.97944900323962,1199.14,298.70653589210565,Good,Bad,0.0,sdv-pii-pi99h,12.0,0.0,,High_spent_Small_value_payments,Property,183,113,-2,15.0,4.51070975449008
+Married,Entrepreneur,5,1,31.436254452546876,4081.18,538.8257784454266,Poor,Good,5.0,,13.0,3642.6453341154347,,Low_spent_Small_value_payments,Property,178223,79,-1,9.0,1.3264484429853383
+In a Relationship,Media_Manager,7,1,33.35248532932806,4089.66,572.9168794048842,Standard,Bad,1.0,sdv-pii-qpiur,1.0,79443.30914273186,,!@9#%8,Stocks,64540,76,20,5.0,2.40124836146411
+Widowed,Mechanic,10,1,39.25556946711121,2083.99,326.8675081065375,Poor,_,-1.0,,8.0,219.91518195641783,,Low_spent_Small_value_payments,Vehicle,121453,105,23,,
+Single,Media_Manager,11,16,28.97696061880632,4984.82,563.8092464356943,Good,Good,2.0,sdv-pii-06olf,7.0,673.8148799475827,,High_spent_Small_value_payments,Vehicle,199002,71,0,8.0,4.879830094550146
+Married,Architect,7,39,22.53759303178384,68.43,434.1681971613519,Standard,Bad,4.0,sdv-pii-ql8yh,6.0,2923.008804464748,,Low_spent_Medium_value_payments,Vehicle,95412,77,-5,17.0,8.583983752881295
+Divorced,_______,3,10,37.427662255176074,1235.09,428.5275891035199,Poor,Bad,2.0,sdv-pii-fmzni,8.0,81050.0,,Low_spent_Medium_value_payments,No Collateral,183269,83,2,9.0,1.7842326700443536
+Separated,_______,1,1,41.51328788148247,1192.44,369.6214306382456,Standard,Good,-2.0,,0.0,982.183182626502,,Low_spent_Small_value_payments,Property,1755,94,1,10.0,12.406620729194533
+Widowed,Musician,2,4,35.37006139296223,1529.56,501.3470756917246,Poor,Good,2.0,sdv-pii-iuv24,0.0,362.07541381500147,,High_spent_Small_value_payments,Property,137377,67,16,10.0,2.2503519051584933
+Engaged,Accountant,7,47,40.86565864441311,4910.32,257.9368383510182,Good,Bad,9.0,sdv-pii-4wpi5,0.0,0.0,,Low_spent_Small_value_payments,Stocks,108908,110,14,15.0,9.946619107527809
+Engaged,Musician,7,8,37.409045288198186,3422.91,366.89045099763996,Standard,Standard,7.0,sdv-pii-vcx0w,0.0,4898.23240394781,,High_spent_Medium_value_payments,Property,115488,47,-5,11.0,1.6632133048201059
+Separated,Entrepreneur,10,1,34.677706740585336,1250.04,535.7528335651909,Standard,Standard,-3.0,sdv-pii-j7cs2,11.0,1095.3809016869263,,Low_spent_Medium_value_payments,Bonds,199002,25,15,13.0,-1.525756081941478
+Married,Entrepreneur,0,7,28.60848642455085,1966.56,178.79554336897456,Standard,_,-2.0,sdv-pii-4lvcl,6.0,342.9678985538471,,Low_spent_Medium_value_payments,No Collateral,74557,29,37,8.0,3.1589406907751645
+Single,Entrepreneur,1,1,40.03227256268508,4120.29,327.0250317689619,Good,Standard,5.0,sdv-pii-trcm7,7.0,3648.6402168216455,,High_spent_Small_value_payments,No Collateral,0,99,8,16.0,8.926814343847848
+Single,Entrepreneur,12,16,36.294038111250096,2204.48,408.79601325131966,Poor,Good,-6.0,sdv-pii-guydd,12.0,3890.6780514400907,,Low_spent_Small_value_payments,Property,59861,67,-5,10.0,0.6977905220524798
+Separated,Musician,8,1,34.145644024711274,3552.52,529.950699175189,Poor,Standard,-2.0,,6.0,57730.74089857402,,!@9#%8,Vehicle,11735,92,9,9.0,0.6780002574274828
+Single,Musician,14,1,34.728505894966865,4984.82,620.9946432017955,Standard,Bad,4.0,sdv-pii-1mxz5,5.0,2056.3012982767373,,Low_spent_Medium_value_payments,Property,199002,79,-5,13.0,6.012983263302896
+In a Relationship,Media_Manager,3,3,32.31850490713131,3165.71,374.8451643322658,Standard,Good,-3.0,sdv-pii-03l3i,9.0,1660.9785188892065,,Low_spent_Small_value_payments,Property,116644,72,14,9.0,-3.44
+Single,Lawyer,8,1,37.25880294242604,1108.55,364.64807029648176,Standard,Bad,7.0,sdv-pii-gt5g2,6.0,3644.2302594347057,,Low_spent_Medium_value_payments,Property,126036,87,11,10.0,1.6348962989511646
+Separated,Teacher,32,1,41.51328788148247,1260.64,542.9264971116436,Standard,_,6.0,sdv-pii-gex76,13.0,0.0,,Low_spent_Small_value_payments,Bonds,134794,1,7,19.0,-3.44
+Separated,Musician,4,1,41.51328788148247,1301.97,662.9819525766698,Good,Standard,-5.0,sdv-pii-9bmx5,6.0,3144.8337602695597,,Low_spent_Small_value_payments,Vehicle,159870,29,-5,4.0,2.6825817382006285
+Single,Entrepreneur,6,14,40.809372089108955,4343.2,583.2911461444914,Standard,Standard,4.0,sdv-pii-cc0ss,3.0,629.8232125890024,,High_spent_Large_value_payments,Bonds,199002,23,-5,16.0,8.234766524899651
+Single,Architect,3,1,41.51328788148247,2124.93,230.46252422842701,Standard,Good,5.0,sdv-pii-s91dl,5.0,177.6425728825462,,High_spent_Medium_value_payments,Stocks,44272,96,-5,14.0,4.951584396449547
+Widowed,Writer,6,1,24.107520062187533,1250.3,465.92450270020754,Standard,_,-3.0,sdv-pii-7dlm2,5.0,0.0,,Low_spent_Small_value_payments,Vehicle,133669,98,5,13.0,0.9720192760380142
+Separated,_______,5,8,41.4277127086985,3287.85,91.49102563704943,Poor,Standard,9.0,sdv-pii-skcpq,2.0,0.0,,Low_spent_Medium_value_payments,Property,199002,42,46,8.0,-0.022018998289706992
+In a Relationship,Scientist,0,1,41.51328788148247,1019.39,537.3976434674828,Good,Standard,-3.0,sdv-pii-o6tm4,10.0,0.0,,Low_spent_Medium_value_payments,Bonds,159583,31,-5,14.0,-0.6447258168874521
+Engaged,Journalist,5,20,37.097497656077095,2009.25,777.4197864085435,Standard,Standard,5.0,sdv-pii-hl04t,3.0,0.0,,!@9#%8,Stocks,199002,79,16,15.0,3.974978681437481
+Single,_______,2,1,35.15042552317379,2419.43,361.3333760978235,Good,Standard,-6.0,sdv-pii-suc7u,4.0,4649.01469573024,,High_spent_Small_value_payments,Vehicle,0,59,4,2.0,1.9696944326870538
+Married,Architect,2,1,27.599111190509376,1906.32,512.9096962559087,Good,Standard,1.0,sdv-pii-ti9gm,4.0,2.4664277682658735,,!@9#%8,Bonds,152015,61,10,26.0,6.979838826772218
+Separated,Accountant,7,1,32.18717742024676,505.07,363.9846980566521,Standard,_,-4.0,sdv-pii-9t0ui,15.0,5128.251537329705,,!@9#%8,Property,77256,93,-2,5.0,7.778755413204912
+Married,Engineer,11,1,38.85798498405488,2057.04,242.39233456426786,Standard,Standard,-5.0,sdv-pii-xmjy7,0.0,2009.5239550160454,,!@9#%8,Stocks,188126,27,8,6.0,-0.4038047495269419
+Engaged,Entrepreneur,2,3,39.06835912626299,2806.19,1120.751173160778,Standard,Standard,3.0,,4.0,997.9411501835673,,High_spent_Large_value_payments,Bonds,101035,82,7,11.0,8.791699636138091
+Engaged,Architect,9,3,40.19203759000814,2496.0,544.2374256283069,Standard,Standard,5.0,sdv-pii-m1n58,14.0,0.0,,High_spent_Medium_value_payments,Stocks,199002,111,-5,23.0,1.3130803028758349
+Single,Entrepreneur,1,1,31.849262289515647,1933.35,198.6883691822677,Standard,Bad,0.0,,6.0,1356.6375489942318,,!@9#%8,Property,197516,30,1,16.0,
+Single,Scientist,9,1,37.24749434637788,3602.84,257.6447141226562,Standard,Standard,8.0,,11.0,3911.7905243574583,,Low_spent_Medium_value_payments,Property,0,83,24,6.0,5.312359076584968
+Engaged,_______,8,1,38.81875280945436,1781.59,477.53384665817026,Standard,_,1.0,sdv-pii-ecm36,15.0,858.3375969976511,,Low_spent_Small_value_payments,Property,159173,108,33,13.0,2.969614533384334
+Separated,Doctor,8,1,32.910466708242005,1290.46,592.2136356167518,Good,Bad,-7.0,sdv-pii-y4xp8,11.0,0.0,,Low_spent_Small_value_payments,No Collateral,95776,31,26,10.0,2.259613584504211
+Widowed,Scientist,14,1,34.46841229995897,202.89,389.20257268831995,Standard,Good,-7.0,sdv-pii-zu8zi,0.0,1316.909523649985,,Low_spent_Small_value_payments,Bonds,40211,93,15,19.0,-3.44
+Single,Architect,12,1,28.829562923061104,790.77,427.2274390588586,Poor,Standard,0.0,sdv-pii-1fg97,7.0,0.0,,Low_spent_Medium_value_payments,Bonds,81477,88,61,16.0,9.933903739195863
+Widowed,Engineer,9,1,40.02898233859691,971.55,201.11252039698417,Good,Standard,5.0,sdv-pii-l9xue,14.0,378.067806759739,,Low_spent_Medium_value_payments,Stocks,34817,109,22,15.0,5.748999367364661
+Married,Entrepreneur,3,8,28.100318093290742,4156.17,489.44788972849733,Standard,Standard,-4.0,sdv-pii-xgk0c,9.0,1370.9979851406727,,High_spent_Medium_value_payments,Property,136678,9,-3,5.0,4.537196379770715
+Single,Accountant,1,1,33.79766719588657,4984.82,359.76630498267195,Poor,Good,-2.0,sdv-pii-a063h,3.0,604.844104053837,,Low_spent_Small_value_payments,Property,157043,83,-5,14.0,1.2282592828827958
+Single,_______,6,2,41.42609852100644,2384.92,396.7382069716791,Standard,Bad,9.0,sdv-pii-7zoi7,1.0,3562.8706448874227,,Low_spent_Small_value_payments,Bonds,0,45,-5,15.0,1.8702900746130524
+Married,Entrepreneur,0,1,27.42777655758958,4984.82,522.7729403118684,Standard,Bad,4.0,sdv-pii-xq2wf,7.0,2161.3040646933605,,Low_spent_Small_value_payments,No Collateral,199002,59,9,14.0,-2.021138190914747
+Widowed,Architect,3,1,29.01320254802316,1375.13,608.5711603003526,Good,Standard,1.0,sdv-pii-k7z5c,13.0,0.0,,High_spent_Large_value_payments,Vehicle,156046,53,5,20.0,0.8959306302522982
+Married,Scientist,0,3,34.65308307924244,1790.9,403.91475357095754,Poor,Standard,-1.0,,9.0,5194.3082346017645,,Low_spent_Small_value_payments,Property,75631,101,3,1.0,-0.6867247435373232
+Separated,_______,2,1,36.530482915506816,1035.21,341.66671604290804,Standard,Standard,2.0,sdv-pii-k0e0m,7.0,854.9268297876754,,!@9#%8,Vehicle,96466,75,-5,23.0,10.729087197918837
+Single,Writer,1,1,41.51328788148247,3425.47,551.5072663095467,Standard,Good,-0.0,sdv-pii-7z68j,6.0,3646.654323653726,,High_spent_Large_value_payments,Property,90641,3,10,23.0,4.261804983541518
+Engaged,Mechanic,0,1,41.51328788148247,3506.47,498.3537718114959,Standard,Good,2.0,,7.0,1794.8490758009868,,High_spent_Large_value_payments,Property,65464,112,40,14.0,8.633964272429964
+Single,Teacher,1,1,32.130394814964966,4984.82,492.6431916219027,Standard,Standard,-1.0,sdv-pii-0o10v,8.0,2507.11437649179,,Low_spent_Small_value_payments,Property,154471,22,18,5.0,-0.5682464864970926
+Married,Mechanic,9,1,36.15557942170283,3429.52,583.72092829383,Poor,Bad,-2.0,sdv-pii-4uykl,11.0,1398.7435651470544,,Low_spent_Small_value_payments,Vehicle,40944,67,-5,,5.834016217648923
+In a Relationship,Lawyer,7,1,23.78151311321317,1485.25,579.9513021778284,Poor,Bad,0.0,sdv-pii-lsw8j,9.0,1592.3848560129077,,High_spent_Medium_value_payments,Vehicle,28199,49,-1,23.0,1.823191685755213
+Divorced,Architect,7,1,34.7073812887304,1651.26,432.8062781809868,Poor,Standard,9.0,sdv-pii-52eic,7.0,0.0,,Low_spent_Medium_value_payments,Bonds,141819,80,-5,2.0,1.3099322737864716
+Married,Entrepreneur,0,1,26.871920322187574,1644.11,357.5310157121025,Good,_,3.0,,9.0,0.0,,Low_spent_Medium_value_payments,Stocks,58516,43,19,22.0,8.03273207494905
+Engaged,Accountant,6,1,30.134753610920257,4741.63,414.44638223309755,Poor,Standard,-1.0,sdv-pii-1yxao,0.0,3421.0868290244803,,Low_spent_Medium_value_payments,Vehicle,157826,77,-5,12.0,6.084775041739077
+Engaged,Media_Manager,2,1,38.685075840205684,1383.98,1090.4731497559537,Good,Good,-1.0,sdv-pii-bjbmo,5.0,0.0,,Low_spent_Small_value_payments,Bonds,143863,99,-5,8.0,13.865184985079525
+Divorced,Lawyer,6,1,22.53759303178384,1848.95,466.966195538611,Poor,Standard,4.0,sdv-pii-478nu,13.0,5028.714369169595,,Low_spent_Small_value_payments,Stocks,138211,79,0,23.0,5.6287953655534135
+Married,Journalist,10,28,28.721549909265264,3626.74,565.4949843820216,Standard,_,-3.0,,4.0,1331.108573682086,,Low_spent_Small_value_payments,Vehicle,193347,50,16,9.0,1.8579267972854847
+Single,Entrepreneur,6,1,35.65612929683944,1511.06,411.59955914311365,Good,Standard,-4.0,sdv-pii-t6ma8,5.0,0.0,,High_spent_Large_value_payments,Bonds,195688,93,1,20.0,3.8501085191465885
+Widowed,_______,9,18,25.650502196833475,1380.98,467.106592045714,Standard,Standard,3.0,sdv-pii-eue2w,6.0,4840.517146929205,,High_spent_Small_value_payments,No Collateral,130777,60,10,5.0,3.7274955719823497
+Married,Entrepreneur,2,1,40.61165575745998,951.25,514.6947896044084,Standard,Standard,-2.0,sdv-pii-3ehl5,11.0,1356.963938200928,,High_spent_Medium_value_payments,No Collateral,59927,100,50,11.0,1.0590988282735294
+Married,Writer,0,1,22.53759303178384,2075.69,373.75712280802156,Good,Standard,-3.0,,4.0,1918.808768474395,,High_spent_Medium_value_payments,Stocks,164655,83,-5,11.0,0.5452324953994427
+Single,Scientist,8,1,28.297775847369884,3284.77,433.5860466123486,Standard,_,-5.0,sdv-pii-8082i,0.0,2725.778265747527,,High_spent_Large_value_payments,Vehicle,174248,71,26,4.0,2.873743582592051
+Engaged,Lawyer,4,1,40.26633448686594,2497.72,567.6258556347815,Standard,Good,8.0,sdv-pii-pr6mc,7.0,3571.058105219619,,Low_spent_Medium_value_payments,No Collateral,16945,1,23,17.0,0.1627011932358613
+Single,Lawyer,5,21,40.84400209709453,2789.27,423.6321402808195,Standard,Bad,-6.0,sdv-pii-bhtww,8.0,1384.3916547345086,,Low_spent_Small_value_payments,Bonds,98761,63,16,16.0,0.3408752619036699
+Widowed,Teacher,4,1,41.51328788148247,4984.82,543.6321478450895,Good,Standard,-5.0,sdv-pii-l6sfr,1.0,0.0,,High_spent_Medium_value_payments,Property,199002,48,11,13.0,11.60990998118427
+Single,Doctor,10,1,36.27861367979117,1232.48,602.802491935308,Poor,Bad,-100.0,sdv-pii-znvfc,1.0,1671.6448148218105,,Low_spent_Small_value_payments,Property,68469,64,2,24.0,2.3255072856832033
+Married,Manager,8,26,29.785886189922582,3284.8,532.7975725144596,Good,Standard,1.0,sdv-pii-hxk79,3.0,1658.9569726522705,,High_spent_Large_value_payments,Stocks,168486,1,0,13.0,-0.4258296770263721
+Married,Scientist,5,1,30.80725112884735,3195.92,360.5876327147338,Poor,Standard,-2.0,sdv-pii-7erno,11.0,0.0,,Low_spent_Medium_value_payments,Vehicle,106230,113,39,8.0,3.8844436598507155
+Engaged,Entrepreneur,10,1,34.489877188318054,1957.05,274.8183374719193,Good,Bad,8.0,sdv-pii-q4kas,4.0,3752.721687266438,,Low_spent_Small_value_payments,Stocks,199002,58,3,7.0,0.8806103546777049
+Engaged,Doctor,1,6,37.9037227441535,1424.3,416.00835618622716,Poor,Bad,3.0,sdv-pii-7d67a,3.0,0.0,,Low_spent_Small_value_payments,Vehicle,136125,85,4,9.0,0.9252021270313939
+Divorced,Musician,8,1,30.502450079262786,35.54,114.71868305065493,Standard,Standard,7.0,sdv-pii-skqdm,14.0,4609.515228949205,,Low_spent_Small_value_payments,Bonds,0,90,-5,,5.727328311234631
+Widowed,Entrepreneur,4,1,31.065927800979896,890.53,486.09006907950936,Poor,Bad,7.0,,6.0,1013.34241481342,,High_spent_Small_value_payments,Bonds,84903,1,0,3.0,5.152604891568995
+Separated,Scientist,8,1,40.05117381529863,444.59,508.46357655508194,Standard,Standard,0.0,sdv-pii-u94g8,15.0,81050.0,,!@9#%8,Stocks,43870,73,2,13.0,6.489670881788468
+Single,Entrepreneur,8,1,25.317492488737862,1362.27,518.064896204,Standard,Standard,-7.0,sdv-pii-5yilq,5.0,3500.679635929394,,Low_spent_Medium_value_payments,Property,121140,46,-5,8.0,-0.15924215673436048
+In a Relationship,Lawyer,8,1,34.261976374658026,1290.73,609.0684272417598,Good,Standard,-3.0,sdv-pii-bngq6,13.0,0.0,,High_spent_Small_value_payments,Property,0,1,16,2.0,5.83891237793614
+Divorced,Entrepreneur,3,11,29.237583986425488,1317.29,472.88576251168365,Standard,Good,4.0,sdv-pii-qokj7,9.0,4575.096755095632,,Low_spent_Large_value_payments,Vehicle,127270,32,22,11.0,1.3030810322222006
+Single,Scientist,12,8,32.71272141088233,2118.92,257.03861350736867,Poor,Good,4.0,sdv-pii-5l9zg,4.0,3609.204822222611,,Low_spent_Large_value_payments,Property,70734,67,6,3.0,3.4889255769158227
+Single,Lawyer,2,27,32.45056383257244,4984.82,407.2119296120321,Poor,Standard,-4.0,sdv-pii-phg2c,6.0,0.0,,High_spent_Medium_value_payments,Property,98530,1,-5,8.0,0.5202611824775616
+Single,Musician,6,1,29.6808454496317,4929.36,490.5982466494385,Standard,Standard,-6.0,sdv-pii-cw4zx,6.0,0.0,,Low_spent_Small_value_payments,Bonds,67541,64,19,24.0,6.151632354224343
+In a Relationship,_______,6,28,34.097684585588866,4298.0,274.2931570517377,Poor,Good,-1.0,sdv-pii-cn14s,5.0,0.0,,Low_spent_Medium_value_payments,Vehicle,127165,46,-4,26.0,7.364676088797529
+Divorced,Engineer,1,14,26.7623573347926,742.64,92.51053341536488,Poor,_,9.0,,0.0,899.827521228388,,Low_spent_Small_value_payments,Property,20921,56,28,3.0,10.240758725622213
+Engaged,Writer,13,1,32.6492422851914,4984.82,493.8122161528613,Good,Good,-3.0,sdv-pii-mvpja,0.0,0.0,,High_spent_Medium_value_payments,No Collateral,6054,62,-1,18.0,-0.7286347877813837
+Divorced,Scientist,5,20,32.334886199872265,4984.82,481.79589065941025,Standard,Bad,-5.0,sdv-pii-0jd24,15.0,848.6887914284023,,Low_spent_Small_value_payments,Property,72085,44,13,14.0,3.9298506297920204
+Engaged,Scientist,11,1,34.790066823155875,2436.8,516.2327067115195,Standard,Standard,9.0,sdv-pii-76vad,8.0,900.1857312297741,,!@9#%8,No Collateral,116450,100,13,4.0,2.6476937356663317
+Single,Scientist,4,1,34.9302763102381,2055.69,576.6049760531782,Good,Standard,-2.0,sdv-pii-nlk9y,0.0,643.1231852285152,,Low_spent_Medium_value_payments,No Collateral,43489,53,-5,11.0,9.601703591750693
+Single,Media_Manager,0,1,23.25164255791587,1430.61,1120.751173160778,Poor,Standard,-0.0,sdv-pii-zjrmv,1.0,534.9710428524771,,Low_spent_Small_value_payments,Bonds,102491,1,16,19.0,0.3842830410157845
+Separated,Scientist,2,1,38.811572039653164,2125.23,309.00151899797106,Poor,Standard,-3.0,,12.0,0.0,,Low_spent_Small_value_payments,Vehicle,0,69,19,7.0,3.6270422025293296
+Single,Writer,9,1,39.837575220346594,1472.33,617.0377379941785,Poor,Good,1.0,sdv-pii-wyhc9,2.0,1499.8477459734033,,High_spent_Medium_value_payments,No Collateral,98598,97,-5,15.0,7.479967637977584
+Separated,Entrepreneur,8,1,31.46390106280938,4050.05,418.49910026817275,Good,Bad,-0.0,,4.0,1310.1681655760585,,Low_spent_Medium_value_payments,Vehicle,129769,95,-5,15.0,7.360393316605632
+Divorced,Lawyer,5,1,29.30591476518213,4324.64,382.4278131045149,Poor,Good,0.0,sdv-pii-w0f26,8.0,2467.579945589932,,High_spent_Small_value_payments,Property,115018,14,22,6.0,3.3440439389377126
+Single,Musician,10,1,34.41907144623796,4984.82,550.4236404413732,Standard,Good,7.0,sdv-pii-l885t,15.0,5070.728841331198,,Low_spent_Small_value_payments,Bonds,93687,69,17,14.0,2.2575135718415638
+Single,Writer,7,1,36.599694086218854,2143.32,348.0288127812448,Poor,Standard,4.0,sdv-pii-h6eyb,15.0,141.55330748587082,,High_spent_Small_value_payments,Vehicle,74794,78,11,5.0,2.6286921365675155
+Married,_______,3,1,40.78894656786551,927.83,356.0097059942532,Poor,Standard,-1.0,sdv-pii-14wsn,10.0,576.8817206627962,,Low_spent_Small_value_payments,Bonds,0,67,25,21.0,0.09184665986990126
+Married,Teacher,5,7,37.013752962032775,3498.45,772.6366497085194,Good,Bad,-5.0,sdv-pii-vzchs,6.0,2493.288047432402,,High_spent_Small_value_payments,Property,136500,69,-1,16.0,-0.7282023151799786
+Widowed,Entrepreneur,2,1,29.84978846811966,2013.81,635.3614167686625,Poor,Standard,1.0,sdv-pii-ep5b2,4.0,2833.579367489318,,High_spent_Small_value_payments,No Collateral,47450,95,-5,15.0,-0.31403484626183253
+Divorced,Engineer,0,25,41.51328788148247,1826.04,306.19662076734096,Good,Bad,2.0,sdv-pii-sv6ap,15.0,81050.0,,!@9#%8,Vehicle,0,84,21,6.0,8.747260690898068
+Separated,Musician,3,1,40.05794937432676,4984.82,403.9012553563117,Poor,Bad,-1.0,sdv-pii-54t81,10.0,1337.7253182515033,,Low_spent_Small_value_payments,Bonds,40490,92,-4,10.0,1.844754292084124
+Separated,Mechanic,6,1,41.51328788148247,4984.82,304.59570126156603,Standard,_,-6.0,sdv-pii-sg6el,5.0,0.0,,!@9#%8,Vehicle,199002,76,31,9.0,3.934891058163295
+Engaged,Lawyer,6,14,39.249410211381374,4563.99,643.7649818569382,Poor,Standard,-4.0,sdv-pii-effpu,5.0,3522.5382397403805,,Low_spent_Medium_value_payments,Bonds,99166,78,-5,10.0,2.4024449574348665
+Single,Musician,11,1,28.619627096882308,35.54,535.3759639147712,Standard,Good,-1.0,sdv-pii-xfyk4,6.0,847.4951025645456,,Low_spent_Small_value_payments,No Collateral,0,27,54,13.0,8.462204451378641
+Separated,Entrepreneur,0,4,39.47134513435826,3447.83,345.86549933274466,Good,Bad,-8.0,sdv-pii-gl1q1,15.0,2747.7345279649494,,Low_spent_Small_value_payments,Stocks,199002,42,5,13.0,0.7456337985351311
+Single,Scientist,6,1,38.4703113425837,2422.74,405.2509511976815,Poor,Standard,3.0,sdv-pii-h1dvf,10.0,2585.8067281077288,,!@9#%8,Property,199002,78,2,26.0,5.815202332884765
+Widowed,Engineer,0,1,37.231811303761646,1134.55,459.0831753738166,Good,Good,9.0,sdv-pii-3yr9m,6.0,2029.3725524723382,,Low_spent_Small_value_payments,Property,0,18,60,,2.512195824516543
+Single,_______,5,1,35.78065937831685,1061.97,104.11527956359251,Standard,Bad,-2.0,sdv-pii-6kfv2,11.0,2892.667009309482,,High_spent_Small_value_payments,Vehicle,23749,72,-5,14.0,3.083096471605426
+Single,Entrepreneur,7,1,24.20153039009142,1887.84,588.5804363142022,Good,Bad,-84.0,sdv-pii-gbgxk,2.0,4866.183222931868,,Low_spent_Small_value_payments,Vehicle,79761,86,-5,19.0,-3.44
+Married,Entrepreneur,4,1,33.04882540147511,2010.95,613.5133535220268,Standard,Standard,-1.0,sdv-pii-auijw,10.0,818.4323827898747,,Low_spent_Small_value_payments,Vehicle,77721,39,31,11.0,9.57732676283036
+Separated,Accountant,7,1,25.690817952183103,1529.95,531.9422542805104,Standard,Standard,-2.0,sdv-pii-8up6c,0.0,0.0,,!@9#%8,Property,102374,53,18,3.0,-3.44
+Divorced,Architect,9,1,38.00349448031811,1459.42,520.0548307698245,Poor,Standard,2.0,sdv-pii-h4phg,5.0,0.0,,Low_spent_Small_value_payments,No Collateral,15367,30,3,23.0,2.7531288313047
+Single,Lawyer,10,1,23.206098547002703,347.3,616.707675554341,Standard,Standard,-7.0,sdv-pii-csqnq,10.0,3067.571665103439,,Low_spent_Small_value_payments,Vehicle,134950,113,-5,17.0,6.554174966249759
+Engaged,Musician,9,1,35.665253960506384,1156.1,223.40378235251347,Poor,_,6.0,sdv-pii-o19ef,6.0,3221.9015720450975,,Low_spent_Medium_value_payments,Stocks,143669,11,0,9.0,3.442919977338372
+Single,_______,9,1,27.17875394771392,3869.32,633.0640696289906,Standard,Good,4.0,sdv-pii-ghiuv,5.0,1097.1121423788036,,High_spent_Small_value_payments,Property,1410,56,-5,9.0,3.1809861806222077
+Single,Manager,2,1,32.84117615882781,1589.16,344.11352968593644,Good,Good,-6.0,sdv-pii-hhalo,0.0,0.0,,Low_spent_Small_value_payments,Stocks,190229,25,5,1.0,1.9003681460597983
+Married,Writer,0,1,37.91674146649547,2356.19,531.342755165266,Poor,Bad,7.0,sdv-pii-uqj2a,11.0,666.9672085555383,,Low_spent_Medium_value_payments,Bonds,199002,42,0,1.0,6.159008433128892
+Separated,Musician,8,1,39.07481722731667,1277.06,510.3905864516081,Poor,_,-1.0,sdv-pii-gkxg9,2.0,0.0,,High_spent_Large_value_payments,Vehicle,199002,70,21,9.0,2.451252011049175
+Single,Accountant,9,6,29.05183593003986,1708.15,587.2756633351623,Good,Bad,0.0,sdv-pii-fatyu,7.0,3042.4791384719097,,Low_spent_Small_value_payments,Bonds,177473,31,22,11.0,2.9353307985492387
+Married,Journalist,5,1,39.941876928593096,4014.38,429.7316373873242,Good,_,-1.0,sdv-pii-ja4dg,2.0,0.0,,Low_spent_Small_value_payments,Vehicle,199002,20,9,24.0,10.4820025731491
+In a Relationship,Entrepreneur,0,1,28.401520568621393,1651.1,329.54265921930414,Good,Good,0.0,sdv-pii-b8bu7,8.0,0.0,,!@9#%8,Vehicle,116511,79,8,17.0,-1.2591327433665294
+Single,Scientist,9,1,31.427603262807096,3645.95,538.2344197146314,Standard,_,-0.0,sdv-pii-hfp9j,4.0,0.0,,Low_spent_Small_value_payments,Vehicle,199002,71,21,16.0,1.0463170076768105
+In a Relationship,Writer,4,17,25.93705542764923,1654.73,491.4064310524419,Poor,_,3.0,sdv-pii-m7az6,13.0,2260.321249204386,,High_spent_Medium_value_payments,No Collateral,26821,104,18,3.0,0.5045827240735852
+In a Relationship,Engineer,3,1,37.326711254046664,922.56,247.20522380888298,Standard,Standard,1.0,sdv-pii-f9q0j,5.0,3583.728206973175,,!@9#%8,Stocks,10327,37,-5,1.0,3.741707802341228
+Divorced,Entrepreneur,6,1,25.593419818118505,3721.19,445.6125601486826,Standard,_,9.0,sdv-pii-4ajzs,0.0,0.0,,High_spent_Large_value_payments,No Collateral,152651,28,62,4.0,0.5588049714269498
+Single,Musician,12,1,35.929865320223705,1602.21,833.4131871622243,Good,Good,1.0,sdv-pii-bq64p,0.0,2134.753034736077,,Low_spent_Small_value_payments,Stocks,142216,52,-5,17.0,3.3337554688144273
+Single,Architect,7,1,32.07353570388247,1911.46,486.9915287209917,Standard,Good,-5.0,sdv-pii-w3jpd,8.0,3550.5050582354174,,Low_spent_Medium_value_payments,Property,199002,10,4,11.0,-0.09821576222577466
+Engaged,_______,11,15,29.84865736757039,752.93,444.8521628173524,Poor,_,-100.0,sdv-pii-qtnja,12.0,765.380702211962,,!@9#%8,Stocks,129619,54,-5,9.0,5.354739899094132
+Widowed,Engineer,10,12,31.95665574481012,1177.0,249.52226866895018,Standard,Standard,6.0,sdv-pii-kdu37,10.0,249.9386426782037,,Low_spent_Small_value_payments,Bonds,133343,33,8,23.0,2.347185969780897
+Engaged,Engineer,6,15,36.07816934398642,2366.39,525.573081814487,Poor,Standard,6.0,sdv-pii-j42cz,5.0,2221.084271685095,,Low_spent_Medium_value_payments,Bonds,176612,61,38,1.0,0.45571995313026115
+Single,Architect,2,1,29.343519629075296,1478.36,666.3138467808511,Standard,Bad,-3.0,sdv-pii-smctw,10.0,630.8592614943215,,Low_spent_Small_value_payments,Bonds,199002,82,25,6.0,-0.7403860648594387
+Single,Entrepreneur,8,1,37.42895748527356,1425.62,355.2384045677042,Poor,Standard,-1.0,sdv-pii-ignlo,15.0,4329.6692953649,,Low_spent_Small_value_payments,No Collateral,0,101,21,19.0,1.193864454527688
+Married,Musician,1,1,38.21291910586577,1743.17,588.3574048550837,Poor,Standard,-9.0,sdv-pii-4aqqg,14.0,429.877356803936,,High_spent_Small_value_payments,Vehicle,138183,11,3,9.0,2.955108566530175
+Married,Scientist,2,17,39.840922886147474,1967.38,907.5944595003726,Standard,Good,-1.0,sdv-pii-6dtkq,0.0,3078.4890826525934,,High_spent_Large_value_payments,Vehicle,73574,68,-2,1.0,5.199555695835098
+Single,Mechanic,7,2,36.51061223205574,3806.26,499.8840007777385,Standard,Standard,1.0,sdv-pii-li8zs,5.0,2031.850699124552,,Low_spent_Medium_value_payments,Property,34522,1,14,17.0,3.6326063074631936
+Divorced,Musician,5,1,30.699596476283997,3459.31,306.9636759328756,Poor,Bad,-6.0,sdv-pii-2gp8u,0.0,4410.457771859727,,High_spent_Small_value_payments,Vehicle,189409,91,19,19.0,3.184747100330739
+Divorced,Architect,5,1,34.11054316334872,1616.54,384.1548371210458,Poor,Standard,-78.0,sdv-pii-fttgn,9.0,4555.089699554822,,Low_spent_Small_value_payments,Property,173276,58,-5,15.0,0.7275874437670922
+In a Relationship,Doctor,13,22,39.05075587937285,1039.33,477.86923552240046,Standard,Bad,-1.0,sdv-pii-9zkk8,8.0,0.0,,Low_spent_Small_value_payments,Stocks,143830,120,-5,11.0,
+Married,Architect,7,1,34.33946231164725,2051.67,324.1218588147892,Poor,Good,9.0,sdv-pii-hfrdl,1.0,1038.8659646585413,,High_spent_Small_value_payments,Vehicle,68625,1,22,17.0,1.1964121957270653
+Single,_______,2,1,38.388698932145296,1086.86,490.3250287152059,Good,Bad,8.0,sdv-pii-kt72d,4.0,1005.4809130952987,,!@9#%8,Property,195602,92,2,1.0,6.186209434163688
+Single,Developer,1,1,35.1497432207371,2729.73,373.4961154504625,Standard,Standard,-4.0,sdv-pii-no6g4,7.0,119.76966446778763,,Low_spent_Medium_value_payments,Stocks,0,38,19,7.0,13.208021655825645
+Divorced,Architect,9,1,24.237949737337637,35.54,264.3644318940175,Poor,_,7.0,sdv-pii-4342b,15.0,2447.275781140652,,Low_spent_Small_value_payments,Bonds,62981,52,-5,2.0,-3.44
+Widowed,Manager,0,15,39.99152515377473,3007.94,312.52756177019205,Standard,_,7.0,sdv-pii-jcw67,8.0,0.0,,High_spent_Small_value_payments,Vehicle,103361,103,12,7.0,-1.1448538483500572
+Married,Musician,2,1,41.51328788148247,3278.32,248.22155960097405,Poor,Standard,-1.0,,11.0,5000.587714693653,,Low_spent_Medium_value_payments,Stocks,188737,45,2,3.0,5.2382999926060645
+Single,Lawyer,0,1,27.45353045744455,1683.52,595.9714029010868,Standard,Bad,-2.0,sdv-pii-3m90f,2.0,0.0,,Low_spent_Medium_value_payments,Stocks,145528,87,-1,6.0,3.3874218694807112
+Married,Entrepreneur,9,1,35.96308613168076,739.85,418.2872115883851,Good,Bad,-2.0,sdv-pii-pnv4t,8.0,2733.606267359736,,High_spent_Large_value_payments,Vehicle,73195,19,-4,7.0,0.6815170821708039
+Single,Architect,0,6,29.269170645424197,1177.63,508.60035511354096,Standard,Good,-1.0,sdv-pii-306nn,1.0,2001.195088067122,,High_spent_Large_value_payments,Bonds,163232,22,-1,14.0,5.244870135212146
+Separated,Teacher,3,1,41.51328788148247,1303.64,473.9470776965523,Standard,Good,-1.0,sdv-pii-3j5vl,11.0,3699.4470458293863,,High_spent_Medium_value_payments,No Collateral,115129,115,-5,22.0,5.502018377172203
+Single,Entrepreneur,4,1,33.01414140709453,1501.22,172.82384276092716,Good,Good,8.0,,9.0,722.5315693138671,,!@9#%8,Bonds,152006,105,23,9.0,1.6653338798303663
+Engaged,Entrepreneur,2,1,36.986234148783836,1310.32,139.42081784688426,Standard,Standard,3.0,sdv-pii-86duu,0.0,2140.16093358138,,High_spent_Small_value_payments,Bonds,109689,101,-4,22.0,3.1088348927535714
+Single,Architect,6,1,41.51328788148247,2565.51,647.8178129529086,Standard,Standard,5.0,sdv-pii-5nwib,15.0,409.23797599922966,,High_spent_Small_value_payments,Stocks,64950,93,13,23.0,-0.8211301970574896
+Engaged,_______,4,5,27.189046671774697,1653.98,403.11082779500384,Standard,Bad,7.0,sdv-pii-czipm,3.0,27950.754285094423,,High_spent_Medium_value_payments,Bonds,21082,58,26,14.0,2.0743269334669874
+Single,Entrepreneur,5,1,41.51328788148247,241.39,348.7714093027535,Poor,Standard,-4.0,sdv-pii-ufqco,11.0,1715.568362427753,,Low_spent_Medium_value_payments,Stocks,89771,92,-5,16.0,-0.17534181161363183
+Engaged,Manager,3,1,39.63188463825933,2120.39,381.4163954613618,Standard,Standard,8.0,,7.0,5187.956132257196,,High_spent_Small_value_payments,Bonds,199002,46,23,1.0,0.674336179743193
+Widowed,_______,9,2,41.51328788148247,2076.32,1120.751173160778,Standard,Standard,1.0,sdv-pii-34nyk,13.0,836.2593478907071,,!@9#%8,No Collateral,8242,39,0,17.0,1.6355390381394477
+Married,Accountant,0,1,32.66645932298904,1289.5,442.16424979858647,Poor,Bad,-3.0,,5.0,0.0,,Low_spent_Small_value_payments,Vehicle,137552,106,-4,6.0,0.6643641044525301
+Married,Scientist,4,1,26.75122552528101,1085.11,566.7484277146743,Good,Good,-4.0,sdv-pii-6chb6,0.0,1312.2456888537208,,Low_spent_Medium_value_payments,Bonds,24988,95,2,14.0,1.3449904131647248
+Single,Scientist,0,8,41.51328788148247,925.95,443.9100766275549,Standard,Bad,-0.0,sdv-pii-7k5ga,2.0,81050.0,,High_spent_Medium_value_payments,Bonds,95212,82,-5,7.0,-0.3550308609894275
+Separated,Teacher,8,11,41.51328788148247,4004.16,892.7581840377943,Standard,_,-4.0,sdv-pii-xrtz3,10.0,577.8983929001715,,High_spent_Medium_value_payments,Vehicle,50451,98,-5,19.0,6.643837497578746
+Separated,Engineer,7,4,40.34534304126362,2385.73,397.05000379579303,Standard,Standard,-5.0,sdv-pii-t3t8s,7.0,0.0,,High_spent_Medium_value_payments,Bonds,199002,114,-5,2.0,4.095242877863111
+In a Relationship,Engineer,11,1,29.255358115757833,4320.76,537.0755957888774,Standard,Good,-5.0,sdv-pii-0mu9v,15.0,0.0,,High_spent_Small_value_payments,Bonds,172082,108,62,5.0,1.8055684272479882
+Separated,Lawyer,10,1,39.33389984552983,4984.82,591.0178784652567,Poor,_,3.0,,8.0,2182.6432015664072,,!@9#%8,Stocks,68348,21,23,1.0,2.3510072499291947
+Single,Media_Manager,8,2,27.873417189565686,1904.38,559.3184928059361,Standard,Bad,0.0,sdv-pii-ja1xw,14.0,0.0,,!@9#%8,Bonds,1066,77,10,15.0,1.082296472888424
+Married,Engineer,6,1,37.02487151772255,,603.8649879784147,Good,Good,1.0,sdv-pii-9t512,8.0,2579.504746744241,,High_spent_Small_value_payments,Stocks,29373,61,2,20.0,3.565734568169522
+Engaged,Mechanic,10,1,36.43615787274762,3519.41,512.4661709266513,Standard,Good,3.0,sdv-pii-hoxj2,11.0,0.0,,Low_spent_Small_value_payments,Vehicle,31577,11,27,26.0,
+Married,Scientist,9,1,33.607053101189614,1030.57,349.70068820559766,Standard,Standard,1.0,sdv-pii-lmn8i,3.0,1499.0179078742674,,Low_spent_Medium_value_payments,No Collateral,72887,76,12,11.0,9.902994771961739
+Single,_______,8,1,27.827054943726267,3176.59,611.2650245615528,Standard,Good,0.0,sdv-pii-nb83g,12.0,0.0,,High_spent_Small_value_payments,Bonds,58133,42,1,,-0.4781588617962891
+Separated,Media_Manager,10,1,27.964698092213506,1037.38,391.0850868414532,Poor,Standard,-0.0,sdv-pii-ugq13,15.0,81.6062835303644,,Low_spent_Medium_value_payments,Bonds,167427,59,26,,-3.44
+Single,Architect,13,1,27.445231302142652,929.93,562.677582249414,Standard,Good,-2.0,sdv-pii-w7blo,2.0,3479.67050524106,,Low_spent_Medium_value_payments,Stocks,193672,15,3,1.0,2.855718047206726
+Married,Journalist,6,1,26.007184739250288,955.51,456.04932443865107,Good,_,7.0,sdv-pii-3bfo7,3.0,2668.4186782338447,,High_spent_Large_value_payments,Vehicle,114713,1,9,15.0,1.192186301641871
+In a Relationship,Accountant,8,5,37.911536249252904,2080.29,567.6714066131956,Good,_,-8.0,sdv-pii-seq14,12.0,0.0,,Low_spent_Medium_value_payments,Property,89917,29,-2,13.0,2.2099468920993814
+Separated,Journalist,2,1,41.10168007065033,4984.82,481.36226443963733,Poor,Standard,-3.0,sdv-pii-4oidw,7.0,4477.006722616082,,!@9#%8,No Collateral,114132,83,49,7.0,-2.126915509006291
+Widowed,Engineer,7,1,34.38151162378802,1906.26,549.703015420484,Good,_,-6.0,sdv-pii-lrnny,13.0,0.0,,High_spent_Medium_value_payments,Property,64622,11,-5,15.0,-0.4353924952693875
+Engaged,Architect,4,14,39.76784557683998,1967.29,361.621781878968,Good,Standard,5.0,sdv-pii-0drde,0.0,733.3648060056216,,Low_spent_Small_value_payments,Stocks,37190,83,-5,21.0,1.4354833151039612
+In a Relationship,Writer,8,1,33.5271758730325,98.45,502.69802364581415,Standard,Good,-6.0,sdv-pii-3jde3,10.0,3185.6646194346376,,High_spent_Small_value_payments,Property,113518,61,-3,5.0,8.683423058654968
+Married,Entrepreneur,8,1,30.859888197277527,3654.4,516.377211097812,Standard,Bad,-6.0,sdv-pii-gmpb2,6.0,3697.5445153928868,,Low_spent_Small_value_payments,Vehicle,0,38,10,,0.4504692581721077
+Engaged,_______,4,1,34.139205037912944,2065.24,332.2343988778501,Standard,Good,5.0,sdv-pii-36ata,5.0,2421.9536625236206,,Low_spent_Large_value_payments,Bonds,24967,96,9,17.0,1.2425985449730481
+Separated,Mechanic,5,1,28.310462394832804,2893.93,424.9873761060505,Poor,Bad,8.0,sdv-pii-wuzaa,8.0,2850.7059306328783,,High_spent_Large_value_payments,Vehicle,169617,12,28,8.0,1.0750558733225821
+Separated,Musician,0,1,38.73308345904562,4984.82,352.22578395617904,Standard,Bad,2.0,sdv-pii-k33oo,4.0,1300.4164483703976,,Low_spent_Large_value_payments,Stocks,19681,84,11,13.0,19.845816841968883
+Engaged,Teacher,6,1,41.51328788148247,489.9,182.32908577363156,Good,Good,0.0,sdv-pii-rlc1k,7.0,4175.32354261479,,Low_spent_Medium_value_payments,Stocks,83618,55,10,16.0,3.227076312557104
+Married,Media_Manager,2,1,39.58137556142006,1462.47,305.29378515906205,Standard,Good,-5.0,sdv-pii-cbu37,10.0,1111.7292117273432,,Low_spent_Small_value_payments,Vehicle,128898,91,30,1.0,2.0919946331771166
+Married,Journalist,8,1,24.098063514202043,2662.46,423.32507945197915,Standard,Good,-5.0,sdv-pii-gtr5v,14.0,1736.1589570885033,,Low_spent_Small_value_payments,No Collateral,0,39,-4,26.0,15.217464473985782
+Single,Media_Manager,4,1,40.010985187814164,3942.15,520.863015172828,Standard,Standard,-5.0,sdv-pii-2lkdx,11.0,1130.0006345315421,,Low_spent_Large_value_payments,Stocks,126559,43,34,15.0,6.8578456855091146
+Married,Musician,0,1,30.74307483057818,1073.83,331.32739768221643,Good,Bad,3.0,sdv-pii-ggg77,1.0,0.0,,!@9#%8,Property,0,115,1,6.0,2.4487868508910173
+Widowed,Entrepreneur,4,1,41.51328788148247,4121.31,299.1952855794133,Good,Standard,9.0,sdv-pii-jvnci,6.0,3114.7673721546666,,Low_spent_Small_value_payments,Property,56982,50,-5,20.0,5.150259788988834
+Engaged,Accountant,2,1,29.260715084249455,3248.17,521.9000348275663,Good,_,2.0,sdv-pii-ltf1z,6.0,734.9890874904495,,Low_spent_Small_value_payments,No Collateral,48882,37,19,16.0,-0.03654463862429669
+Widowed,Architect,7,29,33.1811950913236,1265.51,1120.751173160778,Standard,_,-2.0,sdv-pii-7gi7a,12.0,0.0,,!@9#%8,Property,132135,86,32,6.0,4.97760542168197
+Engaged,Journalist,12,1,38.92298485574711,2817.17,601.8254448042733,Standard,Good,4.0,sdv-pii-5oe8z,10.0,1059.6890793346163,,High_spent_Small_value_payments,No Collateral,63067,112,4,20.0,5.796819096642788
+Single,_______,3,1,41.51328788148247,2069.97,554.3761739610452,Poor,Standard,-7.0,sdv-pii-tvaq5,10.0,2259.742188247704,,Low_spent_Small_value_payments,Property,61036,52,16,14.0,5.164716114312922
+In a Relationship,Writer,9,1,36.34146825953721,4984.82,491.39128089249505,Standard,Standard,-0.0,sdv-pii-cxr2l,7.0,0.0,,Low_spent_Small_value_payments,Property,196247,99,6,5.0,0.7676016821024749
+Engaged,Scientist,3,26,40.145598458607566,4189.44,287.11282417318426,Poor,Bad,1.0,sdv-pii-wfki7,0.0,1587.5286324335934,,Low_spent_Medium_value_payments,No Collateral,186783,1,24,17.0,3.7577729655406324
+Separated,Accountant,7,1,39.31862748763433,4492.97,434.35832789998864,Good,Standard,3.0,sdv-pii-kmkzz,1.0,1962.6251846362397,,!@9#%8,Vehicle,48514,48,-5,18.0,11.566493054434975
+In a Relationship,Accountant,9,1,41.51328788148247,,358.66837063010416,Good,Standard,-4.0,sdv-pii-1izo1,12.0,844.2803411156361,,Low_spent_Small_value_payments,Stocks,109639,80,-5,11.0,1.78802675482968
+Widowed,Writer,4,1,35.9919026938627,1465.82,261.53031873299403,Standard,Bad,-1.0,sdv-pii-swnq9,3.0,2696.1285190526855,,High_spent_Small_value_payments,Stocks,65021,50,3,10.0,-3.0164106212948214
+Single,Manager,3,1,23.405273533043683,2118.07,555.2748322047927,Good,Good,1.0,sdv-pii-225zn,15.0,1853.116524796725,,Low_spent_Large_value_payments,No Collateral,128818,17,-2,9.0,1.7557697378375154
+Single,Scientist,10,1,24.319937663556964,2126.42,627.7852564355615,Standard,Good,-4.0,sdv-pii-lvopf,5.0,0.0,,Low_spent_Small_value_payments,Bonds,191780,7,32,1.0,0.23920970889379944
+Single,Entrepreneur,9,1,36.143890197392594,1593.73,391.19681613048095,Standard,Bad,-5.0,sdv-pii-h2hzn,9.0,0.0,,Low_spent_Small_value_payments,Property,193327,63,-5,1.0,7.474191219266112
+Engaged,Scientist,4,1,41.51328788148247,515.41,434.62902773723107,Standard,_,,sdv-pii-fhviy,13.0,0.0,,Low_spent_Small_value_payments,Property,75644,67,7,21.0,5.414150988537428
+Married,Engineer,3,1,39.13306881004411,2687.65,903.791224540643,Standard,Standard,-7.0,sdv-pii-mia4b,11.0,0.0,,Low_spent_Small_value_payments,Vehicle,1893,10,28,11.0,12.498324776513439
+Widowed,Mechanic,3,1,40.70695562451601,1875.94,496.20866744827185,Standard,Standard,6.0,,15.0,3422.9903928832705,,High_spent_Small_value_payments,Bonds,60485,1,30,12.0,1.3930698249941553
+Single,Accountant,2,1,28.012594494866317,632.7,609.1008380316958,Standard,Good,4.0,sdv-pii-t6whu,14.0,820.2617555400712,,Low_spent_Small_value_payments,No Collateral,168932,83,12,17.0,0.539707856906964
+Married,Teacher,13,1,37.296754560674096,3849.46,522.6600050399593,Standard,Good,-3.0,sdv-pii-isjo0,14.0,0.0,,!@9#%8,Stocks,103389,91,-4,17.0,10.643925084598212
+Divorced,Writer,4,22,33.37343240205126,1685.89,654.1777646748185,Poor,Standard,-0.0,,7.0,936.7684927741359,,High_spent_Medium_value_payments,Property,61067,4,-5,8.0,-2.4783937276047068
+Single,Accountant,4,1,24.357534553606115,1138.13,391.9297333831347,Good,Standard,-1.0,sdv-pii-v8lo3,5.0,3496.559036783747,,High_spent_Small_value_payments,Bonds,8613,12,-5,16.0,-3.44
+In a Relationship,Scientist,6,1,34.91582763640591,4424.07,430.67183922886966,Poor,Bad,4.0,sdv-pii-y5htj,1.0,0.0,,Low_spent_Small_value_payments,Stocks,102468,49,36,19.0,4.4468178973464205
+Single,Entrepreneur,9,7,41.51328788148247,4399.95,303.62647456835,Good,Standard,-4.0,sdv-pii-ef3l8,0.0,0.0,,High_spent_Medium_value_payments,Property,146890,93,15,5.0,4.718574858158439
+Single,Media_Manager,1,1,30.62014854264801,1870.23,334.1947240514733,Good,Good,1.0,sdv-pii-an4ir,7.0,0.0,,High_spent_Small_value_payments,No Collateral,150277,69,19,8.0,3.109455079689634
+Widowed,Developer,9,1,30.25517460326402,3229.04,530.6130601481234,Standard,Good,,sdv-pii-drmvy,3.0,5239.222834184135,,High_spent_Small_value_payments,Vehicle,57232,18,9,11.0,4.634375029541017
+Engaged,Scientist,4,1,34.17168185806603,1296.52,287.1227075797665,Poor,Standard,3.0,sdv-pii-wgsx1,6.0,3521.9481556126016,,Low_spent_Small_value_payments,Bonds,13337,43,1,15.0,7.338276148736365
+Married,Architect,4,15,37.525435825655336,3664.79,576.8085861629784,Standard,Standard,-2.0,sdv-pii-8nblo,13.0,1118.2340022153082,,!@9#%8,Bonds,149747,54,17,7.0,1.5573636457218027
+In a Relationship,Mechanic,10,1,26.248545885836112,464.46,510.6237933912878,Standard,_,1.0,sdv-pii-8ervv,13.0,5037.349301353504,,High_spent_Medium_value_payments,Bonds,118774,101,-3,5.0,-2.866371782513908
+In a Relationship,_______,4,18,33.98656368148042,1862.84,451.04812599204286,Good,Bad,-3.0,sdv-pii-5lat2,0.0,871.034309375183,,Low_spent_Small_value_payments,Vehicle,106069,24,-2,15.0,3.146648652135138
+Single,Architect,2,24,39.443195608898705,4507.73,296.3948975412318,Standard,Good,4.0,sdv-pii-6duov,1.0,1368.3234021347714,,Low_spent_Medium_value_payments,Stocks,142903,1,62,1.0,-0.01815924665232771
+Married,Developer,7,3,37.530498570078194,2032.6,535.2686816876184,Good,_,-7.0,sdv-pii-8mtgk,7.0,3780.1221903463734,,High_spent_Medium_value_payments,Stocks,156460,84,-5,16.0,-1.1042193329595245
+Engaged,Musician,5,8,38.255616345752216,1324.79,1070.0858548422943,Poor,Bad,-3.0,sdv-pii-pz8u9,4.0,245.9741817993288,,Low_spent_Small_value_payments,Vehicle,107043,16,-4,1.0,-0.6098991697452254
+Separated,Manager,1,1,24.255970193797317,,690.946018461464,Good,Standard,3.0,sdv-pii-e63tk,15.0,3558.8340974213893,,Low_spent_Large_value_payments,Stocks,56255,80,62,9.0,-1.6134942926021383
+Widowed,Architect,5,1,41.23110860322475,1584.67,407.2740063246171,Poor,Bad,-7.0,sdv-pii-p0g5y,14.0,730.8565609292017,,Low_spent_Small_value_payments,Bonds,100345,41,22,15.0,3.5591655614087756
+Married,Musician,6,1,34.537412064981,3622.21,553.1363984343811,Poor,Standard,-7.0,sdv-pii-hti5g,0.0,54.87946413556962,,High_spent_Medium_value_payments,Stocks,141906,23,-3,17.0,4.511557122202186
+Single,Doctor,6,1,36.27101137380357,1078.2,417.7505115192224,Standard,_,6.0,,15.0,24.347099451077185,,!@9#%8,Vehicle,98373,17,18,20.0,2.2840827781634188
+Single,Developer,8,1,28.20582608467782,3664.3,703.929476578097,Good,Bad,-0.0,sdv-pii-err91,4.0,1669.3364938993077,,High_spent_Small_value_payments,No Collateral,199002,97,-1,15.0,3.6746427106498425
+Single,Journalist,4,1,29.828285704672204,1249.43,512.2482648947787,Poor,Bad,4.0,sdv-pii-zdihm,4.0,3916.007231776106,,Low_spent_Small_value_payments,No Collateral,102560,89,14,1.0,-0.05165663751661764
+Married,Manager,7,25,38.977328860928466,2487.81,543.8804798200728,Poor,_,-100.0,sdv-pii-8h7jf,13.0,680.3737528687415,,High_spent_Medium_value_payments,No Collateral,199002,16,1,19.0,0.5227817283139666
+Widowed,Engineer,0,24,31.099283037030634,1388.31,238.21113538420371,Standard,Standard,6.0,sdv-pii-uglvi,11.0,1555.9056519938893,,Low_spent_Small_value_payments,Property,126780,14,19,13.0,1.3132229127060517
+Engaged,Accountant,0,1,37.16446206210163,1175.36,261.26962229289666,Poor,Standard,0.0,sdv-pii-gnvka,0.0,0.0,,High_spent_Medium_value_payments,Vehicle,175528,89,13,7.0,4.158915182198388
+Engaged,Teacher,10,1,25.458316177318693,1938.46,495.6051358277681,Standard,Bad,5.0,,1.0,2985.0883760524694,,Low_spent_Medium_value_payments,Bonds,116529,105,25,3.0,3.401034475251139
+Married,Architect,2,1,37.919894561857035,4984.82,546.6459493148527,Standard,Bad,3.0,sdv-pii-ioty4,0.0,4189.675711382908,,!@9#%8,Vehicle,121625,63,6,10.0,7.451915642790249
+Divorced,Scientist,5,1,36.08880084866327,4088.19,537.5687422887733,Standard,Standard,3.0,sdv-pii-nry0p,5.0,3659.769141466221,,Low_spent_Medium_value_payments,No Collateral,65412,61,-5,11.0,1.335846801492397
+Separated,Musician,3,1,34.3666824290095,79.78,239.00862297029602,Standard,Bad,3.0,sdv-pii-ochvz,14.0,5139.30674451757,,Low_spent_Small_value_payments,No Collateral,0,74,-5,19.0,6.017696849842358
+Single,Scientist,5,1,26.096570884152246,797.67,468.15460373192286,Poor,Bad,-4.0,sdv-pii-ymrba,8.0,3390.953268460716,,!@9#%8,Vehicle,24437,34,-5,13.0,4.9018656348741505
+Separated,Engineer,1,1,41.51328788148247,1941.67,594.5940699520195,Standard,Good,-100.0,sdv-pii-4bg35,2.0,0.0,,!@9#%8,Vehicle,199002,100,-4,6.0,-1.3643031816920752
+Single,Journalist,4,1,30.450479581090566,3442.87,485.1066026020958,Good,Good,-3.0,sdv-pii-huf2r,2.0,2090.3876991010184,,High_spent_Medium_value_payments,Vehicle,111392,53,-1,11.0,5.8120607709853775
+Married,Musician,3,1,34.763690640203635,4984.82,410.7828260802066,Standard,Standard,9.0,sdv-pii-tigej,9.0,93.50440806822752,,Low_spent_Medium_value_payments,Bonds,181578,82,19,6.0,0.907718825148244
+Single,Lawyer,1,1,22.815804743489423,1665.61,599.2314258757908,Standard,Good,9.0,sdv-pii-43ahb,6.0,123.48037173271639,,High_spent_Large_value_payments,No Collateral,0,86,34,9.0,-3.44
+Married,Entrepreneur,0,1,31.424951851916816,2739.9,329.60897885603674,Good,Good,-3.0,sdv-pii-psgaj,9.0,31823.945938949884,,High_spent_Small_value_payments,Bonds,0,1,20,15.0,-0.6156811692336328
+Married,Architect,3,35,37.16143803563553,2861.34,248.37443049350597,Poor,Standard,-1.0,sdv-pii-chq26,7.0,3660.160119566063,,!@9#%8,Vehicle,151402,21,-1,23.0,-1.8445545159607306
+Engaged,Lawyer,8,1,39.01589123263155,1385.8,445.3478594685495,Standard,Bad,1.0,sdv-pii-8hyun,5.0,0.0,,High_spent_Small_value_payments,Stocks,199002,94,-5,11.0,3.692862608888605
+Engaged,Engineer,4,1,35.64338537002599,814.19,635.5453542827106,Standard,Standard,-100.0,sdv-pii-uj5hr,14.0,3362.4004995270616,,High_spent_Large_value_payments,Vehicle,136995,32,8,15.0,4.062142804618823
+Married,Scientist,8,1,30.700525321357322,1301.54,282.48075227596985,Standard,Good,-95.0,sdv-pii-zfp0n,10.0,2840.2799053827766,,Low_spent_Large_value_payments,Bonds,0,58,11,18.0,-3.44
+Married,Entrepreneur,9,37,41.51328788148247,2226.98,697.6517390714891,Poor,Good,,sdv-pii-vebob,5.0,0.0,,Low_spent_Small_value_payments,Vehicle,66178,81,-5,5.0,-2.7522808812992556
+Widowed,Entrepreneur,3,10,41.439901884143666,4108.61,1120.751173160778,Good,Standard,2.0,sdv-pii-up4lb,6.0,4512.111388870436,,Low_spent_Small_value_payments,Property,47099,41,-5,8.0,-2.3275642647542165
+Married,Architect,4,1,29.527941279610562,4488.57,165.60121128456325,Standard,_,1.0,sdv-pii-rbv00,0.0,0.0,,Low_spent_Small_value_payments,No Collateral,52375,97,-4,17.0,1.5824523630155376
+Separated,Media_Manager,4,1,38.237518199148724,,384.45046623715666,Standard,Bad,-1.0,sdv-pii-m9g5b,5.0,3270.93298155805,,Low_spent_Medium_value_payments,Bonds,141329,101,2,9.0,2.987126025582759
+Married,Lawyer,13,1,22.53759303178384,923.17,352.42248792963517,Standard,_,-5.0,,0.0,1053.7819514045595,,Low_spent_Small_value_payments,Vehicle,70095,10,7,5.0,3.6155767038305973
+Single,Architect,9,11,31.129362531755493,4159.45,293.6199372124221,Poor,_,-4.0,sdv-pii-xrc1e,8.0,3869.5473213955943,,High_spent_Small_value_payments,Stocks,199002,73,-5,8.0,1.268339287676569
+Widowed,Doctor,4,1,33.36092467342815,1823.71,493.3581384733923,Standard,_,4.0,sdv-pii-xkth4,8.0,1834.4515403369583,,High_spent_Medium_value_payments,Property,55842,40,10,18.0,20.131721416916733
+Separated,Musician,12,1,34.5694452138395,1528.16,599.431769781954,Standard,Good,-5.0,sdv-pii-q9g8s,5.0,4673.094468517245,,!@9#%8,Stocks,90116,108,25,26.0,4.974796633698233
+Single,Manager,13,9,24.646517436244757,3087.9,466.0325135420178,Poor,Bad,-5.0,,15.0,1363.072927951696,,Low_spent_Small_value_payments,Property,170949,79,10,6.0,5.455219468957821
+Married,_______,5,1,39.57525779134526,1539.74,242.7682306347573,Poor,Standard,-4.0,sdv-pii-vng8j,3.0,2887.333172394987,,Low_spent_Small_value_payments,Bonds,0,85,22,5.0,1.6777612445127303
+Single,Scientist,10,1,26.787588840109812,4984.82,595.8052787591819,Poor,Good,6.0,sdv-pii-5vqrc,9.0,1024.3980525939062,,Low_spent_Small_value_payments,Property,73302,43,23,9.0,3.976594483978924
+Single,Entrepreneur,8,1,39.002403078549726,916.38,416.8495041213206,Standard,Good,9.0,sdv-pii-iffiu,13.0,2215.6755116545505,,High_spent_Medium_value_payments,Bonds,1007,24,12,10.0,0.2460350816981709
+Widowed,Lawyer,3,1,31.99510906880855,1377.5,221.11565595695515,Standard,Good,-5.0,,3.0,4151.661961381273,,Low_spent_Small_value_payments,Bonds,25827,82,11,26.0,7.210938007255787
+Single,Teacher,3,1,28.49813272007308,4984.82,560.9424241295948,Poor,Bad,7.0,sdv-pii-v3904,0.0,0.0,,Low_spent_Small_value_payments,Bonds,99483,75,21,14.0,-0.06863450362941403
+Single,Musician,2,8,41.32490226301345,2141.58,388.4192805257268,Good,Standard,3.0,sdv-pii-05gl0,12.0,0.0,,Low_spent_Small_value_payments,No Collateral,127053,82,6,18.0,0.9340227108557402
+Single,Scientist,7,1,25.11347953447158,2623.76,426.35178242610834,Poor,Bad,2.0,,5.0,1100.5223498183718,,High_spent_Small_value_payments,Bonds,199002,67,26,18.0,7.349809055453683
+Engaged,Accountant,4,1,31.440174351163744,1688.06,462.92949446367857,Poor,_,-3.0,sdv-pii-ny9cc,12.0,2565.250064145511,,Low_spent_Medium_value_payments,Stocks,199002,102,-5,24.0,-3.44
+Widowed,Entrepreneur,6,1,31.90096620268654,4288.15,459.1731341593718,Poor,Standard,9.0,sdv-pii-l30ln,6.0,2746.8340726759743,,High_spent_Small_value_payments,No Collateral,174216,64,8,,2.735192826123301
+Married,Entrepreneur,11,1,35.29251468235104,1147.89,577.4068290460546,Standard,Bad,-2.0,sdv-pii-l6ae9,0.0,21926.849199698518,,High_spent_Small_value_payments,Vehicle,123467,82,20,9.0,-0.6954027175314517
+Married,Musician,0,16,40.19978707218748,1066.45,373.67413611099914,Standard,_,7.0,sdv-pii-save5,3.0,2005.8580616781444,,Low_spent_Small_value_payments,Stocks,88475,36,29,11.0,15.543423409158134
+Married,Media_Manager,6,18,27.580109843480965,1022.5,607.9381197862209,Standard,Bad,7.0,sdv-pii-0lxgl,13.0,0.0,,Low_spent_Medium_value_payments,Stocks,39412,79,4,18.0,2.5423345880538237
+Divorced,Lawyer,9,1,29.84142218167151,1399.58,180.47168370153796,Standard,Bad,-3.0,sdv-pii-q9qrr,1.0,81050.0,,!@9#%8,Vehicle,199002,31,-5,4.0,7.469446253410641
+Single,Scientist,3,7,40.56020109187893,1955.35,436.1311981094931,Poor,Good,-77.0,sdv-pii-adblb,0.0,665.7717542619357,,Low_spent_Small_value_payments,Property,141963,57,18,21.0,1.5866961662422012
+Separated,_______,10,1,40.85374341531163,1661.78,591.2077202704947,Good,Bad,3.0,sdv-pii-msjc0,4.0,0.0,,High_spent_Large_value_payments,Stocks,165790,31,8,26.0,0.6113059512946633
+Single,Mechanic,8,13,35.79111871771144,4984.82,349.7069568041163,Standard,Good,9.0,,13.0,0.0,,High_spent_Small_value_payments,Vehicle,117138,69,21,12.0,1.5918964502836266
+Separated,Lawyer,11,1,39.10537723463567,4388.16,290.2385260936081,Poor,_,7.0,sdv-pii-kyhny,4.0,2784.0987637541684,,High_spent_Large_value_payments,Property,199002,3,5,4.0,4.378933568868961
+Single,Engineer,0,15,38.45922554430718,4984.82,621.1553906700211,Standard,Standard,-5.0,sdv-pii-3ljkt,5.0,1295.5961362156725,,High_spent_Small_value_payments,Vehicle,118101,71,21,6.0,-2.0582731274018924
+In a Relationship,Developer,11,1,31.305547907055125,1967.8,414.43696049183706,Standard,Standard,2.0,sdv-pii-3epnk,5.0,3526.585121429317,,Low_spent_Small_value_payments,Bonds,137106,95,-5,9.0,3.6866683674956393
+Divorced,Journalist,2,1,34.91482817275642,1749.22,262.2446500307213,Poor,Good,-1.0,sdv-pii-ott8m,5.0,4102.119007834606,,Low_spent_Large_value_payments,Property,14688,27,5,20.0,-0.650005697113186
+Married,Accountant,4,1,27.926347889414053,4984.82,663.4885806348713,Poor,Standard,0.0,sdv-pii-u1non,8.0,0.0,,!@9#%8,Stocks,62736,64,-4,18.0,2.716383252819127
+Married,Musician,8,1,38.35012778853545,1335.51,367.04305180025574,Standard,Standard,-1.0,sdv-pii-dtf2f,8.0,3138.7717051144773,,Low_spent_Large_value_payments,Vehicle,0,60,-5,11.0,4.4161723714357155
+Single,Media_Manager,7,1,36.367610399392085,35.54,316.0306864757621,Good,_,-1.0,sdv-pii-ip125,13.0,4184.461751454091,,High_spent_Small_value_payments,Bonds,0,107,14,9.0,3.109069701497278
+Engaged,Entrepreneur,11,1,32.94127505541187,4984.82,572.2247457295666,Poor,Bad,-4.0,sdv-pii-hwioq,10.0,0.0,,Low_spent_Small_value_payments,Bonds,60616,19,10,18.0,3.5360047300291226
+Single,Entrepreneur,12,1,23.063941286887367,925.98,409.8389937276954,Good,Standard,,sdv-pii-muwjw,10.0,4043.310734506929,,Low_spent_Small_value_payments,Stocks,128347,88,10,17.0,3.996694178770416
+Engaged,Doctor,6,1,40.59966361743191,1134.55,788.2378536329422,Standard,Bad,-3.0,sdv-pii-wn39j,4.0,263.3450739608439,,High_spent_Small_value_payments,No Collateral,199002,93,28,9.0,19.9412121792203
+Married,Media_Manager,13,1,32.129348948342965,4663.8,540.2172314440629,Poor,Standard,9.0,sdv-pii-lasea,9.0,1127.6947249277168,,Low_spent_Small_value_payments,Vehicle,108619,10,42,22.0,-2.2041669635237797
+Separated,Journalist,3,1,41.342546885263076,1583.19,399.5172563361958,Standard,Standard,-2.0,sdv-pii-ez6ds,0.0,0.0,,High_spent_Small_value_payments,Stocks,25892,23,23,1.0,3.635693312811255
+Married,Entrepreneur,10,1,33.42321763594424,3437.22,274.69033997631504,Standard,Good,2.0,sdv-pii-57wvr,10.0,4062.9540254015424,,High_spent_Large_value_payments,Property,3627,77,5,2.0,6.2364512090001405
+Separated,Engineer,1,1,26.975268129189942,3321.2,233.42085831861374,Standard,Standard,1.0,sdv-pii-0xuhq,0.0,0.0,,Low_spent_Medium_value_payments,Stocks,199002,72,7,11.0,4.031395461922358
+Divorced,Architect,4,1,36.33209149427562,928.17,359.7543990422991,Standard,Standard,-100.0,sdv-pii-jjjgc,8.0,977.7020913385779,,High_spent_Medium_value_payments,Bonds,30891,64,-5,,7.394171284019606
+Single,Lawyer,5,1,32.54707406833029,1023.1,472.93834839023884,Good,Standard,3.0,sdv-pii-hsc0u,9.0,0.0,,Low_spent_Small_value_payments,Vehicle,191295,105,5,6.0,2.1398418894689835
+Separated,Engineer,6,1,41.51328788148247,463.82,260.6002829502687,Standard,Bad,4.0,sdv-pii-g4bo8,5.0,3702.9682600466413,,Low_spent_Medium_value_payments,Stocks,144811,76,36,19.0,1.0472595591593192
+Married,Engineer,6,1,41.13829920804708,589.38,402.3563096302202,Standard,_,5.0,,1.0,3632.3348799248015,,Low_spent_Medium_value_payments,Vehicle,113149,28,5,,3.533728610808695
+Married,Architect,9,1,35.491067708558695,254.67,370.2321981560375,Standard,Good,1.0,sdv-pii-ugfh3,6.0,2572.550331441458,,Low_spent_Small_value_payments,Vehicle,163894,66,10,9.0,4.131851152930754
+Single,Accountant,9,1,38.25074505879937,3499.68,525.8868132361397,Standard,Bad,-7.0,sdv-pii-hi8k4,2.0,0.0,,!@9#%8,Property,199002,89,13,21.0,1.705663276514386
+Separated,Lawyer,0,1,26.28817976976764,1018.8,1012.0426197690167,Standard,Standard,-5.0,sdv-pii-itccr,3.0,0.0,,!@9#%8,Vehicle,0,102,4,24.0,10.022855460016444
+Single,Mechanic,7,1,33.56976869962221,1490.79,494.53153469229574,Poor,Bad,-4.0,sdv-pii-7sv5s,3.0,3120.498387702746,,Low_spent_Small_value_payments,Property,136001,104,22,13.0,1.2333103335658944
+Separated,Media_Manager,4,26,35.572159547117955,4714.07,263.5499129403066,Good,Standard,0.0,,6.0,331.09093764330464,,High_spent_Small_value_payments,Property,54831,77,-5,15.0,0.4581662091946459
+Single,Musician,8,1,36.4640085703151,1406.98,481.8917788607987,Good,Standard,-5.0,sdv-pii-2svnw,5.0,3015.4988937900425,,!@9#%8,Property,156264,68,-5,2.0,-1.6025047127554108
+Widowed,Teacher,8,1,36.33432541937242,395.22,497.0040508454827,Poor,Good,-2.0,sdv-pii-ysx3y,6.0,1973.8414334643483,,High_spent_Small_value_payments,Property,24171,66,18,7.0,5.16755305498195
+Married,Scientist,0,35,32.394701667501366,1606.07,199.75148077913667,Poor,Good,-4.0,sdv-pii-2sq68,13.0,3822.3581593522053,,High_spent_Medium_value_payments,Property,0,85,-5,8.0,0.327278243719336
+Single,Musician,4,1,27.3532382490204,3934.45,648.6083598562724,Standard,Good,2.0,sdv-pii-cl1i6,1.0,0.0,,Low_spent_Large_value_payments,No Collateral,0,3,4,18.0,-0.14490688394057383
+Single,Entrepreneur,9,1,26.841302377482275,2162.3,169.49767916257443,Poor,Bad,4.0,sdv-pii-54jq8,7.0,802.7120059686202,,Low_spent_Medium_value_payments,Stocks,122578,16,9,13.0,-0.5189253741924658
+Divorced,Musician,5,1,32.43243906961265,2020.35,1120.751173160778,Standard,_,3.0,sdv-pii-tpmit,0.0,0.0,,High_spent_Medium_value_payments,Vehicle,145137,93,22,15.0,4.269734296403625
+Separated,Accountant,8,1,33.37839040895541,4203.59,235.21363980798202,Poor,Standard,-100.0,sdv-pii-qlrj2,10.0,3265.656671817716,,Low_spent_Small_value_payments,Stocks,59448,69,-5,13.0,3.970445347090399
+Engaged,Accountant,8,1,41.51328788148247,1844.08,628.3665401843689,Standard,Good,2.0,sdv-pii-dwztq,15.0,3927.3194166401668,,High_spent_Medium_value_payments,Property,0,53,17,22.0,1.2020754642405462
+Single,Architect,0,1,33.348114369750995,4984.82,637.6649194459579,Standard,Standard,,sdv-pii-oajlm,10.0,0.0,,Low_spent_Small_value_payments,Bonds,0,51,1,17.0,4.802942413255861
+Widowed,Entrepreneur,4,1,39.520931836825,1420.91,86.47531770890006,Standard,Good,-3.0,,2.0,0.0,,Low_spent_Medium_value_payments,Bonds,14034,61,34,16.0,
+Engaged,Lawyer,9,1,41.51328788148247,1589.46,387.77311866659966,Standard,Bad,4.0,sdv-pii-7hpno,12.0,2140.9919773398547,,Low_spent_Large_value_payments,Stocks,45330,9,25,15.0,1.7804120531975922
+Married,Entrepreneur,3,1,32.45212196479521,999.94,330.90291055146616,Good,_,0.0,,0.0,0.0,,Low_spent_Small_value_payments,Stocks,93947,8,31,3.0,9.340779422884856
+Married,Musician,7,1,40.913114883577634,4599.57,272.066513799065,Standard,Standard,7.0,sdv-pii-zhg8g,3.0,0.0,,Low_spent_Small_value_payments,Bonds,183880,74,2,19.0,0.3035333753373264
+Widowed,Developer,5,1,23.177128494142686,1687.07,440.9556070030894,Standard,_,4.0,sdv-pii-421da,15.0,1276.5541248569832,,Low_spent_Small_value_payments,Vehicle,0,33,1,14.0,0.09507925574444798
+Widowed,_______,0,1,30.77522493863587,1999.58,189.11571675142488,Standard,Standard,-2.0,sdv-pii-zmk6l,1.0,68.64028929249245,,Low_spent_Small_value_payments,Stocks,141333,109,26,6.0,2.238507992933532
+Widowed,Musician,8,1,30.76568304896847,2014.46,497.2410641686317,Poor,Good,-6.0,sdv-pii-fozlu,8.0,81050.0,,Low_spent_Small_value_payments,No Collateral,103667,50,1,3.0,1.5415584967244698
+Divorced,Doctor,8,1,26.77340250956649,1569.73,981.2396108266905,Standard,Bad,7.0,sdv-pii-tnakp,4.0,439.1229985021695,,High_spent_Medium_value_payments,Bonds,196598,46,29,21.0,1.9428021985172172
+Single,Lawyer,4,1,29.814685882682724,1470.24,466.60748387254455,Poor,Good,-4.0,sdv-pii-1zfpl,0.0,486.9954464461465,,Low_spent_Small_value_payments,Vehicle,199002,96,-5,15.0,9.145965688974865
+Married,Mechanic,7,1,35.71544607595353,1651.49,1120.751173160778,Poor,_,5.0,sdv-pii-m2t61,15.0,1092.978797691576,,Low_spent_Small_value_payments,Stocks,0,20,24,22.0,1.22946915437152
+Single,Scientist,0,1,29.083134129843526,,538.9926060773457,Standard,Good,-4.0,sdv-pii-rtrkp,7.0,0.0,,Low_spent_Small_value_payments,No Collateral,111208,79,41,6.0,3.0516437077255354
+Divorced,Scientist,4,1,37.533692417870924,4273.95,356.95352578444266,Good,Standard,4.0,sdv-pii-jn0pz,6.0,1079.8342689882338,,Low_spent_Small_value_payments,Vehicle,143631,53,23,14.0,6.713726844297284
+Single,Entrepreneur,0,1,37.45950291110017,898.69,382.6233770472785,Standard,_,-5.0,sdv-pii-e94vu,15.0,0.0,,Low_spent_Small_value_payments,No Collateral,103030,56,6,22.0,3.661742490728967
+Single,Entrepreneur,7,1,36.95723982469137,4165.88,518.6525490498996,Good,Standard,7.0,sdv-pii-rfjpg,3.0,66639.50533567308,,High_spent_Small_value_payments,Property,119239,69,17,2.0,4.148390908379092
+Separated,Entrepreneur,6,13,30.657671944026628,4512.6,556.1697971259662,Standard,_,1.0,sdv-pii-t31r0,15.0,1718.687575374069,,Low_spent_Medium_value_payments,Property,129290,1,13,6.0,7.071728177798432
+Single,Accountant,1,1,32.49938315379289,1639.42,450.858196250553,Standard,Bad,4.0,sdv-pii-h00ir,0.0,0.0,,Low_spent_Small_value_payments,Property,73509,20,24,23.0,3.5685575795062965
+Married,Lawyer,5,1,30.58932424779011,4463.15,47.42403428312167,Good,Standard,-2.0,sdv-pii-hf00e,1.0,3451.944818613767,,Low_spent_Small_value_payments,Stocks,150205,58,10,3.0,6.95935619178497
+Married,Entrepreneur,4,1,28.241300827733316,1292.35,644.4392770354692,Standard,Bad,-8.0,sdv-pii-yjfen,0.0,2389.880023846808,,Low_spent_Small_value_payments,Property,114176,1,10,11.0,11.192182607156209
+Single,Musician,1,1,29.371330349668042,2342.16,455.68305738772983,Poor,Bad,1.0,sdv-pii-9vh78,4.0,1710.5331845551632,,!@9#%8,No Collateral,79483,29,-1,7.0,2.2019342095457555
+Single,Scientist,2,1,34.82872695380284,2112.35,441.1813644860125,Good,Bad,-6.0,sdv-pii-whnxt,0.0,0.0,,Low_spent_Small_value_payments,Property,0,67,-4,7.0,0.9527045986142548
+Married,Musician,3,1,35.600020589131724,565.9,507.384020879133,Poor,Good,-5.0,sdv-pii-qzt75,14.0,40.007354777628564,,Low_spent_Medium_value_payments,Vehicle,76679,91,-5,16.0,1.950140303408836
